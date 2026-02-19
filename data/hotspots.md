@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-19T12:55:21.034141+08:00  
-总条数：188  
+更新时间：2026-02-19T14:26:11.745828+08:00  
+总条数：174  
 
 ## 1. RT by @WIRED: Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
 - 内容摘要：Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
@@ -56,7 +56,7 @@ Don't miss an episode, and subscribe to Build Mode right here: http://spr.ly/601
 
 ## 10. Is your startup’s check engine light on? Google Cloud’s VP explains what to do https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/?utm_source=dlvr.it&utm_medium=twitter
 - 内容摘要：Is your startup’s check engine light on? Google Cloud’s VP explains what to do techcrunch.com/video/is-your…
-- 图片：![](https://nitter.net/pic/card_img%2F2024294310758469632%2FJm57H388%3Fformat%3Djpg%26name%3D800x419)
+- 图片：![](https://nitter.net/pic/card_img%2F2024229632711471104%2FOunmT_d_%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/TechCrunch/status/2024230255461093450#m
 
 ## 11. Ring’s AI-powered Search Party won’t stop at finding lost dogs, leaked email shows https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion
@@ -103,7 +103,7 @@ Don't miss an episode, and subscribe to Build Mode right here: http://spr.ly/601
 
 For full details, and our recommendations to developers and policymakers, see the blog: https://www.anthropic.com/research/measuring-agent-autonomy
 - 内容摘要：A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone. For full details, and our recommendations to develope
-- 图片：![](https://nitter.net/pic/card_img%2F2024208173130010625%2FE-iOARQy%3Fformat%3Djpg%26name%3D800x419)
+- 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2024210056871629072#m
 
 ## 20. R to @AnthropicAI: Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. 
@@ -161,7 +161,7 @@ We analyzed millions of interactions across Claude Code and our API to understan
 
 Read more: https://www.anthropic.com/research/measuring-agent-autonomy
 - 内容摘要：New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and wha
-- 图片：![](https://nitter.net/pic/card_img%2F2024208173130010625%2FE-iOARQy%3Fformat%3Djpg%26name%3D800x419)
+- 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2024210035480678724#m
 
 ## 28. RT by @WIRED: Yesterday Nvidia & Meta announced a multi-billion dollar deal for chips in Meta's AI datacenters—both GPUs & CPUs. I wrote about why CPUs are back, and how Nvidia is adapting in an era when AI labs & tech co's are looking at every possible compute resource https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/
