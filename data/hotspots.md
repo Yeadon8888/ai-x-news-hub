@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-19T22:34:11.510096+08:00  
-总条数：193  
+更新时间：2026-02-20T00:25:49.131030+08:00  
+总条数：198  
 
 ## 1. RT by @WIRED: Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
 - 内容摘要：Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
@@ -179,58 +179,56 @@ Read more: https://www.anthropic.com/research/measuring-agent-autonomy
 - 图片：![](https://nitter.net/pic/card_img%2F2024085682868645888%2FmvT1FQUI%3Fformat%3Dpng%26name%3D800x419)
 - 链接：https://nitter.net/WIRED/status/2024204806856872190#m
 
-## 31. Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how to build your startup from the ground up, this is the pod for you.
-
-And new episode drops tomorrow with the start of our season on team building: http://spr.ly/6019hdhXL
-- 内容摘要：Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how 
-- 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024203517301231616%2Fimg%2FnzcajIWinzKzNjHT.jpg)
-- 链接：https://nitter.net/TechCrunch/status/2024203564906618912#m
-
-## 32. Polestar aims to shake off EV doldrums with 4 new models in 3 years https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe
+## 31. Polestar aims to shake off EV doldrums with 4 new models in 3 years https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe
 - 内容摘要：Polestar aims to shake off EV doldrums with 4 new models in 3 years theverge.com/transportation/…
 - 图片：![](https://nitter.net/pic/card_img%2F2024202876130906115%2FVlOZRSoR%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/verge/status/2024202875644366896#m
 
-## 33. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
+## 32. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
 
 See how it all comes together with Google Cloud to help elite athletes find their edge. → https://goo.gle/4r4A86z
 - 内容摘要：Not all the action happens on the mountain. There’s a lot that happens after every run. See how it all comes together with Google Cloud to help elite athletes find their edge. → goo.gle/4r4A86z Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024200959732207616%2Fimg%2FHV4Q2SHYq0RP3e-K.jpg)
 - 链接：https://nitter.net/googlecloud/status/2024201066640785837#m
 
-## 34. SeatGeek and Spotify team up to offer concert ticket sales inside the music platform https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/?utm_source=dlvr.it&utm_medium=twitter
-- 内容摘要：SeatGeek and Spotify team up to offer concert ticket sales inside the music platform techcrunch.com/2026/02/18/se…
-- 图片：![](https://nitter.net/pic/card_img%2F2024199653726834690%2F4t7G5bJq%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/TechCrunch/status/2024199650430079340#m
-
-## 35. Microsoft's new 10,000-year data storage medium: glass https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 33. Microsoft's new 10,000-year data storage medium: glass https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Microsoft's new 10,000-year data storage medium: glass arstechnica.com/science/2026…
 - 图片：![](https://nitter.net/pic/card_img%2F2024214937795518464%2F_I5UhHtS%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024198090702651854#m
 
-## 36. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
+## 34. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
 - 内容摘要：Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…
 - 图片：![](https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/OpenAI/status/2024193883748651102#m
 
-## 37. Amazon halts Blue Jay robotics project after less than six months https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/?utm_source=dlvr.it&utm_medium=twitter
-- 内容摘要：Amazon halts Blue Jay robotics project after less than six months techcrunch.com/2026/02/18/am…
-- 图片：![](https://nitter.net/pic/card_img%2F2022419986682433536%2FNZ31JYij%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/TechCrunch/status/2024189486566166956#m
-
-## 38. Mastodon, a decentralized alternative to X, plans to target creators with new features https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/?utm_source=dlvr.it&utm_medium=twitter
-- 内容摘要：Mastodon, a decentralized alternative to X, plans to target creators with new features techcrunch.com/2026/02/18/ma…
-- 图片：![](https://nitter.net/pic/card_img%2F2023937274183118848%2FUg32U0KJ%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/TechCrunch/status/2024187235634204867#m
-
-## 39. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
+## 35. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
 
 Try it in beta in the @GeminiApp
 - 内容摘要：Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶 Try it in beta in the @GeminiApp Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024186433339027868#m
 
-## 40. Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. https://www.wired.com/story/best-bamboo-sheets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+## 36. Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. https://www.wired.com/story/best-bamboo-sheets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. wired.com/story/best-bamboo-…
 - 图片：![](https://nitter.net/pic/card_img%2F2024065505418506240%2FOWvDTzuI%3Fformat%3Dpng%26name%3D800x419)
 - 链接：https://nitter.net/WIRED/status/2024186403702051150#m
+
+## 37. Microsoft is bringing a built-in network speed test to Windows 11 https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview
+- 内容摘要：Microsoft is bringing a built-in network speed test to Windows 11 theverge.com/tech/880756/win…
+- 图片：![](https://nitter.net/pic/card_img%2F2024185248981143552%2FYKriwvSI%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/verge/status/2024185248431689810#m
+
+## 38. Ken Watanabe didn’t think a kabuki movie would work https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho
+- 内容摘要：Ken Watanabe didn’t think a kabuki movie would work theverge.com/report/880620/k…
+- 图片：![](https://nitter.net/pic/card_img%2F2024178952445857792%2Fw28CDTJE%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/verge/status/2024178951820890566#m
+
+## 39. A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited. https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+- 内容摘要：A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited. wired.com/story/a-mega-trove…
+- 图片：![](https://nitter.net/pic/card_img%2F2024174752664080388%2F3tbzEh22%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/WIRED/status/2024174162357416246#m
+
+## 40. Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale
+- 内容摘要：Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price theverge.com/gadgets/880744/…
+- 图片：![](https://nitter.net/pic/card_img%2F2024171397678014464%2FJ7-imZvn%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/verge/status/2024171397216686141#m
