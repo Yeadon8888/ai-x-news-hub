@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-19T19:32:08.520292+08:00",
-  "count": 188,
+  "updated_at": "2026-02-19T20:32:21.640252+08:00",
+  "count": 172,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -472,15 +472,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
-      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
-      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "Pinned: We just dropped Lyria 3: our latest generative music model. 🔊 \n\nIt can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵",
+      "title": "We just dropped Lyria 3: our latest generative music model. 🔊 \n\nIt can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024153067654902014#m",
       "summary": "We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg",
@@ -536,14 +528,6 @@
       "source": "X/@verge"
     },
     {
-      "title": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all. https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024142319956406354#m",
-      "summary": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all. wired.com/story/big-tech-say…",
-      "image": "https://nitter.net/pic/card_img%2F2024142011155271682%2F2VMyuK7q%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Wed, 18 Feb 2026 15:21:50 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "Toyota’s C-HR electric hatchback starts at $38,135 https://www.theverge.com/transportation/880395/toyota-chr-ev-price-range-specs",
       "url": "https://nitter.net/verge/status/2024140171026022701#m",
       "summary": "Toyota’s C-HR electric hatchback starts at $38,135 theverge.com/transportation/…",
@@ -581,14 +565,6 @@
       "summary": "This former Microsoft PM thinks she can unseat CyberArk in 18 months techcrunch.com/2026/02/18/th…",
       "image": "https://nitter.net/pic/card_img%2F2024137591327514624%2FXJQLzWQ7%3Fformat%3Djpg%26name%3D800x419",
       "published": "Wed, 18 Feb 2026 15:02:25 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024133967310700646#m",
-      "summary": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI techcrunch.com/2026/02/18/mi…",
-      "image": "https://nitter.net/pic/card_img%2F2024133736351092736%2FHmhHh9Yw%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Wed, 18 Feb 2026 14:48:39 GMT",
       "source": "X/@TechCrunch"
     },
     {
@@ -662,14 +638,6 @@
       "image": "https://nitter.net/pic/card_img%2F2021834998400102400%2FL1ReHUdN%3Fformat%3Djpg%26name%3D800x419",
       "published": "Wed, 11 Feb 2026 21:15:03 GMT",
       "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting!",
-      "url": "https://nitter.net/xai/status/2021667200885829667#m",
-      "summary": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg",
-      "published": "Wed, 11 Feb 2026 19:26:36 GMT",
-      "source": "X/@xai"
     },
     {
       "title": "How could AI act as a better research collaborator? 🧑‍🔬\n\nIn two new papers with @GoogleResearch, we show how Gemini Deep Think uses agentic workflows to help solve research-level problems in mathematics, physics, and computer science.\n\nMore → https://goo.gle/4aGs3Pz",
@@ -856,18 +824,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
-      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
-      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
-      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
       "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
       "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
       "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
+      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
+      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
+      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -896,36 +864,20 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "We are excited about partnering with @fal on the new Grok Imagine API!",
-      "url": "https://nitter.net/xai/status/2016755009304568287#m",
-      "summary": "We are excited about partnering with @fal on the new Grok Imagine API! fal (@fal) fal is proud to partner with @xai as Grok Imagine’s day-0 platform partner xAI's latest image & video gen + editing model ✨ Stunning photorealistic images/videos from text ⚡ Lightning-fast generation 🎥 Dynamic animations with precise control 🎨 Edit elements, styles & more Video — https://nitter.net/fal/status/2016746472931283366#m",
-      "image": "https://nitter.net/pic/ext_tw_video_thumb%2F2016746354005950464%2Fpu%2Fimg%2FToC9bRtF9wG__GPX.jpg",
-      "published": "Thu, 29 Jan 2026 06:07:18 GMT",
-      "source": "X/@xai"
+      "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024449040658944443#m",
+      "summary": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions techcrunch.com/2026/02/19/re…",
+      "image": "https://nitter.net/pic/card_img%2F2024449399300976640%2FrFQa3PZy%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 11:40:38 GMT",
+      "source": "X/@TechCrunch"
     },
     {
-      "title": "Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api",
-      "url": "https://nitter.net/xai/status/2016751241226027302#m",
-      "summary": "Try the all new Grok Imagine API: x.ai/news/grok-imagine-api Artificial Analysis (@ArtificialAnlys) xAI's Grok Imagine takes the #1 spot in both Text to Video and Image to Video in the Artificial Analysis Video Arena, surpassing Runway Gen-4.5, Kling 2.5 Turbo, and Veo 3.1! Grok Imagine is the latest video model from @xAI , and joins an increasing roster of models such as Google's Veo and OpenAI's Sora supporting native audio generation alongside video output. The model is available via xAI's new Grok Imagine API only. It is priced at $4.20 per minute including audio, matching Kling 2.5 Turbo (without audio) and cheaper than Veo 3.1 Preview ($12/min) and Sora 2 Pro ($30/min). Congratulations @elonmusk and the xAI team. See below for comparisons between Grok Imagine and other leading models in our Artificial Analysis Video Arena — https://nitter.net/ArtificialAnlys/status/2016749756081721561#m",
-      "image": "https://nitter.net/pic/card_img%2F2023171954157436928%2FF8qcYD2P%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Thu, 29 Jan 2026 05:52:19 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "RT by @xai: 🚨BREAKING: @xAI’s first model in Video Arena debuts in the top 3!\n\nGrok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. \n\nIt is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models.\n\nGrok-Imagine-Video offers:\n- Text-to-video and image-to-video capabilities\n- Native audio generation\n- Up to 15-seconds video duration\n\nCongrats to @xAI on this strong launch!",
-      "url": "https://nitter.net/arena/status/2016748418635616440#m",
-      "summary": "🚨BREAKING: @xAI ’s first model in Video Arena debuts in the top 3! Grok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. It is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models. Grok-Imagine-Video offers: - Text-to-video and image-to-video capabilities - Native audio generation - Up to 15-seconds video duration Congrats to @xAI on this strong launch! xAI (@xai) Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your Imagination run wild. Video — https://nitter.net/xai/status/2016745652739363129#m",
-      "image": "https://nitter.net/pic/media%2FG_zsjvCbUAAP9Zv.jpg",
-      "published": "Thu, 29 Jan 2026 05:41:07 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: https://x.ai/news/grok-imagine-api\n\nTry it out and let your Imagination run wild.",
-      "url": "https://nitter.net/xai/status/2016745652739363129#m",
-      "summary": "Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your Imagination run wild. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2016745571508506625%2Fimg%2FL9iVxwKvINuIDrqf.jpg",
-      "published": "Thu, 29 Jan 2026 05:30:07 GMT",
-      "source": "X/@xai"
+      "title": "Lifting weights can keep you carrying groceries and riding bikes even as you get older. Here’s our guide to a simple home setup. https://www.wired.com/story/the-best-home-gym-setup/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2024448438645969086#m",
+      "summary": "Lifting weights can keep you carrying groceries and riding bikes even as you get older. Here’s our guide to a simple home setup. wired.com/story/the-best-hom…",
+      "image": "https://nitter.net/pic/card_img%2F2024447988605628417%2FLhtLZqIz%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 11:38:14 GMT",
+      "source": "X/@WIRED"
     },
     {
       "title": "Gay men have long been rumored to run Silicon Valley. WIRED investigates. https://www.wired.com/story/inside-the-gay-tech-mafia/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -939,7 +891,7 @@
       "title": "The biggest app in the whole wide world https://www.theverge.com/tech/876196/top-app-store-apps-developers",
       "url": "https://nitter.net/verge/status/2024440152714858765#m",
       "summary": "The biggest app in the whole wide world theverge.com/tech/876196/top…",
-      "image": null,
+      "image": "https://nitter.net/pic/card_img%2F2024438962702405632%2F5s5xh6jf%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 19 Feb 2026 11:05:19 GMT",
       "source": "X/@verge"
     },
@@ -1040,6 +992,30 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
       "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
       "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
       "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
@@ -1080,18 +1056,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
-      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022009265490472962%2FDzZn6ukq%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
       "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
       "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
+      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2022009265490472962%2FDzZn6ukq%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -1128,18 +1104,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
-      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
       "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
       "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
+      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -1160,52 +1136,12 @@
       "source": "X/@sama"
     },
     {
-      "title": "RT by @xai: BREAKING: @xAI’s Grok-Imagine-Video now #1 in Video Arena!\n\nFor the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4.\n\nHuge congrats to @xAI team and @elonmusk  on this incredible milestone!",
-      "url": "https://nitter.net/arena/status/2019204821551837665#m",
-      "summary": "BREAKING: @xAI ’s Grok-Imagine-Video now #1 in Video Arena! For the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4. Huge congrats to @xAI team and @elonmusk on this incredible milestone! xAI (@xai) Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video — https://nitter.net/xai/status/2018164753810764061#m",
-      "image": "https://nitter.net/pic/media%2FHAWnU70b0AAyHuM.jpg",
-      "published": "Thu, 05 Feb 2026 00:21:59 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
-      "url": "https://nitter.net/xai/status/2012964976953049486#m",
-      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
-      "url": "https://nitter.net/xai/status/2012964979041771522#m",
-      "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
-      "image": "https://nitter.net/pic/card_img%2F2022011859910746112%2F_7_DUgO8%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "Congrats to the winners of Grokathon London ’26! 🧵",
-      "url": "https://nitter.net/xai/status/2012964971764744306#m",
-      "summary": "Congrats to the winners of Grokathon London ’26! 🧵",
-      "image": null,
-      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings.\n\nOpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "url": "https://nitter.net/sama/status/2023150230905159801#m",
       "summary": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings. OpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "image": null,
       "published": "Sun, 15 Feb 2026 21:39:38 GMT",
       "source": "X/@sama"
-    },
-    {
-      "title": "The new image models are now available on Grok Imagine API. \n\nTry them at https://docs.x.ai/developers/model-capabilities/images/generation.",
-      "url": "https://nitter.net/xai/status/2020313728802242673#m",
-      "summary": "The new image models are now available on Grok Imagine API. Try them at docs.x.ai/developers/model-c… . Arena.ai (@arena) The new @xAI Grok-Imagine-Image model is a Pareto-optimal model in Image Arena: The Pareto frontier tells us which model has the highest Arena score at each price point. @xAi ’s latest models have improved the frontier, giving optimal performance in the mid-price tier. For a wide range of prices between 2c and 8c per image, @elonmusk ’s @xAI has the leading model, delivering the maximum performance. Top models on the Pareto frontier for Image Arena (Single Image Edit): - @OpenAI : GPT-Image-1.5-high-fidelity - @xAI : Grok Imagine Image Pro - @xAI : Grok Imagine Image - @bfl_ml : Flux 2 Klein 9B - @bfl_ml : Flux-2-Dev - @reve : V1.1 Fast See thread for how the frontier changes for Text-to-Image 🧵 — https://nitter.net/arena/status/2020215931646120004#m",
-      "image": "https://nitter.net/pic/media%2FHAk-_eAaAAAAGs_.jpg",
-      "published": "Sun, 08 Feb 2026 01:48:23 GMT",
-      "source": "X/@xai"
     },
     {
       "title": "R to @sama: These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
@@ -1272,6 +1208,14 @@
       "source": "X/@sama"
     },
     {
+      "title": "Best OpenAI sweatshirt ever",
+      "url": "https://nitter.net/sama/status/2023453083595141411#m",
+      "summary": "Best OpenAI sweatshirt ever",
+      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
+      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
+      "source": "X/@sama"
+    },
+    {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
       "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
       "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -1328,14 +1272,6 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @GoogleDeepMind: To support this research further, we’ve created an end-to-end demo with @GoogleResearch for working with the data, supporting new discoveries and scientific insights at scale.  \n\nFind out more →  https://goo.gle/4rd16sE",
-      "url": "https://nitter.net/GoogleDeepMind/status/2020933699211080029#m",
-      "summary": "To support this research further, we’ve created an end-to-end demo with @GoogleResearch for working with the data, supporting new discoveries and scientific insights at scale. Find out more → goo.gle/4rd16sE",
-      "image": "https://nitter.net/pic/card_img%2F2021193471143395328%2FKnGBIyYy%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Mon, 09 Feb 2026 18:51:55 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "R to @GoogleDeepMind: We believe Perch 2.0 is so successful at transferring bird data to underwater sounds because of its ability to:\n\nGeneralize: it can expertly categorize sounds not included in its training.\nClassify similar sounds: it’s forced to learn detailed acoustic features.\nRecognise diversity: identify a variety of species that have evolved vocalizations, yet still share structural characteristics.",
       "url": "https://nitter.net/GoogleDeepMind/status/2020933697084576102#m",
       "summary": "We believe Perch 2.0 is so successful at transferring bird data to underwater sounds because of its ability to: Generalize: it can expertly categorize sounds not included in its training. Classify similar sounds: it’s forced to learn detailed acoustic features. Recognise diversity: identify a variety of species that have evolved vocalizations, yet still share structural characteristics.",
@@ -1344,19 +1280,19 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: Perch 2.0 was evaluated on a range of whale vocalization tasks: distinguishing different baleen whale species, and killer whale subpopulations.\n\nCompared against pre-trained models, it landed consistently in the top or second-best performing model for each dataset and sample size.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2020933694148538383#m",
-      "summary": "Perch 2.0 was evaluated on a range of whale vocalization tasks: distinguishing different baleen whale species, and killer whale subpopulations. Compared against pre-trained models, it landed consistently in the top or second-best performing model for each dataset and sample size.",
-      "image": "https://nitter.net/pic/media%2FHAvMCfRaAAAEkqh.jpg",
-      "published": "Mon, 09 Feb 2026 18:51:54 GMT",
+      "title": "R to @GoogleDeepMind: To support this research further, we’ve created an end-to-end demo with @GoogleResearch for working with the data, supporting new discoveries and scientific insights at scale.  \n\nFind out more →  https://goo.gle/4rd16sE",
+      "url": "https://nitter.net/GoogleDeepMind/status/2020933699211080029#m",
+      "summary": "To support this research further, we’ve created an end-to-end demo with @GoogleResearch for working with the data, supporting new discoveries and scientific insights at scale. Find out more → goo.gle/4rd16sE",
+      "image": "https://nitter.net/pic/card_img%2F2021193471143395328%2FKnGBIyYy%3Fformat%3Djpg%26name%3D420x420_2",
+      "published": "Mon, 09 Feb 2026 18:51:55 GMT",
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: To extend the capabilities of Perch 2.0 for underwater sound identification, we leveraged transfer learning.\n\nThe pre-trained model can already understand sound, so we teach it to learn new parameters only for the final step in the process, applying it to a new species.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2020933690210037993#m",
-      "summary": "To extend the capabilities of Perch 2.0 for underwater sound identification, we leveraged transfer learning. The pre-trained model can already understand sound, so we teach it to learn new parameters only for the final step in the process, applying it to a new species.",
+      "title": "Our bioacoustics foundation model Perch was trained primarily on terrestrial animals - like birds. But Perch 2.0 is showing incredible performance on underwater acoustics.\n\nHere’s how it’s helping us listen to and understand marine ecosystems 🧵",
+      "url": "https://nitter.net/GoogleDeepMind/status/2020933684535361840#m",
+      "summary": "Our bioacoustics foundation model Perch was trained primarily on terrestrial animals - like birds. But Perch 2.0 is showing incredible performance on underwater acoustics. Here’s how it’s helping us listen to and understand marine ecosystems 🧵",
       "image": null,
-      "published": "Mon, 09 Feb 2026 18:51:53 GMT",
+      "published": "Mon, 09 Feb 2026 18:51:52 GMT",
       "source": "X/@GoogleDeepMind"
     },
     {
@@ -1368,52 +1304,12 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "One Team 🚀\nhttps://x.ai/news/xai-joins-spacex",
-      "url": "https://nitter.net/xai/status/2018441619230568627#m",
-      "summary": "One Team 🚀 x.ai/news/xai-joins-spacex",
-      "image": "https://nitter.net/pic/card_img%2F2023514611434291201%2Fi7jU6jQK%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Mon, 02 Feb 2026 21:49:17 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: We’d love your feedback on Imagine 1.0. \n\nShare your best creations, tag @xai, and let us know what you think - the team reads every reply. \n\nTry it now: http://grok.com/imagine",
-      "url": "https://nitter.net/xai/status/2018164980189999352#m",
-      "summary": "We’d love your feedback on Imagine 1.0. Share your best creations, tag @xai , and let us know what you think - the team reads every reply. Try it now: grok.com/imagine Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164971587391488%2Fimg%2FCRE_FuTsMQRovdoO.jpg",
-      "published": "Mon, 02 Feb 2026 03:30:01 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0.\n\nhttps://x.ai/news/grok-imagine-api",
-      "url": "https://nitter.net/xai/status/2018164970249412666#m",
-      "summary": "The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0. x.ai/news/grok-imagine-api",
-      "image": "https://nitter.net/pic/card_img%2F2023171954157436928%2FF8qcYD2P%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Mon, 02 Feb 2026 03:29:59 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "Introducing Grok Imagine 1.0, our biggest leap yet.\n\n1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio.\n\nImagine has generated 1.245 billion videos in the last 30 days alone.\n\nTry it now: http://grok.com/imagine",
-      "url": "https://nitter.net/xai/status/2018164753810764061#m",
-      "summary": "Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164699200999424%2Fimg%2FJh07MFVcUBi2tLiU.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:07 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "There’s still time to win a Golden Ticket to attend GTC ✨\n\nScore VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more.\n\nEnter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience.\n\nContest details ➡️ https://nvda.ws/464svEF",
       "url": "https://nitter.net/nvidia/status/2022401698753335714#m",
       "summary": "There’s still time to win a Golden Ticket to attend GTC ✨ Score VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more. Enter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience. Contest details ➡️ nvda.ws/464svEF",
       "image": "https://nitter.net/pic/media%2FHBEDn-6XkAAzP78.jpg",
       "published": "Fri, 13 Feb 2026 20:05:14 GMT",
       "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1424,27 +1320,11 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
-      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
-      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
-      "image": null,
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
-      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
-      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1488,26 +1368,18 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "Supercharge your X apps with Grok by unlocking free xAI API credits!\n\nFor every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend.\n\nDetails: https://docs.x.com/overview#pricing",
-      "url": "https://nitter.net/xai/status/2019914112743219453#m",
-      "summary": "Supercharge your X apps with Grok by unlocking free xAI API credits! For every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend. Details: docs.x.com/overview#pricing Developers (@XDevelopers) Officially launching X API Pay-Per-Use The core of X developers are indie builders, early stage products, startups, and hobbyists It’s time to open up our X API ecosystem and instill a new wave of next generation X apps We’re so back. developer.x.com — https://nitter.net/XDevelopers/status/2019881223666233717#m",
-      "image": "https://nitter.net/pic/card_img%2F2021594383942828032%2F-oapL-zt%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 06 Feb 2026 23:20:27 GMT",
-      "source": "X/@xai"
+      "title": "R to @OpenAI:",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "summary": "Video",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
+      "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
       "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
       "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
-      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
-      "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
