@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-19T17:30:17.773685+08:00",
-  "count": 177,
+  "updated_at": "2026-02-19T18:30:31.977951+08:00",
+  "count": 193,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -296,6 +296,14 @@
       "source": "X/@arstechnica"
     },
     {
+      "title": "Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/",
+      "url": "https://nitter.net/OpenAI/status/2024193883748651102#m",
+      "summary": "Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Wed, 18 Feb 2026 18:46:44 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
       "title": "Amazon halts Blue Jay robotics project after less than six months https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024189486566166956#m",
       "summary": "Amazon halts Blue Jay robotics project after less than six months techcrunch.com/2026/02/18/am…",
@@ -307,7 +315,7 @@
       "title": "Mastodon, a decentralized alternative to X, plans to target creators with new features https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024187235634204867#m",
       "summary": "Mastodon, a decentralized alternative to X, plans to target creators with new features techcrunch.com/2026/02/18/ma…",
-      "image": "https://nitter.net/pic/card_img%2F2021935902675685376%2FxmZQFcwZ%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2023937274183118848%2FUg32U0KJ%3Fformat%3Djpg%26name%3D800x419",
       "published": "Wed, 18 Feb 2026 18:20:19 GMT",
       "source": "X/@TechCrunch"
     },
@@ -464,7 +472,15 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "We just dropped Lyria 3: our latest generative music model. 🔊 \n\nIt can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵",
+      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
+      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
+      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "Pinned: We just dropped Lyria 3: our latest generative music model. 🔊 \n\nIt can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024153067654902014#m",
       "summary": "We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg",
@@ -579,7 +595,7 @@
       "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024133967310700646#m",
       "summary": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI techcrunch.com/2026/02/18/mi…",
-      "image": "https://nitter.net/pic/card_img%2F2024133736351092736%2FkQ5cbqi6%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024133736351092736%2FHmhHh9Yw%3Fformat%3Djpg%26name%3D800x419",
       "published": "Wed, 18 Feb 2026 14:48:39 GMT",
       "source": "X/@TechCrunch"
     },
@@ -630,14 +646,6 @@
       "image": null,
       "published": "Wed, 18 Feb 2026 11:06:02 GMT",
       "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "“We would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.” https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024077929156669940#m",
-      "summary": "“We would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.” wired.com/story/ai-agent-ren…",
-      "image": "https://nitter.net/pic/card_img%2F2024077515359477760%2FauXOOjs3%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Wed, 18 Feb 2026 11:05:58 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
@@ -872,12 +880,44 @@
       "source": "X/@sama"
     },
     {
+      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
+      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
+      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
+      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
+      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
+      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
+      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
       "title": "RT by @nvidia: 🦾 @SKhynix and NVIDIA are accelerating semiconductor development with AI physics. \n\nBy leveraging the NVIDIA PhysicsNeMo framework, SK hynix engineers have fast-tracked the development of proprietary AI models that can unlock tools for significant innovation in device design and manufacturing.\n\nRead our tech blog: https://nvda.ws/4tuyg8w\n\n#SEMICONKorea",
       "url": "https://nitter.net/NVIDIADC/status/2021298122987635068#m",
       "summary": "🦾 @SKhynix and NVIDIA are accelerating semiconductor development with AI physics. By leveraging the NVIDIA PhysicsNeMo framework, SK hynix engineers have fast-tracked the development of proprietary AI models that can unlock tools for significant innovation in device design and manufacturing. Read our tech blog: nvda.ws/4tuyg8w #SEMICONKorea",
       "image": "https://nitter.net/pic/media%2FHA0QZU9XwAEBsGy.png",
       "published": "Tue, 10 Feb 2026 19:00:01 GMT",
       "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @OpenAI: Listen to the OpenAI Podcast on—\nSpotify\nhttps://open.spotify.com/episode/0qR8WghMlv19sF08bQDClM?si=HS9Pr2XLTMusVXGyAbWhfw\nApple\nhttps://podcasts.apple.com/us/podcast/episode-13-the-thinking-behind-ads-in-chatgpt/id1820330260?i=1000748954840\nYouTube\nhttps://youtu.be/2agJo3Jf_O4",
+      "url": "https://nitter.net/OpenAI/status/2021025336897700114#m",
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/0qR… Apple podcasts.apple.com/us/podcas… YouTube piped.video/2agJo3Jf_O4",
+      "image": "https://nitter.net/pic/card_img%2F2023835392454389760%2FGRejdARy%3Fformat%3Djpg%26name%3D800x320_1",
+      "published": "Tue, 10 Feb 2026 00:56:03 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "This week's podcast is all about ads.\n\nAsad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all.",
+      "url": "https://nitter.net/OpenAI/status/2021025290366091442#m",
+      "summary": "This week's podcast is all about ads. Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all. Video",
+      "image": "https://nitter.net/pic/media%2FHAu1kHKbsAAXOK3.jpg",
+      "published": "Tue, 10 Feb 2026 00:55:52 GMT",
+      "source": "X/@OpenAI"
     },
     {
       "title": "We are excited about partnering with @fal on the new Grok Imagine API!",
@@ -910,6 +950,14 @@
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2016745571508506625%2Fimg%2FL9iVxwKvINuIDrqf.jpg",
       "published": "Thu, 29 Jan 2026 05:30:07 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful. https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2024425503516455132#m",
+      "summary": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful. wired.com/story/how-to-organ…",
+      "image": "https://nitter.net/pic/card_img%2F2024425058241040386%2FnnLY-0Au%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 10:07:06 GMT",
+      "source": "X/@WIRED"
     },
     {
       "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/?utm_source=dlvr.it&utm_medium=twitter",
@@ -1056,6 +1104,22 @@
       "source": "X/@sama"
     },
     {
+      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
+      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
+      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
+      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2022009265490472962%2FDzZn6ukq%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
       "title": "RT by @GoogleDeepMind: Early testers of Gemini 3 Deep Think are already seeing results.\n\nWe partnered with researchers to explore how this model could tackle rigorous, real-world applications — from spotting hidden flaws in research papers to optimizing semiconductor growth.\n\nHere’s how early testers are using Gemini 3 Deep Think to help solve the \"unsolvable\" 🧵↓",
       "url": "https://nitter.net/Google/status/2022007977419415958#m",
       "summary": "Early testers of Gemini 3 Deep Think are already seeing results. We partnered with researchers to explore how this model could tackle rigorous, real-world applications — from spotting hidden flaws in research papers to optimizing semiconductor growth. Here’s how early testers are using Gemini 3 Deep Think to help solve the \"unsolvable\" 🧵↓",
@@ -1088,18 +1152,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
-      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
-      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
       "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
+      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
+      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -1240,14 +1304,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "Best OpenAI sweatshirt ever",
-      "url": "https://nitter.net/sama/status/2023453083595141411#m",
-      "summary": "Best OpenAI sweatshirt ever",
-      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
-      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
-      "source": "X/@sama"
-    },
-    {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
       "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
       "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -1296,12 +1352,12 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @GoogleDeepMind: We believe Perch 2.0 is so successful at transferring bird data to underwater sounds because of its ability to:\n\nGeneralize: it can expertly categorize sounds not included in its training.\nClassify similar sounds: it’s forced to learn detailed acoustic features.\nRecognise diversity: identify a variety of species that have evolved vocalizations, yet still share structural characteristics.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2020933697084576102#m",
-      "summary": "We believe Perch 2.0 is so successful at transferring bird data to underwater sounds because of its ability to: Generalize: it can expertly categorize sounds not included in its training. Classify similar sounds: it’s forced to learn detailed acoustic features. Recognise diversity: identify a variety of species that have evolved vocalizations, yet still share structural characteristics.",
-      "image": "https://nitter.net/pic/media%2FHAvMO21aAAEJWv7.jpg",
-      "published": "Mon, 09 Feb 2026 18:51:55 GMT",
-      "source": "X/@GoogleDeepMind"
+      "title": "We’re starting to roll out a test for ads in ChatGPT today to a subset of free and Go users in the U.S.\n\nAds do not influence ChatGPT’s answers. Ads are labeled as sponsored and visually separate from the response.\n\nOur goal is to give everyone access to ChatGPT for free with fewer limits, while protecting the trust they place in it for important and personal tasks.\n\nhttp://openai.com/index/testing-ads-in-chatgpt/",
+      "url": "https://nitter.net/OpenAI/status/2020936703763153010#m",
+      "summary": "We’re starting to roll out a test for ads in ChatGPT today to a subset of free and Go users in the U.S. Ads do not influence ChatGPT’s answers. Ads are labeled as sponsored and visually separate from the response. Our goal is to give everyone access to ChatGPT for free with fewer limits, while protecting the trust they place in it for important and personal tasks. openai.com/index/testing-ads…",
+      "image": "https://nitter.net/pic/media%2FHAvNn4GbwAA7ykr.jpg",
+      "published": "Mon, 09 Feb 2026 19:03:52 GMT",
+      "source": "X/@OpenAI"
     },
     {
       "title": "R to @GoogleDeepMind: To support this research further, we’ve created an end-to-end demo with @GoogleResearch for working with the data, supporting new discoveries and scientific insights at scale.  \n\nFind out more →  https://goo.gle/4rd16sE",
@@ -1312,12 +1368,36 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Our bioacoustics foundation model Perch was trained primarily on terrestrial animals - like birds. But Perch 2.0 is showing incredible performance on underwater acoustics.\n\nHere’s how it’s helping us listen to and understand marine ecosystems 🧵",
-      "url": "https://nitter.net/GoogleDeepMind/status/2020933684535361840#m",
-      "summary": "Our bioacoustics foundation model Perch was trained primarily on terrestrial animals - like birds. But Perch 2.0 is showing incredible performance on underwater acoustics. Here’s how it’s helping us listen to and understand marine ecosystems 🧵",
-      "image": null,
-      "published": "Mon, 09 Feb 2026 18:51:52 GMT",
+      "title": "R to @GoogleDeepMind: We believe Perch 2.0 is so successful at transferring bird data to underwater sounds because of its ability to:\n\nGeneralize: it can expertly categorize sounds not included in its training.\nClassify similar sounds: it’s forced to learn detailed acoustic features.\nRecognise diversity: identify a variety of species that have evolved vocalizations, yet still share structural characteristics.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2020933697084576102#m",
+      "summary": "We believe Perch 2.0 is so successful at transferring bird data to underwater sounds because of its ability to: Generalize: it can expertly categorize sounds not included in its training. Classify similar sounds: it’s forced to learn detailed acoustic features. Recognise diversity: identify a variety of species that have evolved vocalizations, yet still share structural characteristics.",
+      "image": "https://nitter.net/pic/media%2FHAvMO21aAAEJWv7.jpg",
+      "published": "Mon, 09 Feb 2026 18:51:55 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: Perch 2.0 was evaluated on a range of whale vocalization tasks: distinguishing different baleen whale species, and killer whale subpopulations.\n\nCompared against pre-trained models, it landed consistently in the top or second-best performing model for each dataset and sample size.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2020933694148538383#m",
+      "summary": "Perch 2.0 was evaluated on a range of whale vocalization tasks: distinguishing different baleen whale species, and killer whale subpopulations. Compared against pre-trained models, it landed consistently in the top or second-best performing model for each dataset and sample size.",
+      "image": "https://nitter.net/pic/media%2FHAvMCfRaAAAEkqh.jpg",
+      "published": "Mon, 09 Feb 2026 18:51:54 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: To extend the capabilities of Perch 2.0 for underwater sound identification, we leveraged transfer learning.\n\nThe pre-trained model can already understand sound, so we teach it to learn new parameters only for the final step in the process, applying it to a new species.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2020933690210037993#m",
+      "summary": "To extend the capabilities of Perch 2.0 for underwater sound identification, we leveraged transfer learning. The pre-trained model can already understand sound, so we teach it to learn new parameters only for the final step in the process, applying it to a new species.",
+      "image": null,
+      "published": "Mon, 09 Feb 2026 18:51:53 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "Pinned: You can just build things.",
+      "url": "https://nitter.net/OpenAI/status/2020649757434327362#m",
+      "summary": "You can just build things. Video",
+      "image": "https://nitter.net/pic/media%2FHAqlTMtacAAbhZH.jpg",
+      "published": "Mon, 09 Feb 2026 00:03:38 GMT",
+      "source": "X/@OpenAI"
     },
     {
       "title": "One Team 🚀\nhttps://x.ai/news/xai-joins-spacex",
@@ -1392,6 +1472,30 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
+      "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
+      "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
+      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "GPT-5.2 derived a new result in theoretical physics.\n\nWe’re releasing the result in a preprint with researchers from @the_IAS, @VanderbiltU, @Cambridge_Uni, and @Harvard. It shows that a gluon interaction many physicists expected would not occur can arise under specific conditions.\n\nhttps://openai.com/index/new-result-theoretical-physics/",
+      "url": "https://nitter.net/OpenAI/status/2022390096625078389#m",
+      "summary": "GPT-5.2 derived a new result in theoretical physics. We’re releasing the result in a preprint with researchers from @the_IAS , @VanderbiltU , @Cambridge_Uni , and @Harvard . It shows that a gluon interaction many physicists expected would not occur can arise under specific conditions. openai.com/index/new-result-…",
+      "image": "https://nitter.net/pic/card_img%2F2022420787576160256%2FUgvyYtCp%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 13 Feb 2026 19:19:07 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
       "title": "R to @GoogleDeepMind: U.S. Google AI Ultra subscribers can start creating  ↓\nhttps://labs.google/projectgenie",
       "url": "https://nitter.net/GoogleDeepMind/status/2022357085250556076#m",
       "summary": "U.S. Google AI Ultra subscribers can start creating ↓ labs.google/projectgenie",
@@ -1430,6 +1534,30 @@
       "image": "https://nitter.net/pic/card_img%2F2021594383942828032%2F-oapL-zt%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 06 Feb 2026 23:20:27 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "R to @OpenAI:",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "summary": "Video",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI:",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "summary": "Video",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "Over 300M people use ChatGPT to learn how to do something every week. \n\nMore than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. \n\nThese are just a few stories of what they are building.",
+      "url": "https://nitter.net/OpenAI/status/2019822532795547807#m",
+      "summary": "Over 300M people use ChatGPT to learn how to do something every week. More than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. These are just a few stories of what they are building. Video",
+      "image": "https://nitter.net/pic/media%2FHAfZ9lWaoAA47ME.png",
+      "published": "Fri, 06 Feb 2026 17:16:32 GMT",
+      "source": "X/@OpenAI"
     }
   ],
   "note": "数据来自 X 公开镜像 RSS（Nitter），可用性受镜像状态影响。"

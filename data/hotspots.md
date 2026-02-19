@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-19T17:30:17.773685+08:00  
-总条数：177  
+更新时间：2026-02-19T18:30:31.977951+08:00  
+总条数：193  
 
 ## 1. RT by @WIRED: Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
 - 内容摘要：Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
@@ -208,29 +208,29 @@ See how it all comes together with Google Cloud to help elite athletes find thei
 - 图片：![](https://nitter.net/pic/card_img%2F2024214937795518464%2F_I5UhHtS%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024198090702651854#m
 
-## 36. Amazon halts Blue Jay robotics project after less than six months https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/?utm_source=dlvr.it&utm_medium=twitter
+## 36. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
+- 内容摘要：Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…
+- 图片：![](https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/OpenAI/status/2024193883748651102#m
+
+## 37. Amazon halts Blue Jay robotics project after less than six months https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/?utm_source=dlvr.it&utm_medium=twitter
 - 内容摘要：Amazon halts Blue Jay robotics project after less than six months techcrunch.com/2026/02/18/am…
 - 图片：![](https://nitter.net/pic/card_img%2F2022419986682433536%2FNZ31JYij%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/TechCrunch/status/2024189486566166956#m
 
-## 37. Mastodon, a decentralized alternative to X, plans to target creators with new features https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/?utm_source=dlvr.it&utm_medium=twitter
+## 38. Mastodon, a decentralized alternative to X, plans to target creators with new features https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/?utm_source=dlvr.it&utm_medium=twitter
 - 内容摘要：Mastodon, a decentralized alternative to X, plans to target creators with new features techcrunch.com/2026/02/18/ma…
-- 图片：![](https://nitter.net/pic/card_img%2F2021935902675685376%2FxmZQFcwZ%3Fformat%3Djpg%26name%3D800x419)
+- 图片：![](https://nitter.net/pic/card_img%2F2023937274183118848%2FUg32U0KJ%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/TechCrunch/status/2024187235634204867#m
 
-## 38. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
+## 39. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
 
 Try it in beta in the @GeminiApp
 - 内容摘要：Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶 Try it in beta in the @GeminiApp Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024186433339027868#m
 
-## 39. Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. https://www.wired.com/story/best-bamboo-sheets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+## 40. Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. https://www.wired.com/story/best-bamboo-sheets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. wired.com/story/best-bamboo-…
 - 图片：![](https://nitter.net/pic/card_img%2F2024065505418506240%2FOWvDTzuI%3Fformat%3Dpng%26name%3D800x419)
 - 链接：https://nitter.net/WIRED/status/2024186403702051150#m
-
-## 40. Data breach at fintech giant Figure affects close to a million customers https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/?utm_source=dlvr.it&utm_medium=twitter
-- 内容摘要：Data breach at fintech giant Figure affects close to a million customers techcrunch.com/2026/02/18/da…
-- 图片：![](https://nitter.net/pic/card_img%2F2024207238017990656%2F3qacAGSH%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/TechCrunch/status/2024186068619432415#m
