@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-20T04:31:04.192805+08:00",
-  "count": 194,
+  "updated_at": "2026-02-20T05:31:20.774718+08:00",
+  "count": 196,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -196,6 +196,14 @@
       "url": "https://nitter.net/GoogleDeepMind/status/2024153072046424556#m",
       "summary": "We’re giving creators more control over what they produce, helping them steer: 🔵 Tempo settings 🔵 Specific vocal styles 🔵 Precise lyrics Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg",
+      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
+      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
       "published": "Wed, 18 Feb 2026 16:04:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -464,6 +472,78 @@
       "source": "X/@xai"
     },
     {
+      "title": "An AI data center boom is fueling Redwood’s energy storage business https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024592887250636964#m",
+      "summary": "An AI data center boom is fueling Redwood’s energy storage business techcrunch.com/2026/02/19/an…",
+      "image": "https://nitter.net/pic/card_img%2F2024593198337728514%2F-LhKDyIO%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 21:12:14 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Meta’s VR metaverse is ditching VR https://www.theverge.com/tech/881647/meta-vr-mobile-metaverse-horizon-worlds",
+      "url": "https://nitter.net/verge/status/2024587989725434183#m",
+      "summary": "Meta’s VR metaverse is ditching VR theverge.com/tech/881647/met…",
+      "image": "https://nitter.net/pic/card_img%2F2024587990358790144%2FZZd3bjeS%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:52:46 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "RT by @WIRED: SCOOP: MAGA's exclusive private club has an unusual figure in its inner circle—a former DC cop best known for a viral stop-and-frisk video that led to a lawsuit https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/",
+      "url": "https://nitter.net/Knibbs/status/2024587322746888296#m",
+      "summary": "SCOOP: MAGA's exclusive private club has an unusual figure in its inner circle—a former DC cop best known for a viral stop-and-frisk video that led to a lawsuit wired.com/story/magas-secret…",
+      "image": "https://nitter.net/pic/card_img%2F2024587601257385987%2FtKXVW563%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:50:07 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Why these startup CEOs don’t think AI will replace human roles https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024587199162044488#m",
+      "summary": "Why these startup CEOs don’t think AI will replace human roles techcrunch.com/2026/02/19/we…",
+      "image": "https://nitter.net/pic/card_img%2F2024586981728993280%2FKYLkFPc7%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:49:37 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer. https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2024586638203003327#m",
+      "summary": "The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer. wired.com/story/magas-secret…",
+      "image": "https://nitter.net/pic/card_img%2F2024587601257385987%2FtKXVW563%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:47:24 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "YouTube’s latest experiment brings its conversational AI tool to TVs https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024583322245251327#m",
+      "summary": "YouTube’s latest experiment brings its conversational AI tool to TVs techcrunch.com/2026/02/19/yo…",
+      "image": "https://nitter.net/pic/card_img%2F2024582678553776128%2FPdACrAPt%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:34:13 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Toyota hires seven Agility humanoid robots for Canadian factory https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024582676108497013#m",
+      "summary": "Toyota hires seven Agility humanoid robots for Canadian factory techcrunch.com/2026/02/19/to…",
+      "image": "https://nitter.net/pic/card_img%2F2024583118825410560%2F0ims9NKV%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:31:39 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "RT by @WIRED: wired.com/story/pew-pew-the-…",
+      "url": "https://nitter.net/car0linehaskins/status/2024581312359645191#m",
+      "summary": "wired.com/story/pew-pew-the-…",
+      "image": "https://nitter.net/pic/card_img%2F2024577199777501184%2F09G5mNTj%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 20:26:14 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "RT by @WIRED: just had my debut Made in China guest appearance!! : ) got to collab with @lmatsakis on this piece about the Chinese companies selling anti-drone tech on TikTok, featuring the opening line \"PEW, PEW, PEW!\"\n\nlink in reply!",
+      "url": "https://nitter.net/car0linehaskins/status/2024581282424934595#m",
+      "summary": "just had my debut Made in China guest appearance!! : ) got to collab with @lmatsakis on this piece about the Chinese companies selling anti-drone tech on TikTok, featuring the opening line \"PEW, PEW, PEW!\" link in reply!",
+      "image": "https://nitter.net/pic/media%2FHBjB7jWWIAA1qdW.jpg",
+      "published": "Thu, 19 Feb 2026 20:26:07 GMT",
+      "source": "X/@WIRED"
+    },
+    {
       "title": "Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how to build your startup from the ground up, this is the pod for you.\n\nOur season on team building just started, and you can catch up on that and all of our episodes here: http://spr.ly/6018he8IE",
       "url": "https://nitter.net/TechCrunch/status/2024580560807453169#m",
       "summary": "Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how to build your startup from the ground up, this is the pod for you. Our season on team building just started, and you can catch up on that and all of our episodes here: spr.ly/6018he8IE Video",
@@ -499,7 +579,7 @@
       "title": "RT by @WIRED: “Pew, pew, pew!” a woman wearing sneakers and high-waisted pink trousers says cheerfully in a video uploaded to TikTok. “Jamming gun, good,” she adds, flashing a thumbs up. “Contact me!” \n\n very fun story I worked on w/ Caroline Haskins:\nhttps://www.wired.com/story/pew-pew-the-chinese-sellers-marketing-military-drones-on-tiktok/",
       "url": "https://nitter.net/lmatsakis/status/2024575129431486552#m",
       "summary": "“Pew, pew, pew!” a woman wearing sneakers and high-waisted pink trousers says cheerfully in a video uploaded to TikTok. “Jamming gun, good,” she adds, flashing a thumbs up. “Contact me!” very fun story I worked on w/ Caroline Haskins: wired.com/story/pew-pew-the-…",
-      "image": "https://nitter.net/pic/card_img%2F2024574936707407872%2FoNRy-D-w%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024577199777501184%2F09G5mNTj%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 19 Feb 2026 20:01:40 GMT",
       "source": "X/@WIRED"
     },
@@ -763,7 +843,7 @@
       "title": "Zuckerberg grilled in court over social media harms on teens https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024526042254496159#m",
       "summary": "Zuckerberg grilled in court over social media harms on teens techcrunch.com/2026/02/19/zu…",
-      "image": "https://nitter.net/pic/card_img%2F2024525010023415808%2FZH_Z9meZ%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024584322133708800%2FcPJPf6-9%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 19 Feb 2026 16:46:37 GMT",
       "source": "X/@TechCrunch"
     },
@@ -816,7 +896,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -912,14 +992,6 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024495494500929679#m",
-      "summary": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai techcrunch.com/2026/02/19/co…",
-      "image": "https://nitter.net/pic/card_img%2F2024496004473446400%2FLKY-PTP4%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 14:45:13 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Abxylute’s new Switch 2 controller prototype has one big problem https://www.theverge.com/tech/880971/abxylute-n6-switch-2-hands-on-controller",
       "url": "https://nitter.net/verge/status/2024487511536652598#m",
       "summary": "Abxylute’s new Switch 2 controller prototype has one big problem theverge.com/tech/880971/abx…",
@@ -936,22 +1008,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "This former Big Tech engineers are using AI to navigate Trump’s trade chaos https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024485986370204020#m",
-      "summary": "This former Big Tech engineers are using AI to navigate Trump’s trade chaos techcrunch.com/2026/02/19/th…",
-      "image": "https://nitter.net/pic/card_img%2F2024484995356614658%2Fl8kIbe7c%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 14:07:26 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "For open-source programs, AI coding tools are a mixed blessing https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024485289385918675#m",
-      "summary": "For open-source programs, AI coding tools are a mixed blessing techcrunch.com/2026/02/19/fo…",
-      "image": "https://nitter.net/pic/card_img%2F2023865569653444609%2Foi2LzQdZ%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 14:04:40 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Google adds a camera to Snapseed on iOS https://www.theverge.com/tech/881260/google-snapseed-ios-camera-manual-controls-film-filters",
       "url": "https://nitter.net/verge/status/2024484743052743019#m",
       "summary": "Google adds a camera to Snapseed on iOS theverge.com/tech/881260/goo…",
@@ -966,14 +1022,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024482223018397696%2FYyxRGsjC%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 19 Feb 2026 13:52:29 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024481900082188318#m",
-      "summary": "Altman and Amodei share a moment of awkwardness at India’s big AI summit techcrunch.com/2026/02/19/al…",
-      "image": "https://nitter.net/pic/card_img%2F2024481902867214336%2FVhR4fxHI%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 13:51:12 GMT",
-      "source": "X/@TechCrunch"
     },
     {
       "title": "Rare gifted word-learner dogs like to share their toys https://arstechnica.com/science/2026/02/rare-gifted-word-learner-dogs-like-to-share-their-toys/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
@@ -1005,38 +1053,6 @@
       "summary": "Lifting weights can keep you carrying groceries and riding bikes even as you get older. Here’s our guide to a simple home setup. wired.com/story/the-best-hom…",
       "image": "https://nitter.net/pic/card_img%2F2024447988605628417%2FLhtLZqIz%3Fformat%3Dpng%26name%3D800x419",
       "published": "Thu, 19 Feb 2026 11:38:14 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "Gay men have long been rumored to run Silicon Valley. WIRED investigates. https://www.wired.com/story/inside-the-gay-tech-mafia/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024441004183470561#m",
-      "summary": "Gay men have long been rumored to run Silicon Valley. WIRED investigates. wired.com/story/inside-the-g…",
-      "image": "https://nitter.net/pic/card_img%2F2024467193040117762%2F_S1gKbRo%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 11:08:42 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "The biggest app in the whole wide world https://www.theverge.com/tech/876196/top-app-store-apps-developers",
-      "url": "https://nitter.net/verge/status/2024440152714858765#m",
-      "summary": "The biggest app in the whole wide world theverge.com/tech/876196/top…",
-      "image": "https://nitter.net/pic/card_img%2F2024438962702405632%2F5s5xh6jf%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 11:05:19 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful. https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024425503516455132#m",
-      "summary": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful. wired.com/story/how-to-organ…",
-      "image": "https://nitter.net/pic/card_img%2F2024489572332146689%2F7E1JgwU2%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 10:07:06 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "RT by @WIRED: In his first testimony before a federal jury, Mark Zuckerberg stuck to a playbook of corporate talking points. But he didn't seem to expect references to his last Joe Rogan interview or a question about what exactly \"addictive\" means.\nhttps://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
-      "url": "https://nitter.net/youwouldntpost/status/2024306949698048360#m",
-      "summary": "In his first testimony before a federal jury, Mark Zuckerberg stuck to a playbook of corporate talking points. But he didn't seem to expect references to his last Joe Rogan interview or a question about what exactly \"addictive\" means. wired.com/story/mark-zuckerb…",
-      "image": "https://nitter.net/pic/card_img%2F2024306636035092481%2FEGJdhp94%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 02:16:01 GMT",
       "source": "X/@WIRED"
     },
     {
@@ -1123,7 +1139,7 @@
       "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
       "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022009265490472962%2FnxNYqxOf%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -1168,18 +1184,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
-      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
-      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
       "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
+      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
+      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },

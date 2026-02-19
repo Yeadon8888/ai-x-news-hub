@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-20T04:31:04.192805+08:00  
-总条数：194  
+更新时间：2026-02-20T05:31:20.774718+08:00  
+总条数：196  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -157,41 +157,50 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153072046424556#m
 
-## 24. We just dropped Lyria 3: our latest generative music model. 🔊 
+## 24. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
+🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.
+🔵 Realistic vocals that sound natural and expressive.
+🔵 Lyrical clarity without missing or jumbled words.
+🔵 Diverse range supporting multiple genres and languages.
+- 内容摘要：Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 D
+- 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg)
+- 链接：https://nitter.net/GoogleDeepMind/status/2024153069919813993#m
+
+## 25. We just dropped Lyria 3: our latest generative music model. 🔊 
 
 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵
 - 内容摘要：We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153067654902014#m
 
-## 25. Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 26. Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear arstechnica.com/gadgets/2026…
 - 图片：![](https://nitter.net/pic/card_img%2F2024139837935104000%2FKckLWs7v%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024138911799452044#m
 
-## 26. What the Chinese art of tian-tsui has to do with kingfishers https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 27. What the Chinese art of tian-tsui has to do with kingfishers https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：What the Chinese art of tian-tsui has to do with kingfishers arstechnica.com/science/2026…
 - 图片：![](https://nitter.net/pic/card_img%2F2024136038759702529%2FmONqxNp0%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024130097851281551#m
 
-## 27. Inside the DHS forum where ICE agents trash talk one another https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 28. Inside the DHS forum where ICE agents trash talk one another https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Inside the DHS forum where ICE agents trash talk one another arstechnica.com/tech-policy/…
 - 图片：![](https://nitter.net/pic/card_img%2F2024136360995553280%2FDQF9K2t8%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024126320482165187#m
 
-## 28. Hallucinogen DMT an effective antidepressant in small clinical trial https://arstechnica.com/health/2026/02/hallucinogen-dmt-an-effective-antidepressant-in-small-clinical-trial/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 29. Hallucinogen DMT an effective antidepressant in small clinical trial https://arstechnica.com/health/2026/02/hallucinogen-dmt-an-effective-antidepressant-in-small-clinical-trial/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Hallucinogen DMT an effective antidepressant in small clinical trial arstechnica.com/health/2026/…
 - 图片：![](https://nitter.net/pic/card_img%2F2024095072417918976%2FMmNecxAq%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024093456390570461#m
 
-## 29. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
+## 30. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
 
 From training and mentorship for students to powering innovation hubs, we’re supporting India to apply AI where it can have the most impact. → https://goo.gle/4rrFYiy
 - 内容摘要：We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳 From training and mentorship for students to powering innovation hubs, we’re supporting I
 - 图片：无
 - 链接：https://nitter.net/GoogleDeepMind/status/2024077945413816476#m
 
-## 30. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
+## 31. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
 
 With NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys, @Persistentsys, @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare.
 
@@ -200,7 +209,7 @@ Read more: https://nvda.ws/4bOuoZQ
 - 图片：![](https://nitter.net/pic/media%2FHBZujdaW4AAsysJ.jpg)
 - 链接：https://nitter.net/NVIDIAAP/status/2023926641961955484#m
 
-## 31. India is entering a new age of industrialization. 👏
+## 32. India is entering a new age of industrialization. 👏
 
 India’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence, @Siemens, @Synopsys.
 
@@ -211,7 +220,7 @@ Together, we're advancing the nation’s AI boom using applications accelerated 
 - 图片：![](https://nitter.net/pic/media%2FHBZnXMCXQAEmk_O.jpg)
 - 链接：https://nitter.net/nvidia/status/2023918736881623505#m
 
-## 32. We're committing to cover electricity price increases from our data centers.
+## 33. We're committing to cover electricity price increases from our data centers.
 
 To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.
 
@@ -220,14 +229,14 @@ Read more: https://www.anthropic.com/news/covering-electricity-price-increases
 - 图片：![](https://nitter.net/pic/card_img%2F2021834998400102400%2FL1ReHUdN%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2021694494215901314#m
 
-## 33. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
+## 34. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
 
 The future has never looked more exciting!
 - 内容摘要：Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg)
 - 链接：https://nitter.net/xai/status/2021667200885829667#m
 
-## 34. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
+## 35. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
 
 The first paper built a research agent #Aletheia, powered by an advanced version of Gemini Deep Think, that can autonomously produce publishable math research and crack open Erdős problems.
 
@@ -238,42 +247,33 @@ See the thread for details about the two papers and the joint blog post.
 - 图片：![](https://nitter.net/pic/media%2FHA5HCv-bsAQ1fkV.jpg)
 - 链接：https://nitter.net/lmthang/status/2021631397614731563#m
 
-## 35. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
+## 36. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
 
 Thank you to all the builders; you inspire us to work even harder.
 - 内容摘要：From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly. Thank you to all the builders; you inspire us to work even harder. Craig Weiss (@crai
 - 图片：无
 - 链接：https://nitter.net/sama/status/2021606985469211065#m
 
-## 36. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+## 37. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
 - 内容摘要：We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
 - 图片：无
 - 链接：https://nitter.net/sama/status/2021452911511998557#m
 
-## 37. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
+## 38. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
 
 Read the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report
 - 内容摘要：Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotag
 - 图片：无
 - 链接：https://nitter.net/AnthropicAI/status/2021397953848672557#m
 
-## 38. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
+## 39. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
 
 Today we’re delivering on that commitment for Claude Opus 4.6.
 - 内容摘要：When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today w
 - 图片：无
 - 链接：https://nitter.net/AnthropicAI/status/2021397952791707696#m
 
-## 39. GameHub will give Mac owners another imperfect way to play Windows games https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 40. GameHub will give Mac owners another imperfect way to play Windows games https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：GameHub will give Mac owners another imperfect way to play Windows games arstechnica.com/gaming/2026/…
 - 图片：![](https://nitter.net/pic/card_img%2F2023894252330127360%2F8NWyAFPf%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2023893117553045609#m
-
-## 40. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
-
-This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.
-
-Learn more: https://nvda.ws/4rmj3Fm
-- 内容摘要：. @Meta is deploying AI at scale through deep codesign across the full NVIDIA platform. This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs. Lea
-- 图片：![](https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg)
-- 链接：https://nitter.net/nvidianewsroom/status/2023870182524145845#m
