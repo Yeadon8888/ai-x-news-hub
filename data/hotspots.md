@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-19T14:26:11.745828+08:00  
-总条数：174  
+更新时间：2026-02-19T15:26:27.638630+08:00  
+总条数：185  
 
 ## 1. RT by @WIRED: Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
 - 内容摘要：Looking for a great reader question to answer in my WIRED newsletter/column. Ask away, kiddies! No subject off limits.
@@ -51,7 +51,7 @@ Don't miss an episode, and subscribe to Build Mode right here: http://spr.ly/601
 
 ## 9. Bose's fabulous QuietComfort Ultra Gen 2 noise-canceling headphones are the best travel headphones and are $50 off. https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：Bose's fabulous QuietComfort Ultra Gen 2 noise-canceling headphones are the best travel headphones and are $50 off. wired.com/story/bose-quietco…
-- 图片：![](https://nitter.net/pic/card_img%2F2024232615558205440%2Fe3mddfeA%3Fformat%3Dpng%26name%3D800x419)
+- 图片：无
 - 链接：https://nitter.net/WIRED/status/2024232985738793426#m
 
 ## 10. Is your startup’s check engine light on? Google Cloud’s VP explains what to do https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/?utm_source=dlvr.it&utm_medium=twitter
@@ -76,7 +76,7 @@ Don't miss an episode, and subscribe to Build Mode right here: http://spr.ly/601
 
 ## 14. A svelte smart ring can track important activity, sleep, and health metrics. Unlike some smartwatches, a ring doesn’t need to be charged every day. https://www.wired.com/gallery/best-smart-rings/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：A svelte smart ring can track important activity, sleep, and health metrics. Unlike some smartwatches, a ring doesn’t need to be charged every day. wired.com/gallery/best-smart…
-- 图片：![](https://nitter.net/pic/card_img%2F2024136456063635456%2FmQW8s_f_%3Fformat%3Dpng%26name%3D800x419)
+- 图片：无
 - 链接：https://nitter.net/WIRED/status/2024226671318986765#m
 
 ## 15. Chevy Bolt, BMW i3, or something else? At $10k, you have lots of EV options https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
@@ -86,7 +86,7 @@ Don't miss an episode, and subscribe to Build Mode right here: http://spr.ly/601
 
 ## 16. While it may sound unorthodox, these earbuds make a great companion for your Switch 2 or other portable console. https://www.wired.com/story/arctis-gamebuds-deal-226/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：While it may sound unorthodox, these earbuds make a great companion for your Switch 2 or other portable console. wired.com/story/arctis-gameb…
-- 图片：![](https://nitter.net/pic/card_img%2F2024210627376660481%2FdgAbpwLi%3Fformat%3Dpng%26name%3D800x419)
+- 图片：无
 - 链接：https://nitter.net/WIRED/status/2024210800961786107#m
 
 ## 17. Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential. https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
@@ -113,49 +113,7 @@ As the frontier of risk and autonomy expands, post-deployment monitoring becomes
 - 图片：![](https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png)
 - 链接：https://nitter.net/AnthropicAI/status/2024210053369385192#m
 
-## 21. R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.
-
-But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).
-- 内容摘要：Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and
-- 图片：![](https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg)
-- 链接：https://nitter.net/AnthropicAI/status/2024210050718585017#m
-
-## 22. R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.
-
-On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.
-- 内容摘要：Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an i
-- 图片：![](https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png)
-- 链接：https://nitter.net/AnthropicAI/status/2024210048516575324#m
-
-## 23. R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.
-
-This suggests a shift from approving each action to delegating and interrupting when needed.
-- 内容摘要：But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting 
-- 图片：![](https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png)
-- 链接：https://nitter.net/AnthropicAI/status/2024210044917891361#m
-
-## 24. R to @AnthropicAI: As users gain experience, their oversight strategy shifts.
-
-New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.
-- 内容摘要：As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.
-- 图片：![](https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png)
-- 链接：https://nitter.net/AnthropicAI/status/2024210041684054238#m
-
-## 25. R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.
-
-In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.
-- 内容摘要：Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. 
-- 图片：![](https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png)
-- 链接：https://nitter.net/AnthropicAI/status/2024210038336999550#m
-
-## 26. R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. 
-
-Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.
-- 内容摘要：Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people act
-- 图片：无
-- 链接：https://nitter.net/AnthropicAI/status/2024210036797690328#m
-
-## 27. New Anthropic research: Measuring AI agent autonomy in practice.
+## 21. New Anthropic research: Measuring AI agent autonomy in practice.
 
 We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.
 
@@ -164,73 +122,103 @@ Read more: https://www.anthropic.com/research/measuring-agent-autonomy
 - 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2024210035480678724#m
 
-## 28. RT by @WIRED: Yesterday Nvidia & Meta announced a multi-billion dollar deal for chips in Meta's AI datacenters—both GPUs & CPUs. I wrote about why CPUs are back, and how Nvidia is adapting in an era when AI labs & tech co's are looking at every possible compute resource https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/
+## 22. RT by @WIRED: Yesterday Nvidia & Meta announced a multi-billion dollar deal for chips in Meta's AI datacenters—both GPUs & CPUs. I wrote about why CPUs are back, and how Nvidia is adapting in an era when AI labs & tech co's are looking at every possible compute resource https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/
 - 内容摘要：Yesterday Nvidia & Meta announced a multi-billion dollar deal for chips in Meta's AI datacenters—both GPUs & CPUs. I wrote about why CPUs are back, and how Nvidia is adapting in an era when AI labs & tech co's are lookin
 - 图片：![](https://nitter.net/pic/card_img%2F2024205431275659264%2FzP704PhD%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/LaurenGoode/status/2024207040592433189#m
 
-## 29. 5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 23. 5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas arstechnica.com/gadgets/2026…
 - 图片：![](https://nitter.net/pic/card_img%2F2024218533677121537%2FkAn9MDzk%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024205645701066999#m
 
-## 30. The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between. https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+## 24. The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between. https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between. wired.com/story/nvidias-deal…
-- 图片：![](https://nitter.net/pic/card_img%2F2024205431275659264%2FzP704PhD%3Fformat%3Djpg%26name%3D800x419)
+- 图片：无
 - 链接：https://nitter.net/WIRED/status/2024205172075790714#m
 
-## 31. Sporting a refined design and incredible integrated GPU performance, the Dell XPS 14 is the return to form I hoped it would be. https://www.wired.com/review/dell-xps-14-2026/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+## 25. Sporting a refined design and incredible integrated GPU performance, the Dell XPS 14 is the return to form I hoped it would be. https://www.wired.com/review/dell-xps-14-2026/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
 - 内容摘要：Sporting a refined design and incredible integrated GPU performance, the Dell XPS 14 is the return to form I hoped it would be. wired.com/review/dell-xps-14…
-- 图片：![](https://nitter.net/pic/card_img%2F2024085682868645888%2FmvT1FQUI%3Fformat%3Dpng%26name%3D800x419)
+- 图片：无
 - 链接：https://nitter.net/WIRED/status/2024204806856872190#m
 
-## 32. Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how to build your startup from the ground up, this is the pod for you.
+## 26. Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how to build your startup from the ground up, this is the pod for you.
 
 And new episode drops tomorrow with the start of our season on team building: http://spr.ly/6019hdhXL
 - 内容摘要：Build Mode is our latest podcast, which equips founders with the skills they need to be ready for Startup Battlefield and beyond. Whether you want to apply for the competition, or are just looking for inspiration on how 
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024203517301231616%2Fimg%2FnzcajIWinzKzNjHT.jpg)
 - 链接：https://nitter.net/TechCrunch/status/2024203564906618912#m
 
-## 33. Polestar aims to shake off EV doldrums with 4 new models in 3 years https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe
+## 27. Polestar aims to shake off EV doldrums with 4 new models in 3 years https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe
 - 内容摘要：Polestar aims to shake off EV doldrums with 4 new models in 3 years theverge.com/transportation/…
 - 图片：![](https://nitter.net/pic/card_img%2F2024202876130906115%2FVlOZRSoR%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/verge/status/2024202875644366896#m
 
-## 34. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
+## 28. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
 
 See how it all comes together with Google Cloud to help elite athletes find their edge. → https://goo.gle/4r4A86z
 - 内容摘要：Not all the action happens on the mountain. There’s a lot that happens after every run. See how it all comes together with Google Cloud to help elite athletes find their edge. → goo.gle/4r4A86z Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024200959732207616%2Fimg%2FHV4Q2SHYq0RP3e-K.jpg)
 - 链接：https://nitter.net/googlecloud/status/2024201066640785837#m
 
-## 35. SeatGeek and Spotify team up to offer concert ticket sales inside the music platform https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/?utm_source=dlvr.it&utm_medium=twitter
+## 29. SeatGeek and Spotify team up to offer concert ticket sales inside the music platform https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/?utm_source=dlvr.it&utm_medium=twitter
 - 内容摘要：SeatGeek and Spotify team up to offer concert ticket sales inside the music platform techcrunch.com/2026/02/18/se…
 - 图片：![](https://nitter.net/pic/card_img%2F2024199653726834690%2F4t7G5bJq%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/TechCrunch/status/2024199650430079340#m
 
-## 36. Microsoft's new 10,000-year data storage medium: glass https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+## 30. Microsoft's new 10,000-year data storage medium: glass https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Microsoft's new 10,000-year data storage medium: glass arstechnica.com/science/2026…
 - 图片：![](https://nitter.net/pic/card_img%2F2024214937795518464%2F_I5UhHtS%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024198090702651854#m
 
-## 37. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
+## 31. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
 - 内容摘要：Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…
 - 图片：![](https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/OpenAI/status/2024193883748651102#m
 
-## 38. Amazon halts Blue Jay robotics project after less than six months https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/?utm_source=dlvr.it&utm_medium=twitter
+## 32. Amazon halts Blue Jay robotics project after less than six months https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/?utm_source=dlvr.it&utm_medium=twitter
 - 内容摘要：Amazon halts Blue Jay robotics project after less than six months techcrunch.com/2026/02/18/am…
 - 图片：![](https://nitter.net/pic/card_img%2F2022419986682433536%2FNZ31JYij%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/TechCrunch/status/2024189486566166956#m
 
-## 39. Mastodon, a decentralized alternative to X, plans to target creators with new features https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/?utm_source=dlvr.it&utm_medium=twitter
+## 33. Mastodon, a decentralized alternative to X, plans to target creators with new features https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/?utm_source=dlvr.it&utm_medium=twitter
 - 内容摘要：Mastodon, a decentralized alternative to X, plans to target creators with new features techcrunch.com/2026/02/18/ma…
 - 图片：![](https://nitter.net/pic/card_img%2F2021935902675685376%2FxmZQFcwZ%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/TechCrunch/status/2024187235634204867#m
 
-## 40. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
+## 34. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
 
 Try it in beta in the @GeminiApp
 - 内容摘要：Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶 Try it in beta in the @GeminiApp Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024186433339027868#m
+
+## 35. Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. https://www.wired.com/story/best-bamboo-sheets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+- 内容摘要：Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. wired.com/story/best-bamboo-…
+- 图片：无
+- 链接：https://nitter.net/WIRED/status/2024186403702051150#m
+
+## 36. Data breach at fintech giant Figure affects close to a million customers https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/?utm_source=dlvr.it&utm_medium=twitter
+- 内容摘要：Data breach at fintech giant Figure affects close to a million customers techcrunch.com/2026/02/18/da…
+- 图片：![](https://nitter.net/pic/card_img%2F2024207238017990656%2F3qacAGSH%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/TechCrunch/status/2024186068619432415#m
+
+## 37. Microsoft is bringing a built-in network speed test to Windows 11 https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview
+- 内容摘要：Microsoft is bringing a built-in network speed test to Windows 11 theverge.com/tech/880756/win…
+- 图片：![](https://nitter.net/pic/card_img%2F2024185248981143552%2FYKriwvSI%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/verge/status/2024185248431689810#m
+
+## 38. Ken Watanabe didn’t think a kabuki movie would work https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho
+- 内容摘要：Ken Watanabe didn’t think a kabuki movie would work theverge.com/report/880620/k…
+- 图片：![](https://nitter.net/pic/card_img%2F2024178952445857792%2Fw28CDTJE%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/verge/status/2024178951820890566#m
+
+## 39. Google debuts $499 Pixel 10a https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/?utm_source=dlvr.it&utm_medium=twitter
+- 内容摘要：Google debuts $499 Pixel 10a techcrunch.com/2026/02/18/go…
+- 图片：![](https://nitter.net/pic/card_img%2F2024177981363560448%2FZETBP36J%3Fformat%3Dpng%26name%3D800x419)
+- 链接：https://nitter.net/TechCrunch/status/2024178167494422671#m
+
+## 40. A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited. https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
+- 内容摘要：A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited. wired.com/story/a-mega-trove…
+- 图片：![](https://nitter.net/pic/card_img%2F2024174752664080388%2F3tbzEh22%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/WIRED/status/2024174162357416246#m

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-19T14:26:11.745828+08:00",
-  "count": 174,
+  "updated_at": "2026-02-19T15:26:27.638630+08:00",
+  "count": 185,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -83,7 +83,7 @@
       "title": "Bose's fabulous QuietComfort Ultra Gen 2 noise-canceling headphones are the best travel headphones and are $50 off. https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024232985738793426#m",
       "summary": "Bose's fabulous QuietComfort Ultra Gen 2 noise-canceling headphones are the best travel headphones and are $50 off. wired.com/story/bose-quietco…",
-      "image": "https://nitter.net/pic/card_img%2F2024232615558205440%2Fe3mddfeA%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 21:22:06 GMT",
       "source": "X/@WIRED"
     },
@@ -123,7 +123,7 @@
       "title": "A svelte smart ring can track important activity, sleep, and health metrics. Unlike some smartwatches, a ring doesn’t need to be charged every day. https://www.wired.com/gallery/best-smart-rings/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024226671318986765#m",
       "summary": "A svelte smart ring can track important activity, sleep, and health metrics. Unlike some smartwatches, a ring doesn’t need to be charged every day. wired.com/gallery/best-smart…",
-      "image": "https://nitter.net/pic/card_img%2F2024136456063635456%2FmQW8s_f_%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 20:57:01 GMT",
       "source": "X/@WIRED"
     },
@@ -139,7 +139,7 @@
       "title": "While it may sound unorthodox, these earbuds make a great companion for your Switch 2 or other portable console. https://www.wired.com/story/arctis-gamebuds-deal-226/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024210800961786107#m",
       "summary": "While it may sound unorthodox, these earbuds make a great companion for your Switch 2 or other portable console. wired.com/story/arctis-gameb…",
-      "image": "https://nitter.net/pic/card_img%2F2024210627376660481%2FdgAbpwLi%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:53:57 GMT",
       "source": "X/@WIRED"
     },
@@ -176,54 +176,6 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
-      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
-      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
-      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
-      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
-      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
-      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
-      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
-      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
-      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "image": null,
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "New Anthropic research: Measuring AI agent autonomy in practice.\n\nWe analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.\n\nRead more: https://www.anthropic.com/research/measuring-agent-autonomy",
       "url": "https://nitter.net/AnthropicAI/status/2024210035480678724#m",
       "summary": "New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose. Read more: anthropic.com/research/measu…",
@@ -251,7 +203,7 @@
       "title": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between. https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024205172075790714#m",
       "summary": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between. wired.com/story/nvidias-deal…",
-      "image": "https://nitter.net/pic/card_img%2F2024205431275659264%2FzP704PhD%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:31:35 GMT",
       "source": "X/@WIRED"
     },
@@ -259,7 +211,7 @@
       "title": "Sporting a refined design and incredible integrated GPU performance, the Dell XPS 14 is the return to form I hoped it would be. https://www.wired.com/review/dell-xps-14-2026/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024204806856872190#m",
       "summary": "Sporting a refined design and incredible integrated GPU performance, the Dell XPS 14 is the return to form I hoped it would be. wired.com/review/dell-xps-14…",
-      "image": "https://nitter.net/pic/card_img%2F2024085682868645888%2FmvT1FQUI%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:30:08 GMT",
       "source": "X/@WIRED"
     },
@@ -339,7 +291,7 @@
       "title": "Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. https://www.wired.com/story/best-bamboo-sheets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024186403702051150#m",
       "summary": "Bamboo makes some of the softest bedding you can find. Here’s how it’s made and how it’s different from cotton and linen bedding. wired.com/story/best-bamboo-…",
-      "image": "https://nitter.net/pic/card_img%2F2024065505418506240%2FOWvDTzuI%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 18:17:00 GMT",
       "source": "X/@WIRED"
     },
@@ -443,7 +395,7 @@
       "title": "The Alexa-enabled smoke detector is Kidde’s second model in collaboration with Ring—no wires required https://www.wired.com/story/kidde-ring-new-smoke-alarm-2026/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024155859811512534#m",
       "summary": "The Alexa-enabled smoke detector is Kidde’s second model in collaboration with Ring—no wires required wired.com/story/kidde-ring-n…",
-      "image": "https://nitter.net/pic/card_img%2F2024155861803769857%2FXS21Ziw0%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 16:15:38 GMT",
       "source": "X/@WIRED"
     },
@@ -499,7 +451,7 @@
       "title": "Evie is a longtime favorite of far-right. At its very first live event, the strength of the publication's politics was in the pretense that it doesn’t have any. https://www.wired.com/story/burnt-hair-and-soft-power-a-night-out-with-evie-magazine/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024152816814575639#m",
       "summary": "Evie is a longtime favorite of far-right. At its very first live event, the strength of the publication's politics was in the pretense that it doesn’t have any. wired.com/story/burnt-hair-a…",
-      "image": "https://nitter.net/pic/card_img%2F2024152818647441408%2FolGiW4Q6%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 16:03:33 GMT",
       "source": "X/@WIRED"
     },
@@ -547,7 +499,7 @@
       "title": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all. https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024142319956406354#m",
       "summary": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all. wired.com/story/big-tech-say…",
-      "image": "https://nitter.net/pic/card_img%2F2024142011155271682%2F2VMyuK7q%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 15:21:50 GMT",
       "source": "X/@WIRED"
     },
@@ -643,7 +595,7 @@
       "title": "Benoît Richaud is working with 16 figure skaters from 13 countries at the 2026 Milano Cortina Winter Games. WIRED spoke to him about how he roots for all of them. https://www.wired.com/story/why-olympic-choreographer-benoit-richaud-went-viral-just-for-changing-jackets/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024093327897817372#m",
       "summary": "Benoît Richaud is working with 16 figure skaters from 13 countries at the 2026 Milano Cortina Winter Games. WIRED spoke to him about how he roots for all of them. wired.com/story/why-olympic-…",
-      "image": "https://nitter.net/pic/card_img%2F2024092871775916032%2FxEOAJ91C%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 12:07:09 GMT",
       "source": "X/@WIRED"
     },
@@ -691,9 +643,17 @@
       "title": "We're committing to cover electricity price increases from our data centers.\n\nTo ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.\n\nRead more: https://www.anthropic.com/news/covering-electricity-price-increases",
       "url": "https://nitter.net/AnthropicAI/status/2021694494215901314#m",
       "summary": "We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain. Read more: anthropic.com/news/covering-…",
-      "image": "https://nitter.net/pic/card_img%2F2021834998400102400%2F73adA9Tq%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2021834998400102400%2FL1ReHUdN%3Fformat%3Djpg%26name%3D800x419",
       "published": "Wed, 11 Feb 2026 21:15:03 GMT",
       "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting!",
+      "url": "https://nitter.net/xai/status/2021667200885829667#m",
+      "summary": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg",
+      "published": "Wed, 11 Feb 2026 19:26:36 GMT",
+      "source": "X/@xai"
     },
     {
       "title": "How could AI act as a better research collaborator? 🧑‍🔬\n\nIn two new papers with @GoogleResearch, we show how Gemini Deep Think uses agentic workflows to help solve research-level problems in mathematics, physics, and computer science.\n\nMore → https://goo.gle/4aGs3Pz",
@@ -728,17 +688,17 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
-      "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
-      "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
+      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
+      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
+      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
       "image": null,
       "published": "Wed, 11 Feb 2026 01:36:42 GMT",
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
-      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
-      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
+      "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
+      "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
+      "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
       "image": null,
       "published": "Wed, 11 Feb 2026 01:36:42 GMT",
       "source": "X/@AnthropicAI"
@@ -880,18 +840,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
-      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
-      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
-      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
       "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
       "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
       "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
+      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
+      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
+      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -920,6 +880,38 @@
       "source": "X/@OpenAI"
     },
     {
+      "title": "We are excited about partnering with @fal on the new Grok Imagine API!",
+      "url": "https://nitter.net/xai/status/2016755009304568287#m",
+      "summary": "We are excited about partnering with @fal on the new Grok Imagine API! fal (@fal) fal is proud to partner with @xai as Grok Imagine’s day-0 platform partner xAI's latest image & video gen + editing model ✨ Stunning photorealistic images/videos from text ⚡ Lightning-fast generation 🎥 Dynamic animations with precise control 🎨 Edit elements, styles & more Video — https://nitter.net/fal/status/2016746472931283366#m",
+      "image": "https://nitter.net/pic/ext_tw_video_thumb%2F2016746354005950464%2Fpu%2Fimg%2FToC9bRtF9wG__GPX.jpg",
+      "published": "Thu, 29 Jan 2026 06:07:18 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api",
+      "url": "https://nitter.net/xai/status/2016751241226027302#m",
+      "summary": "Try the all new Grok Imagine API: x.ai/news/grok-imagine-api Artificial Analysis (@ArtificialAnlys) xAI's Grok Imagine takes the #1 spot in both Text to Video and Image to Video in the Artificial Analysis Video Arena, surpassing Runway Gen-4.5, Kling 2.5 Turbo, and Veo 3.1! Grok Imagine is the latest video model from @xAI , and joins an increasing roster of models such as Google's Veo and OpenAI's Sora supporting native audio generation alongside video output. The model is available via xAI's new Grok Imagine API only. It is priced at $4.20 per minute including audio, matching Kling 2.5 Turbo (without audio) and cheaper than Veo 3.1 Preview ($12/min) and Sora 2 Pro ($30/min). Congratulations @elonmusk and the xAI team. See below for comparisons between Grok Imagine and other leading models in our Artificial Analysis Video Arena — https://nitter.net/ArtificialAnlys/status/2016749756081721561#m",
+      "image": "https://nitter.net/pic/card_img%2F2023171954157436928%2FF8qcYD2P%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Thu, 29 Jan 2026 05:52:19 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "RT by @xai: 🚨BREAKING: @xAI’s first model in Video Arena debuts in the top 3!\n\nGrok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. \n\nIt is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models.\n\nGrok-Imagine-Video offers:\n- Text-to-video and image-to-video capabilities\n- Native audio generation\n- Up to 15-seconds video duration\n\nCongrats to @xAI on this strong launch!",
+      "url": "https://nitter.net/arena/status/2016748418635616440#m",
+      "summary": "🚨BREAKING: @xAI ’s first model in Video Arena debuts in the top 3! Grok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. It is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models. Grok-Imagine-Video offers: - Text-to-video and image-to-video capabilities - Native audio generation - Up to 15-seconds video duration Congrats to @xAI on this strong launch! xAI (@xai) Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your Imagination run wild. Video — https://nitter.net/xai/status/2016745652739363129#m",
+      "image": "https://nitter.net/pic/media%2FG_zsjvCbUAAP9Zv.jpg",
+      "published": "Thu, 29 Jan 2026 05:41:07 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: https://x.ai/news/grok-imagine-api\n\nTry it out and let your Imagination run wild.",
+      "url": "https://nitter.net/xai/status/2016745652739363129#m",
+      "summary": "Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your Imagination run wild. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2016745571508506625%2Fimg%2FL9iVxwKvINuIDrqf.jpg",
+      "published": "Thu, 29 Jan 2026 05:30:07 GMT",
+      "source": "X/@xai"
+    },
+    {
       "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024357600054378974#m",
       "summary": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW techcrunch.com/2026/02/18/op…",
@@ -939,7 +931,7 @@
       "title": "OpenAI deepens India push with Pine Labs fintech partnership https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024325723557974347#m",
       "summary": "OpenAI deepens India push with Pine Labs fintech partnership techcrunch.com/2026/02/18/op…",
-      "image": "https://nitter.net/pic/card_img%2F2023642177323364353%2FeUkYdSpj%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2023718752156622848%2FqQ-TlG5H%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 19 Feb 2026 03:30:37 GMT",
       "source": "X/@TechCrunch"
     },
@@ -955,7 +947,7 @@
       "title": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday. https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024305754111455327#m",
       "summary": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday. wired.com/story/mark-zuckerb…",
-      "image": "https://nitter.net/pic/card_img%2F2024306636035092481%2FEGJdhp94%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Thu, 19 Feb 2026 02:11:16 GMT",
       "source": "X/@WIRED"
     },
@@ -1040,18 +1032,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
-      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2022023551134683137%2FdHomn9iu%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
       "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "image": null,
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
+      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2022023551134683137%2FdHomn9iu%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -1064,18 +1056,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
-      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
-      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
       "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
       "image": "https://nitter.net/pic/card_img%2F2022009265490472962%2FDzZn6ukq%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
+      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
+      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -1144,12 +1136,52 @@
       "source": "X/@sama"
     },
     {
+      "title": "RT by @xai: BREAKING: @xAI’s Grok-Imagine-Video now #1 in Video Arena!\n\nFor the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4.\n\nHuge congrats to @xAI team and @elonmusk  on this incredible milestone!",
+      "url": "https://nitter.net/arena/status/2019204821551837665#m",
+      "summary": "BREAKING: @xAI ’s Grok-Imagine-Video now #1 in Video Arena! For the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4. Huge congrats to @xAI team and @elonmusk on this incredible milestone! xAI (@xai) Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video — https://nitter.net/xai/status/2018164753810764061#m",
+      "image": "https://nitter.net/pic/media%2FHAWnU70b0AAyHuM.jpg",
+      "published": "Thu, 05 Feb 2026 00:21:59 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
+      "url": "https://nitter.net/xai/status/2012964976953049486#m",
+      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
+      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
+      "url": "https://nitter.net/xai/status/2012964979041771522#m",
+      "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
+      "image": "https://nitter.net/pic/card_img%2F2022011859910746112%2F_7_DUgO8%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "Congrats to the winners of Grokathon London ’26! 🧵",
+      "url": "https://nitter.net/xai/status/2012964971764744306#m",
+      "summary": "Congrats to the winners of Grokathon London ’26! 🧵",
+      "image": null,
+      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
+      "source": "X/@xai"
+    },
+    {
       "title": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings.\n\nOpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "url": "https://nitter.net/sama/status/2023150230905159801#m",
       "summary": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings. OpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "image": null,
       "published": "Sun, 15 Feb 2026 21:39:38 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "The new image models are now available on Grok Imagine API. \n\nTry them at https://docs.x.ai/developers/model-capabilities/images/generation.",
+      "url": "https://nitter.net/xai/status/2020313728802242673#m",
+      "summary": "The new image models are now available on Grok Imagine API. Try them at docs.x.ai/developers/model-c… . Arena.ai (@arena) The new @xAI Grok-Imagine-Image model is a Pareto-optimal model in Image Arena: The Pareto frontier tells us which model has the highest Arena score at each price point. @xAi ’s latest models have improved the frontier, giving optimal performance in the mid-price tier. For a wide range of prices between 2c and 8c per image, @elonmusk ’s @xAI has the leading model, delivering the maximum performance. Top models on the Pareto frontier for Image Arena (Single Image Edit): - @OpenAI : GPT-Image-1.5-high-fidelity - @xAI : Grok Imagine Image Pro - @xAI : Grok Imagine Image - @bfl_ml : Flux 2 Klein 9B - @bfl_ml : Flux-2-Dev - @reve : V1.1 Fast See thread for how the frontier changes for Text-to-Image 🧵 — https://nitter.net/arena/status/2020215931646120004#m",
+      "image": "https://nitter.net/pic/media%2FHAk-_eAaAAAAGs_.jpg",
+      "published": "Sun, 08 Feb 2026 01:48:23 GMT",
+      "source": "X/@xai"
     },
     {
       "title": "R to @sama: These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
@@ -1213,14 +1245,6 @@
       "summary": "(Also best family ❤️)",
       "image": null,
       "published": "Mon, 16 Feb 2026 17:43:19 GMT",
-      "source": "X/@sama"
-    },
-    {
-      "title": "Best OpenAI sweatshirt ever",
-      "url": "https://nitter.net/sama/status/2023453083595141411#m",
-      "summary": "Best OpenAI sweatshirt ever",
-      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
-      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
       "source": "X/@sama"
     },
     {
@@ -1320,12 +1344,52 @@
       "source": "X/@OpenAI"
     },
     {
+      "title": "One Team 🚀\nhttps://x.ai/news/xai-joins-spacex",
+      "url": "https://nitter.net/xai/status/2018441619230568627#m",
+      "summary": "One Team 🚀 x.ai/news/xai-joins-spacex",
+      "image": "https://nitter.net/pic/card_img%2F2023514611434291201%2Fi7jU6jQK%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 02 Feb 2026 21:49:17 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: We’d love your feedback on Imagine 1.0. \n\nShare your best creations, tag @xai, and let us know what you think - the team reads every reply. \n\nTry it now: http://grok.com/imagine",
+      "url": "https://nitter.net/xai/status/2018164980189999352#m",
+      "summary": "We’d love your feedback on Imagine 1.0. Share your best creations, tag @xai , and let us know what you think - the team reads every reply. Try it now: grok.com/imagine Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164971587391488%2Fimg%2FCRE_FuTsMQRovdoO.jpg",
+      "published": "Mon, 02 Feb 2026 03:30:01 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0.\n\nhttps://x.ai/news/grok-imagine-api",
+      "url": "https://nitter.net/xai/status/2018164970249412666#m",
+      "summary": "The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0. x.ai/news/grok-imagine-api",
+      "image": "https://nitter.net/pic/card_img%2F2023171954157436928%2FF8qcYD2P%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 02 Feb 2026 03:29:59 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "Introducing Grok Imagine 1.0, our biggest leap yet.\n\n1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio.\n\nImagine has generated 1.245 billion videos in the last 30 days alone.\n\nTry it now: http://grok.com/imagine",
+      "url": "https://nitter.net/xai/status/2018164753810764061#m",
+      "summary": "Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164699200999424%2Fimg%2FJh07MFVcUBi2tLiU.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:07 GMT",
+      "source": "X/@xai"
+    },
+    {
       "title": "There’s still time to win a Golden Ticket to attend GTC ✨\n\nScore VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more.\n\nEnter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience.\n\nContest details ➡️ https://nvda.ws/464svEF",
       "url": "https://nitter.net/nvidia/status/2022401698753335714#m",
       "summary": "There’s still time to win a Golden Ticket to attend GTC ✨ Score VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more. Enter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience. Contest details ➡️ nvda.ws/464svEF",
       "image": "https://nitter.net/pic/media%2FHBEDn-6XkAAzP78.jpg",
       "published": "Fri, 13 Feb 2026 20:05:14 GMT",
       "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
+      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1336,11 +1400,27 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
+      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
+      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
+      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
+      "image": null,
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
+      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
+      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
+      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
+      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1384,18 +1464,26 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
-      "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
-      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
-      "source": "X/@OpenAI"
+      "title": "Supercharge your X apps with Grok by unlocking free xAI API credits!\n\nFor every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend.\n\nDetails: https://docs.x.com/overview#pricing",
+      "url": "https://nitter.net/xai/status/2019914112743219453#m",
+      "summary": "Supercharge your X apps with Grok by unlocking free xAI API credits! For every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend. Details: docs.x.com/overview#pricing Developers (@XDevelopers) Officially launching X API Pay-Per-Use The core of X developers are indie builders, early stage products, startups, and hobbyists It’s time to open up our X API ecosystem and instill a new wave of next generation X apps We’re so back. developer.x.com — https://nitter.net/XDevelopers/status/2019881223666233717#m",
+      "image": "https://nitter.net/pic/card_img%2F2021594383942828032%2F-oapL-zt%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 06 Feb 2026 23:20:27 GMT",
+      "source": "X/@xai"
     },
     {
       "title": "R to @OpenAI:",
       "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
       "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI:",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "summary": "Video",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
