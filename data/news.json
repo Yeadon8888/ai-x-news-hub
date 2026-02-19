@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-20T05:31:20.774718+08:00",
-  "count": 196,
+  "updated_at": "2026-02-20T06:31:36.243302+08:00",
+  "count": 187,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -61,54 +61,6 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
-      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
-      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
-      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
-      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
-      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
-      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
-      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
-      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
-      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "image": null,
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -312,14 +264,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
-      "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
-      "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
-      "image": null,
-      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
       "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
       "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
@@ -328,12 +272,12 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "GameHub will give Mac owners another imperfect way to play Windows games https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2023893117553045609#m",
-      "summary": "GameHub will give Mac owners another imperfect way to play Windows games arstechnica.com/gaming/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2023894252330127360%2F8NWyAFPf%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Tue, 17 Feb 2026 22:51:35 GMT",
-      "source": "X/@arstechnica"
+      "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
+      "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
+      "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
+      "source": "X/@AnthropicAI"
     },
     {
       "title": "RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.\n\nThis expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.\n\nLearn more: https://nvda.ws/4rmj3Fm",
@@ -342,14 +286,6 @@
       "image": "https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg",
       "published": "Tue, 17 Feb 2026 21:20:27 GMT",
       "source": "X/@NVIDIA"
-    },
-    {
-      "title": "Password managers' promise that they can't see your vaults isn't always true https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2023862311950446923#m",
-      "summary": "Password managers' promise that they can't see your vaults isn't always true arstechnica.com/security/202…",
-      "image": "https://nitter.net/pic/card_img%2F2023844714630238208%2FHHEDWoJg%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Tue, 17 Feb 2026 20:49:11 GMT",
-      "source": "X/@arstechnica"
     },
     {
       "title": "RT by @sama: It's been a huge month for Codex. \n5.3, Spark, Codex app, OpenClaw.\nWe're accelerating. Looking for top people in:\n\n- Full stack Typescript\n- Design engineering\n- Windows experience+distribution\n- React+Node performance\n- Crazy advanced git\n- Agent orchestration\n- Remote codex\n- Mobile\n\nDM me with a link to what you've built",
@@ -408,18 +344,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
-      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
-      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
-      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
       "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
       "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
       "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
+      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
+      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
+      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -470,6 +406,46 @@
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2016745571508506625%2Fimg%2FL9iVxwKvINuIDrqf.jpg",
       "published": "Thu, 29 Jan 2026 05:30:07 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others? https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024606474354475441#m",
+      "summary": "Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others? techcrunch.com/2026/02/19/ce…",
+      "image": "https://nitter.net/pic/card_img%2F2024606478347489280%2Fd9NPDb_X%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 22:06:13 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024605869749785061#m",
+      "summary": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes arstechnica.com/space/2026/0…",
+      "image": "https://nitter.net/pic/card_img%2F2023428488720416768%2F2KfhgFon%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 22:03:49 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Second and last chance for innovators to win scaling perks: Belden extends nomination window https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024601941435961395#m",
+      "summary": "Second and last chance for innovators to win scaling perks: Belden extends nomination window techcrunch.com/2026/02/19/se…",
+      "image": "https://nitter.net/pic/card_img%2F2024601944774647808%2FFoKm4q4k%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 21:48:12 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024598314721956259#m",
+      "summary": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube arstechnica.com/gadgets/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2024598318920478720%2FRofhRmBZ%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 21:33:48 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Google says its AI systems helped deter Play Store malware in 2025 https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024597416981520453#m",
+      "summary": "Google says its AI systems helped deter Play Store malware in 2025 techcrunch.com/2026/02/19/go…",
+      "image": "https://nitter.net/pic/card_img%2F2024597420550868995%2F_fsCCUxK%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 19 Feb 2026 21:30:14 GMT",
+      "source": "X/@TechCrunch"
     },
     {
       "title": "An AI data center boom is fueling Redwood’s energy storage business https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/?utm_source=dlvr.it&utm_medium=twitter",
@@ -952,14 +928,6 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "Reload wants to give your AI agents a shared memory https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024500627259510975#m",
-      "summary": "Reload wants to give your AI agents a shared memory techcrunch.com/2026/02/19/re…",
-      "image": "https://nitter.net/pic/card_img%2F2024500224824061953%2FMR2JY3hb%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 15:05:37 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Money no longer matters to AI’s top talent https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo",
       "url": "https://nitter.net/verge/status/2024500101679632396#m",
       "summary": "Money no longer matters to AI’s top talent theverge.com/podcast/880778/…",
@@ -968,28 +936,12 @@
       "source": "X/@verge"
     },
     {
-      "title": "Rivian owners will soon be able to access vehicle controls using their Apple Watch https://techcrunch.com/2026/02/19/rivian-owners-will-be-able-to-access-vehicle-controls-through-their-apple-watch/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024500073338720754#m",
-      "summary": "Rivian owners will soon be able to access vehicle controls using their Apple Watch techcrunch.com/2026/02/19/ri…",
-      "image": "https://nitter.net/pic/card_img%2F2024500077403000836%2FBsBdYREb%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 15:03:25 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "RT by @WIRED: If I send you this \n👖🤝👖\nit means I’m reading the new issue of Wired",
       "url": "https://nitter.net/daisandconfused/status/2024498568715755823#m",
       "summary": "If I send you this 👖🤝👖 it means I’m reading the new issue of Wired Peter Twinklage (@PeterTwinklage) good morning — https://nitter.net/PeterTwinklage/status/2024483484312457446#m",
       "image": "https://nitter.net/pic/media%2FHBho_7aWcAAynbN.jpg",
       "published": "Thu, 19 Feb 2026 14:57:26 GMT",
       "source": "X/@WIRED"
-    },
-    {
-      "title": "OpenAI, Reliance partner to add AI search to JioHotstar https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024496596059378063#m",
-      "summary": "OpenAI, Reliance partner to add AI search to JioHotstar techcrunch.com/2026/02/19/op…",
-      "image": "https://nitter.net/pic/card_img%2F2024556422101684224%2Fga2VSMlc%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 14:49:36 GMT",
-      "source": "X/@TechCrunch"
     },
     {
       "title": "Abxylute’s new Switch 2 controller prototype has one big problem https://www.theverge.com/tech/880971/abxylute-n6-switch-2-hands-on-controller",
@@ -1112,18 +1064,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
-      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2022023551134683137%2Fp5sR15Is%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
       "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "image": null,
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
+      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2022023551134683137%2Fp5sR15Is%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -1136,18 +1088,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
-      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
       "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
       "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
+      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -1472,14 +1424,6 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
       "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
       "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1488,27 +1432,11 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
-      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
-      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
-      "image": null,
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
-      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
-      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1561,17 +1489,17 @@
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
