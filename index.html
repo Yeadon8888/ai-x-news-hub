@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>X 热点聚合站</title>
+  <style>
+    :root{
+      --bg:#0b1020; --panel:#121a35; --card:#182348; --line:#2b3a6e;
+      --text:#eef3ff; --muted:#9fb0d6; --primary:#5aa2ff;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#1b2b60 0%,var(--bg) 55%);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang SC',sans-serif}
+    .wrap{max-width:1100px;margin:0 auto;padding:22px}
+    .header,.toolbar,.panel{background:rgba(18,26,53,.8);backdrop-filter: blur(6px);border:1px solid var(--line);border-radius:14px}
+    .header{padding:16px 18px;margin-bottom:12px}
+    .title{margin:0;font-size:24px}
+    .muted{color:var(--muted);font-size:13px}
+    .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:12px;margin-bottom:12px}
+    .left{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+    .pill{padding:8px 12px;border-radius:999px;border:1px solid var(--line);background:#0f1733;color:var(--text);cursor:pointer}
+    .pill.active{background:var(--primary);border-color:var(--primary);color:white}
+    input{background:#0f1733;border:1px solid var(--line);color:var(--text);padding:10px 12px;border-radius:10px;min-width:260px;outline:none}
+    .panel{padding:12px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+    .card a{color:#9fcbff;text-decoration:none}
+    .card a:hover{text-decoration:underline}
+    .cover{width:100%;border-radius:10px;border:1px solid var(--line);margin-top:8px;max-height:220px;object-fit:cover}
+    .summary{margin-top:8px;line-height:1.6;color:#dce6ff;font-size:14px}
+
+    /* Markdown 渲染区 */
+    #mdView{display:none}
+    .md{max-width:860px;margin:0 auto;padding:8px}
+    .md h1,.md h2,.md h3{margin:14px 0 8px}
+    .md h2{font-size:18px;padding-bottom:6px;border-bottom:1px dashed var(--line)}
+    .md p,.md li{line-height:1.75}
+    .md ul{padding-left:18px}
+    .md img{max-width:100%;border-radius:10px;border:1px solid var(--line)}
+    .md a{color:#9fcbff}
+    .empty{padding:24px;text-align:center;color:var(--muted)}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="header">
+    <h1 class="title">X 热点聚合站</h1>
+    <div id="meta" class="muted">加载中...</div>
+  </div>
+
+  <div class="toolbar">
+    <div class="left">
+      <button id="btnCards" class="pill active" onclick="switchView('cards')">卡片视图</button>
+      <button id="btnMd" class="pill" onclick="switchView('md')">Markdown 视图</button>
+    </div>
+    <input id="kw" placeholder="关键词过滤（仅卡片视图）如：agent / OpenAI" oninput="renderCards()" />
+  </div>
+
+  <div class="panel" id="cardsView">
+    <div id="cards" class="grid"></div>
+  </div>
+
+  <div class="panel" id="mdView">
+    <div id="md" class="md"></div>
+  </div>
+</div>
+
+<script>
+let data={items:[]};
+let mdText='';
+
+async function load(){
+  const [r1,r2]=await Promise.all([
+    fetch('./data/news.json?_='+Date.now()),
+    fetch('./data/hotspots.md?_='+Date.now())
+  ]);
+  data=await r1.json();
+  mdText=await r2.text();
+  document.getElementById('meta').innerText=`更新时间：${data.updated_at} ｜ 条数：${data.count} ｜ 来源：${data.source_instance||'N/A'} ｜ 自动抓取`;
+  renderCards();
+  renderMarkdown();
+}
+
+function switchView(v){
+  const cards = document.getElementById('cardsView');
+  const md = document.getElementById('mdView');
+  const b1 = document.getElementById('btnCards');
+  const b2 = document.getElementById('btnMd');
+  if(v==='cards'){ cards.style.display='block'; md.style.display='none'; b1.classList.add('active'); b2.classList.remove('active'); }
+  else { cards.style.display='none'; md.style.display='block'; b2.classList.add('active'); b1.classList.remove('active'); }
+}
+
+function renderCards(){
+  const kw=(document.getElementById('kw').value||'').trim().toLowerCase();
+  const box=document.getElementById('cards');
+  const items=(data.items||[]).filter(i=>!kw || (i.title+i.summary+i.url).toLowerCase().includes(kw));
+  if(!items.length){ box.innerHTML='<div class="empty">没有匹配结果</div>'; return; }
+  box.innerHTML=items.map(i=>`<article class='card'>
+    <div><a href='${i.url}' target='_blank' rel='noopener'>${escapeHtml(i.title)}</a></div>
+    <div class='muted' style='margin-top:6px'>${escapeHtml(i.published||'')} · ${escapeHtml(i.source||'')}</div>
+    ${i.image ? `<img class='cover' loading='lazy' src='${i.image}' alt='cover'/>` : ''}
+    <div class='summary'>${escapeHtml((i.summary||'').slice(0,180))}</div>
+    <div style='margin-top:8px'><a href='${i.url}' target='_blank' rel='noopener'>查看原文 →</a></div>
+  </article>`).join('');
+}
+
+function renderMarkdown(){
+  const lines = (mdText||'').split(/\r?\n/);
+  let html='';
+  let inList=false;
+
+  for(const raw of lines){
+    const line=raw.trim();
+    if(!line){ if(inList){ html+='</ul>'; inList=false; } continue; }
+
+    if(line.startsWith('# ')){ if(inList){ html+='</ul>'; inList=false; } html+=`<h1>${escapeHtml(line.slice(2))}</h1>`; continue; }
+    if(line.startsWith('## ')){ if(inList){ html+='</ul>'; inList=false; } html+=`<h2>${escapeHtml(line.slice(3))}</h2>`; continue; }
+    if(line.startsWith('### ')){ if(inList){ html+='</ul>'; inList=false; } html+=`<h3>${escapeHtml(line.slice(4))}</h3>`; continue; }
+
+    const imgMatch = line.match(/^-\s*图片：!\[\]\((.+)\)$/);
+    if(imgMatch){ if(inList){ html+='</ul>'; inList=false; } html+=`<p><strong>图片：</strong><br><img src='${imgMatch[1]}' loading='lazy'/></p>`; continue; }
+
+    const linkMatch = line.match(/^-\s*链接：(.+)$/);
+    if(linkMatch){ if(inList){ html+='</ul>'; inList=false; } const u=linkMatch[1]; html+=`<p><strong>链接：</strong><a href='${u}' target='_blank' rel='noopener'>${u}</a></p>`; continue; }
+
+    if(line.startsWith('- ')){
+      if(!inList){ html+='<ul>'; inList=true; }
+      html+=`<li>${escapeHtml(line.slice(2))}</li>`;
+      continue;
+    }
+
+    if(inList){ html+='</ul>'; inList=false; }
+    html+=`<p>${escapeHtml(line)}</p>`;
+  }
+  if(inList) html+='</ul>';
+  document.getElementById('md').innerHTML = html || '<div class="empty">暂无 Markdown 内容</div>';
+}
+
+function escapeHtml(s){return (s||'').replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]||c));}
+
+load();
+</script>
+</body>
+</html>
