@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-20T18:59:21.400470+08:00  
-总条数：177  
+更新时间：2026-02-20T19:59:35.441460+08:00  
+总条数：196  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -14,17 +14,17 @@ Watch the full video 📹 https://nvda.ws/40jncOc
 
 ## 2. Verizon might drop its annoying 35-day wait for unlocking paid-off phones https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Verizon might drop its annoying 35-day wait for unlocking paid-off phones arstechnica.com/tech-policy/…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2023084632489500672%2F_7Mv6k57%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024227556044787815#m
 
 ## 3. Chevy Bolt, BMW i3, or something else? At $10k, you have lots of EV options https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Chevy Bolt, BMW i3, or something else? At $10k, you have lots of EV options arstechnica.com/cars/2026/02…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024220369998028800%2Fnnjanz5D%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024218741471605011#m
 
 ## 4. Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths” https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths” arstechnica.com/tech-policy/…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024211639893979136%2FLQZlzkgr%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024210682045223104#m
 
 ## 5. R to @AnthropicAI: A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone.
@@ -94,7 +94,7 @@ Read more: https://www.anthropic.com/research/measuring-agent-autonomy
 
 ## 14. 5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas arstechnica.com/gadgets/2026…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024218533677121537%2FkAn9MDzk%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024205645701066999#m
 
 ## 15. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
@@ -106,12 +106,12 @@ See how it all comes together with Google Cloud to help elite athletes find thei
 
 ## 16. Microsoft's new 10,000-year data storage medium: glass https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Microsoft's new 10,000-year data storage medium: glass arstechnica.com/science/2026…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024214937795518464%2F_I5UhHtS%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024198090702651854#m
 
 ## 17. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
 - 内容摘要：Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/OpenAI/status/2024193883748651102#m
 
 ## 18. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
@@ -137,7 +137,7 @@ Meet us in Miami at S4x26 and see how NVIDIA is helping secure the next generati
 
 ## 21. Gemini can now generate AI music for you, no lyrics required https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Gemini can now generate AI music for you, no lyrics required arstechnica.com/google/2026/…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024154027802660864%2FXvV7HmR0%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024154023973294184#m
 
 ## 22. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
@@ -175,17 +175,17 @@ It can turn photos and text into dynamic tracks - complete with vocals and lyric
 
 ## 26. Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear arstechnica.com/gadgets/2026…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024139837935104000%2FKckLWs7v%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024138911799452044#m
 
 ## 27. What the Chinese art of tian-tsui has to do with kingfishers https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：What the Chinese art of tian-tsui has to do with kingfishers arstechnica.com/science/2026…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024136038759702529%2FmONqxNp0%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024130097851281551#m
 
 ## 28. Inside the DHS forum where ICE agents trash talk one another https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
 - 内容摘要：Inside the DHS forum where ICE agents trash talk one another arstechnica.com/tech-policy/…
-- 图片：无
+- 图片：![](https://nitter.net/pic/card_img%2F2024136360995553280%2FDQF9K2t8%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/arstechnica/status/2024126320482165187#m
 
 ## 29. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
@@ -242,21 +242,33 @@ See the thread for details about the two papers and the joint blog post.
 - 图片：![](https://nitter.net/pic/media%2FHA5HCv-bsAQ1fkV.jpg)
 - 链接：https://nitter.net/lmthang/status/2021631397614731563#m
 
-## 35. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
+## 35. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
+
+Thank you to all the builders; you inspire us to work even harder.
+- 内容摘要：From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly. Thank you to all the builders; you inspire us to work even harder. Craig Weiss (@crai
+- 图片：无
+- 链接：https://nitter.net/sama/status/2021606985469211065#m
+
+## 36. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+- 内容摘要：We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+- 图片：无
+- 链接：https://nitter.net/sama/status/2021452911511998557#m
+
+## 37. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
 
 Read the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report
 - 内容摘要：Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotag
 - 图片：无
 - 链接：https://nitter.net/AnthropicAI/status/2021397953848672557#m
 
-## 36. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
+## 38. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
 
 Today we’re delivering on that commitment for Claude Opus 4.6.
 - 内容摘要：When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today w
 - 图片：无
 - 链接：https://nitter.net/AnthropicAI/status/2021397952791707696#m
 
-## 37. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
+## 39. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
 
 This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.
 
@@ -265,23 +277,20 @@ Learn more: https://nvda.ws/4rmj3Fm
 - 图片：![](https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg)
 - 链接：https://nitter.net/nvidianewsroom/status/2023870182524145845#m
 
-## 38. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
-- 内容摘要：See you all at Google I/O starting May 19th! io.google
+## 40. RT by @sama: It's been a huge month for Codex. 
+5.3, Spark, Codex app, OpenClaw.
+We're accelerating. Looking for top people in:
+
+- Full stack Typescript
+- Design engineering
+- Windows experience+distribution
+- React+Node performance
+- Crazy advanced git
+- Agent orchestration
+- Remote codex
+- Mobile
+
+DM me with a link to what you've built
+- 内容摘要：It's been a huge month for Codex. 5.3, Spark, Codex app, OpenClaw. We're accelerating. Looking for top people in: - Full stack Typescript - Design engineering - Windows experience+distribution - React+Node performance - 
 - 图片：无
-- 链接：https://nitter.net/sundarpichai/status/2023847540400288134#m
-
-## 39. RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.
-
-It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.
-
-It also features a 1M token context window in beta.
-- 内容摘要：This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context windo
-- 图片：![](https://nitter.net/pic/media%2FHBYMPQSaEAAbP8J.jpg)
-- 链接：https://nitter.net/claudeai/status/2023817132581208353#m
-
-## 40. We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors.
-
-Read more: https://anthropic.com/news/anthropic-rwanda-mou
-- 内容摘要：We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors. Read more: anthropic.com/news/anthropic…
-- 图片：![](https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/AnthropicAI/status/2023789983711326380#m
+- 链接：https://nitter.net/ajambrosino/status/2023850810183217184#m
