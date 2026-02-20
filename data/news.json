@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T05:39:15.208328+08:00",
-  "count": 184,
+  "updated_at": "2026-02-21T06:39:31.450956+08:00",
+  "count": 194,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -37,6 +37,54 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
+      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
+      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
+      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
+      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
+      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
+      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
+      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
+      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
+      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "image": null,
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -176,14 +224,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
-      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
-      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
-      "image": null,
-      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
       "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
       "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
@@ -248,18 +288,18 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
-      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
-      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
-      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
       "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
       "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
       "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
+      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
+      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
+      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -392,14 +432,6 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "Zero grip, maximum fun: A practical guide to getting into amateur ice racing https://arstechnica.com/cars/2026/02/zero-grip-maximum-fun-a-practical-guide-to-getting-into-amateur-ice-racing/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024521507318497555#m",
-      "summary": "Zero grip, maximum fun: A practical guide to getting into amateur ice racing arstechnica.com/cars/2026/02…",
-      "image": "https://nitter.net/pic/card_img%2F2024521512334831616%2FZTVa9RV0%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 16:28:35 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
       "title": "R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp, and exclusively to Google AI Pro and Ultra users in @NotebookLM.\n\nDevelopers can access it in preview via the API in @GoogleAIStudio. Find out more → https://goo.gle/4s5yXE5",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516471720743295#m",
       "summary": "Gemini 3.1 Pro is rolling out now in the @GeminiApp , and exclusively to Google AI Pro and Ultra users in @NotebookLM . Developers can access it in preview via the API in @GoogleAIStudio . Find out more → goo.gle/4s5yXE5",
@@ -422,14 +454,6 @@
       "image": null,
       "published": "Thu, 19 Feb 2026 16:08:33 GMT",
       "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "OpenClaw security fears lead Meta, other AI firms to restrict its use https://arstechnica.com/ai/2026/02/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024487511595331969#m",
-      "summary": "OpenClaw security fears lead Meta, other AI firms to restrict its use arstechnica.com/ai/2026/02/o…",
-      "image": "https://nitter.net/pic/card_img%2F2024487514892095495%2FvF7HHwzS%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 14:13:30 GMT",
-      "source": "X/@arstechnica"
     },
     {
       "title": "R to @basetenco: This is why leading AI inference providers are optimizing their inference platforms on Blackwell. \n\nCheck out the latest blog 👇https://nvda.ws/4awCFzk",
@@ -480,18 +504,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
-      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "image": null,
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
       "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
       "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
       "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
+      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "image": null,
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -504,18 +528,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
-      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
       "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
       "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
+      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -592,14 +616,6 @@
       "source": "X/@xai"
     },
     {
-      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
-      "url": "https://nitter.net/xai/status/2012964976953049486#m",
-      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
       "url": "https://nitter.net/xai/status/2012964979041771522#m",
       "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
@@ -608,10 +624,26 @@
       "source": "X/@xai"
     },
     {
-      "title": "Congrats to the winners of Grokathon London ’26! 🧵",
-      "url": "https://nitter.net/xai/status/2012964971764744306#m",
-      "summary": "Congrats to the winners of Grokathon London ’26! 🧵",
-      "image": null,
+      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
+      "url": "https://nitter.net/xai/status/2012964976953049486#m",
+      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
+      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: 2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee",
+      "url": "https://nitter.net/xai/status/2012964975057199372#m",
+      "summary": "2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963805509083138%2Fimg%2FPz-24SjUAQfpEBAF.jpg",
+      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: 3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai",
+      "url": "https://nitter.net/xai/status/2012964973211763177#m",
+      "summary": "3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963585148755969%2Fimg%2FFlGpJnLpG79IQ9x_.jpg",
       "published": "Sun, 18 Jan 2026 19:07:03 GMT",
       "source": "X/@xai"
     },
@@ -792,12 +824,124 @@
       "source": "X/@xai"
     },
     {
+      "title": "R to @xai: Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news.",
+      "url": "https://nitter.net/xai/status/2018164968911462801#m",
+      "summary": "Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164918114197504%2Fimg%2FJn2jHgC6CspFk5Iw.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:58 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life.",
+      "url": "https://nitter.net/xai/status/2018164916683939876#m",
+      "summary": "Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164864620138496%2Fimg%2FUHD6dAqsZ5su7BwK.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:46 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene.",
+      "url": "https://nitter.net/xai/status/2018164863194026369#m",
+      "summary": "We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164811742515200%2Fimg%2FuWNbD2MqDY_n9Bun.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:33 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene.\n\nVideos are now longer and higher resolution.\n\nVideo by @doganuraldesign",
+      "url": "https://nitter.net/xai/status/2018164810366722095#m",
+      "summary": "Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene. Videos are now longer and higher resolution. Video by @doganuraldesign Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164755215904768%2Fimg%2FjQS57ygFGl7SJlEn.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:21 GMT",
+      "source": "X/@xai"
+    },
+    {
       "title": "Introducing Grok Imagine 1.0, our biggest leap yet.\n\n1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio.\n\nImagine has generated 1.245 billion videos in the last 30 days alone.\n\nTry it now: http://grok.com/imagine",
       "url": "https://nitter.net/xai/status/2018164753810764061#m",
       "summary": "Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164699200999424%2Fimg%2FJh07MFVcUBi2tLiU.jpg",
       "published": "Mon, 02 Feb 2026 03:29:07 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "Epilogue’s adorable GB Operator plug-in gizmo is a must-have for collectors of retro Nintendo Game Boy games. https://www.wired.com/review/epilogue-gb-operator/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2024969817103438065#m",
+      "summary": "Epilogue’s adorable GB Operator plug-in gizmo is a must-have for collectors of retro Nintendo Game Boy games. wired.com/review/epilogue-gb…",
+      "image": "https://nitter.net/pic/card_img%2F2024834239984807936%2FyvXrPIdC%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 22:10:01 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024968689238638852#m",
+      "summary": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2024976289065472000%2FNXU33nsC%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 22:05:32 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Self-driving vehicle companies are revealing new details about their safety-critical “remote assistance” programs—but questions remain. https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2024966745014845879#m",
+      "summary": "Self-driving vehicle companies are revealing new details about their safety-critical “remote assistance” programs—but questions remain. wired.com/story/government-d…",
+      "image": "https://nitter.net/pic/card_img%2F2024966747002904577%2FbnQidbzL%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:57:48 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Meta's flagship metaverse service leaves VR behind https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024964911970091396#m",
+      "summary": "Meta's flagship metaverse service leaves VR behind arstechnica.com/gadgets/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2024965470042869760%2FfRmNKzKH%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:50:31 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "R to @WIRED: Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.”\n\nRead the full story: https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960134829801545#m",
+      "summary": "Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.” Read the full story: wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:32 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: However, SCOTUS did not explicitly address whether the government will be required to issue refunds. “That’s the billion-dollar question,” says one brokerage firm president. “Everybody is in a state of flux.”\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960132967530884#m",
+      "summary": "However, SCOTUS did not explicitly address whether the government will be required to issue refunds. “That’s the billion-dollar question,” says one brokerage firm president. “Everybody is in a state of flux.” wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:32 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: “We were like, [Trump] is capriciously applying the law,” says Thomas Braziel, founder of investment firm 117 Partners, who says he purchased $925,000 worth of tariff refund claims with his own money. “That was the play.”\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960130941682033#m",
+      "summary": "“We were like, [Trump] is capriciously applying the law,” says Thomas Braziel, founder of investment firm 117 Partners, who says he purchased $925,000 worth of tariff refund claims with his own money. “That was the play.” wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: When Trump first introduced the tariffs, hedge funds began to bet on the possibility that the courts might rule that he had violated the law, doing so by purchasing the right to theoretical tariff refunds at cents on the dollar from struggling importers.\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960129385533533#m",
+      "summary": "When Trump first introduced the tariffs, hedge funds began to bet on the possibility that the courts might rule that he had violated the law, doing so by purchasing the right to theoretical tariff refunds at cents on the dollar from struggling importers. wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: ICYMI, earlier today SCOTUS overturned most of the Trump administration’s tariffs, putting the US government on the hook for at least $175 billion in tariff refunds.\nhttps://www.wired.com/story/supreme-court-trump-tariffs-ruling/",
+      "url": "https://nitter.net/WIRED/status/2024960127863062976#m",
+      "summary": "ICYMI, earlier today SCOTUS overturned most of the Trump administration’s tariffs, putting the US government on the hook for at least $175 billion in tariff refunds. wired.com/story/supreme-cour…",
+      "image": "https://nitter.net/pic/card_img%2F2024886858044657664%2FIVvV4_Na%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Investment firms are on track for an enormous payday after the Supreme Court of the United States (SCOTUS) struck down President Donald Trump’s signature tariff policy on Friday.\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960126009110571#m",
+      "summary": "Investment firms are on track for an enormous payday after the Supreme Court of the United States (SCOTUS) struck down President Donald Trump’s signature tariff policy on Friday. wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:30 GMT",
+      "source": "X/@WIRED"
     },
     {
       "title": "After the US Supreme Court struck down President Donald Trump’s tariff regime, investment firms are in line for a whopping return on a niche trade. https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -896,6 +1040,14 @@
       "source": "X/@verge"
     },
     {
+      "title": "R to @WIRED: The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system.\n\nRead the full story: https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
+      "url": "https://nitter.net/WIRED/status/2024942492076904752#m",
+      "summary": "The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system. Read the full story: wired.com/story/dhs-wants-a-…",
+      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 20:21:26 GMT",
+      "source": "X/@WIRED"
+    },
+    {
       "title": "R to @WIRED: The system would support watchlisting, detention, or removal operations and comes as DHS is pushing biometric surveillance far beyond ports of entry and into the hands of intelligence units and masked agents operating hundreds of miles from the border. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
       "url": "https://nitter.net/WIRED/status/2024942490688626832#m",
       "summary": "The system would support watchlisting, detention, or removal operations and comes as DHS is pushing biometric surveillance far beyond ports of entry and into the hands of intelligence units and masked agents operating hundreds of miles from the border. wired.com/story/dhs-wants-a-…",
@@ -904,11 +1056,19 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @WIRED: The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system.\n\nRead the full story: https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-      "url": "https://nitter.net/WIRED/status/2024942492076904752#m",
-      "summary": "The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system. Read the full story: wired.com/story/dhs-wants-a-…",
+      "title": "R to @WIRED: The goal is to connect components including CBP, ICE, the Transportation Security Administration, US Citizenship and Immigration Services, the Secret Service, and DHS headquarters, replacing a patchwork of tools that do not share data easily. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
+      "url": "https://nitter.net/WIRED/status/2024942489107345579#m",
+      "summary": "The goal is to connect components including CBP, ICE, the Transportation Security Administration, US Citizenship and Immigration Services, the Secret Service, and DHS headquarters, replacing a patchwork of tools that do not share data easily. wired.com/story/dhs-wants-a-…",
       "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:21:26 GMT",
+      "published": "Fri, 20 Feb 2026 20:21:25 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: The agency is asking private biometric contractors how to build a unified platform that would let employees search faces and fingerprints across large government databases already filled with biometrics gathered in different contexts. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
+      "url": "https://nitter.net/WIRED/status/2024942487253508161#m",
+      "summary": "The agency is asking private biometric contractors how to build a unified platform that would let employees search faces and fingerprints across large government databases already filled with biometrics gathered in different contexts. wired.com/story/dhs-wants-a-…",
+      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 20:21:25 GMT",
       "source": "X/@WIRED"
     },
     {
@@ -955,7 +1115,7 @@
       "title": "A 2023 law championed by Republicans requires the CDC have a director confirmed by the Senate. For months, though, it's had only acting directors—and the White House won't say when that will change. https://www.wired.com/story/the-cdc-has-a-leadership-crisis/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024935138790887682#m",
       "summary": "A 2023 law championed by Republicans requires the CDC have a director confirmed by the Senate. For months, though, it's had only acting directors—and the White House won't say when that will change. wired.com/story/the-cdc-has-…",
-      "image": "https://nitter.net/pic/card_img%2F2024934692928319489%2FE1prr_of%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024968717671518210%2F7-HqyE9o%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 19:52:13 GMT",
       "source": "X/@WIRED"
     },
@@ -979,7 +1139,7 @@
       "title": "R to @WIRED: Beyond detention centers, ICE plans to buy or lease offices and other facilities in more than 150 locations, in nearly every state in the US, according to documents first reported by WIRED. https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/",
       "url": "https://nitter.net/WIRED/status/2024931637151064375#m",
       "summary": "Beyond detention centers, ICE plans to buy or lease offices and other facilities in more than 150 locations, in nearly every state in the US, according to documents first reported by WIRED. wired.com/story/ice-expansio…",
-      "image": "https://nitter.net/pic/card_img%2F2023871449170415616%2FpL-0XpI-%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2023828288062283776%2FNitcGWTn%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 19:38:18 GMT",
       "source": "X/@WIRED"
     },
@@ -1000,28 +1160,12 @@
       "source": "X/@verge"
     },
     {
-      "title": "I talked to the experts, reviewed the labels, and taste-tested my weight in fruity chewables to find the ones that are more than just expensive candy. https://www.wired.com/gallery/best-mushroom-gummies/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024929590238458036#m",
-      "summary": "I talked to the experts, reviewed the labels, and taste-tested my weight in fruity chewables to find the ones that are more than just expensive candy. wired.com/gallery/best-mushr…",
-      "image": "https://nitter.net/pic/card_img%2F2023850143963918338%2FS9Zb1VwO%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 19:30:10 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "InScope nabs $14.5M to solve the pain of financial reporting https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024928688408854969#m",
       "summary": "InScope nabs $14.5M to solve the pain of financial reporting techcrunch.com/2026/02/20/in…",
       "image": "https://nitter.net/pic/card_img%2F2024929218044338176%2F5akYbJPd%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 19:26:35 GMT",
       "source": "X/@TechCrunch"
-    },
-    {
-      "title": "RT by @WIRED: Behind the Anthropic-Pentagon clash is a bigger issue: how can we assure that AI is safe if we're building AI that kills? https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
-      "url": "https://nitter.net/StevenLevy/status/2024920103943385520#m",
-      "summary": "Behind the Anthropic-Pentagon clash is a bigger issue: how can we assure that AI is safe if we're building AI that kills? wired.com/story/backchannel-…",
-      "image": "https://nitter.net/pic/card_img%2F2024892878623850496%2F0EGJ2CZ2%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 18:52:28 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "Wikipedia bans http://Archive.today after site executed DDoS and altered web captures https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
@@ -1032,14 +1176,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "Comments and other data left on a PDF detailing Homeland Security's proposal to build “mega” detention and processing centers reveal the personnel involved in its creation. https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024914571601871264#m",
-      "summary": "Comments and other data left on a PDF detailing Homeland Security's proposal to build “mega” detention and processing centers reveal the personnel involved in its creation. wired.com/story/metadata-exp…",
-      "image": "https://nitter.net/pic/card_img%2F2024915766051500034%2Ff34Jo-6A%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 18:30:29 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024914014325932125#m",
       "summary": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate techcrunch.com/2026/02/20/gr…",
@@ -1048,28 +1184,12 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "Branch makes excellent office essentials, and our top picks are discounted. https://www.wired.com/story/branch-deals-february-2026/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024913016198746200#m",
-      "summary": "Branch makes excellent office essentials, and our top picks are discounted. wired.com/story/branch-deals…",
-      "image": "https://nitter.net/pic/card_img%2F2024913018052579329%2FoT8Qdvhh%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 18:24:18 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "Trump Mobile is just Liberty Mobile in gold foil https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno",
       "url": "https://nitter.net/verge/status/2024912026108416450#m",
       "summary": "Trump Mobile is just Liberty Mobile in gold foil theverge.com/tech/882064/tru…",
       "image": "https://nitter.net/pic/card_img%2F2024912026703986691%2FoB5KJJfp%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 18:20:22 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker. https://www.wired.com/gallery/best-coffee-grinders/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024911179324227749#m",
-      "summary": "We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker. wired.com/gallery/best-coffe…",
-      "image": "https://nitter.net/pic/card_img%2F2024789730005807104%2FYPsx5qXv%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 18:17:00 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "RT by @AnthropicAI: Introducing Claude Code Security, now in limited research preview.\n\nIt scans codebases for vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix issues that traditional tools often miss.\n\nLearn more: https://www.anthropic.com/news/claude-code-security",
@@ -1086,14 +1206,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024902792452689920%2FBqv8DF6W%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 17:43:15 GMT",
       "source": "X/@TechCrunch"
-    },
-    {
-      "title": "R to @WIRED: In July, we reported that a subsidiary of Cantor Fitzgerald, which is run by the sons of US commerce secretary Howard Lutnick, was letting clients essentially bet that President Donald Trump’s tariffs would be struck down in court. https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/",
-      "url": "https://nitter.net/WIRED/status/2024901551895023991#m",
-      "summary": "In July, we reported that a subsidiary of Cantor Fitzgerald, which is run by the sons of US commerce secretary Howard Lutnick, was letting clients essentially bet that President Donald Trump’s tariffs would be struck down in court. wired.com/story/cantor-fitzg…",
-      "image": "https://nitter.net/pic/card_img%2F2024891214194245632%2F2FwvIPm5%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 17:38:45 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "Tesla loses bid to overturn $243M Autopilot verdict https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/?utm_source=dlvr.it&utm_medium=twitter",
@@ -1174,14 +1286,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024885587719933952%2Fkliz5QJX%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 16:35:18 GMT",
       "source": "X/@arstechnica"
-    },
-    {
-      "title": "In a 6-3 ruling, justices upended the Trump administration's signature economic policy, potentially putting the US government on the hook for at least $175 billion in tariff refunds. https://www.wired.com/story/supreme-court-trump-tariffs-ruling/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024885486662164872#m",
-      "summary": "In a 6-3 ruling, justices upended the Trump administration's signature economic policy, potentially putting the US government on the hook for at least $175 billion in tariff refunds. wired.com/story/supreme-cour…",
-      "image": "https://nitter.net/pic/card_img%2F2024886858044657664%2FIVvV4_Na%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 16:34:55 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’ https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/?utm_source=dlvr.it&utm_medium=twitter",
@@ -1376,14 +1480,6 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
       "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
       "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1392,27 +1488,11 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
-      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
-      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
-      "image": null,
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
-      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
-      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1465,17 +1545,17 @@
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
