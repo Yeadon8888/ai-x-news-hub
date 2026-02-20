@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-20T14:51:26.790176+08:00",
-  "count": 194,
+  "updated_at": "2026-02-20T15:55:24.940087+08:00",
+  "count": 193,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -384,18 +384,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
-      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
-      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
-      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
       "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
       "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
       "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
+      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
+      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
+      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -475,7 +475,7 @@
       "title": "The Pitt has a sharp take on AI https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
       "url": "https://nitter.net/verge/status/2024624414932029779#m",
       "summary": "The Pitt has a sharp take on AI theverge.com/entertainment/8…",
-      "image": "https://nitter.net/pic/card_img%2F2024624415313711108%2F9OHHvpNJ%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Thu, 19 Feb 2026 23:17:30 GMT",
       "source": "X/@verge"
     },
@@ -880,14 +880,6 @@
       "source": "X/@verge"
     },
     {
-      "title": "New York hits the brakes on robotaxi expansion plan https://techcrunch.com/2026/02/19/new-york-hits-the-brakes-on-robotaxi-expansion-plan/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024528307337990161#m",
-      "summary": "New York hits the brakes on robotaxi expansion plan techcrunch.com/2026/02/19/ne…",
-      "image": "https://nitter.net/pic/card_img%2F2024198274228350976%2FmKqbxNvj%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 16:55:37 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Turtle Beach’s new PC controller with swiveling sticks is 30 percent off https://www.theverge.com/gadgets/881030/turtle-beach-stealth-pivot-controller-lego-mario-yoshi-deal-sale",
       "url": "https://nitter.net/verge/status/2024526291777847300#m",
       "summary": "Turtle Beach’s new PC controller with swiveling sticks is 30 percent off theverge.com/gadgets/881030/…",
@@ -1016,30 +1008,6 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
-      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
-      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
-      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
-      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
-      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
       "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
       "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
       "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
@@ -1080,18 +1048,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
-      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
-      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
       "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
       "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
+      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
+      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -1280,14 +1248,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "Best OpenAI sweatshirt ever",
-      "url": "https://nitter.net/sama/status/2023453083595141411#m",
-      "summary": "Best OpenAI sweatshirt ever",
-      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
-      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
-      "source": "X/@sama"
-    },
-    {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
       "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
       "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -1416,6 +1376,14 @@
       "source": "X/@xai"
     },
     {
+      "title": "General Catalyst commits $5B to India over five years https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024736675050770887#m",
+      "summary": "General Catalyst commits $5B to India over five years techcrunch.com/2026/02/19/ge…",
+      "image": "https://nitter.net/pic/card_img%2F2024736688350679042%2FxrwzpTWN%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 06:43:35 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
       "title": "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024729885512782188#m",
       "summary": "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms techcrunch.com/2026/02/19/al…",
@@ -1480,6 +1448,14 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
+      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
       "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
       "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1488,11 +1464,27 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
+      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
+      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
+      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
+      "image": null,
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
+      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
+      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
+      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
+      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1545,17 +1537,17 @@
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
