@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-20T23:00:21.459240+08:00  
-总条数：196  
+更新时间：2026-02-21T00:11:11.114333+08:00  
+总条数：197  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -121,12 +121,7 @@ Try it in beta in the @GeminiApp
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024186433339027868#m
 
-## 19. FDA does U-turn, will review Moderna's mRNA flu shot after shocking rejection https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
-- 内容摘要：FDA does U-turn, will review Moderna's mRNA flu shot after shocking rejection arstechnica.com/health/2026/…
-- 图片：![](https://nitter.net/pic/card_img%2F2024155547155795969%2FarV7iAsB%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/arstechnica/status/2024170389694533677#m
-
-## 20. RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. 
+## 19. RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. 
 
 From a Legend Interview with Mark Weatherford (NVIDIA Head of Cybersecurity Policy and Strategy) to deep-dive sessions alongside partners like Palo Alto Networks, Forescout, and Siemens, the focus is on integrating AI-driven cybersecurity into real-world OT environments. 
 
@@ -135,7 +130,7 @@ Meet us in Miami at S4x26 and see how NVIDIA is helping secure the next generati
 - 图片：![](https://nitter.net/pic/media%2FHBdFu5DWYAAxzEP.jpg)
 - 链接：https://nitter.net/NVIDIANetworkng/status/2024163232877797699#m
 
-## 21. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
+## 20. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
 
 All generations from the app also include SynthID: our invisible watermark for identifying Google AI content.
 
@@ -144,7 +139,7 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151169531002880%2Fimg%2FeDffB8QLJpGKVIqS.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153074315497495#m
 
-## 22. R to @GoogleDeepMind: We’re giving creators more control over what they produce, helping them steer:
+## 21. R to @GoogleDeepMind: We’re giving creators more control over what they produce, helping them steer:
 🔵 Tempo settings
 🔵 Specific vocal styles
 🔵 Precise lyrics
@@ -152,7 +147,7 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153072046424556#m
 
-## 23. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
+## 22. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.
 🔵 Realistic vocals that sound natural and expressive.
 🔵 Lyrical clarity without missing or jumbled words.
@@ -161,21 +156,21 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153069919813993#m
 
-## 24. We just dropped Lyria 3: our latest generative music model. 🔊 
+## 23. We just dropped Lyria 3: our latest generative music model. 🔊 
 
 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵
 - 内容摘要：We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153067654902014#m
 
-## 25. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
+## 24. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
 
 From training and mentorship for students to powering innovation hubs, we’re supporting India to apply AI where it can have the most impact. → https://goo.gle/4rrFYiy
 - 内容摘要：We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳 From training and mentorship for students to powering innovation hubs, we’re supporting I
 - 图片：无
 - 链接：https://nitter.net/GoogleDeepMind/status/2024077945413816476#m
 
-## 26. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
+## 25. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
 
 With NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys, @Persistentsys, @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare.
 
@@ -184,7 +179,7 @@ Read more: https://nvda.ws/4bOuoZQ
 - 图片：![](https://nitter.net/pic/media%2FHBZujdaW4AAsysJ.jpg)
 - 链接：https://nitter.net/NVIDIAAP/status/2023926641961955484#m
 
-## 27. India is entering a new age of industrialization. 👏
+## 26. India is entering a new age of industrialization. 👏
 
 India’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence, @Siemens, @Synopsys.
 
@@ -195,7 +190,7 @@ Together, we're advancing the nation’s AI boom using applications accelerated 
 - 图片：![](https://nitter.net/pic/media%2FHBZnXMCXQAEmk_O.jpg)
 - 链接：https://nitter.net/nvidia/status/2023918736881623505#m
 
-## 28. We're committing to cover electricity price increases from our data centers.
+## 27. We're committing to cover electricity price increases from our data centers.
 
 To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.
 
@@ -204,14 +199,14 @@ Read more: https://www.anthropic.com/news/covering-electricity-price-increases
 - 图片：![](https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2021694494215901314#m
 
-## 29. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
+## 28. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
 
 The future has never looked more exciting!
 - 内容摘要：Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg)
 - 链接：https://nitter.net/xai/status/2021667200885829667#m
 
-## 30. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
+## 29. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
 
 The first paper built a research agent #Aletheia, powered by an advanced version of Gemini Deep Think, that can autonomously produce publishable math research and crack open Erdős problems.
 
@@ -222,33 +217,33 @@ See the thread for details about the two papers and the joint blog post.
 - 图片：![](https://nitter.net/pic/media%2FHA5HCv-bsAQ1fkV.jpg)
 - 链接：https://nitter.net/lmthang/status/2021631397614731563#m
 
-## 31. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
+## 30. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
 
 Thank you to all the builders; you inspire us to work even harder.
 - 内容摘要：From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly. Thank you to all the builders; you inspire us to work even harder. Craig Weiss (@crai
 - 图片：无
 - 链接：https://nitter.net/sama/status/2021606985469211065#m
 
-## 32. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+## 31. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
 - 内容摘要：We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
 - 图片：无
 - 链接：https://nitter.net/sama/status/2021452911511998557#m
 
-## 33. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
+## 32. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
 
 Read the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report
 - 内容摘要：Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotag
 - 图片：无
 - 链接：https://nitter.net/AnthropicAI/status/2021397953848672557#m
 
-## 34. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
+## 33. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
 
 Today we’re delivering on that commitment for Claude Opus 4.6.
 - 内容摘要：When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today w
 - 图片：无
 - 链接：https://nitter.net/AnthropicAI/status/2021397952791707696#m
 
-## 35. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
+## 34. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
 
 This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.
 
@@ -257,7 +252,7 @@ Learn more: https://nvda.ws/4rmj3Fm
 - 图片：![](https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg)
 - 链接：https://nitter.net/nvidianewsroom/status/2023870182524145845#m
 
-## 36. RT by @sama: It's been a huge month for Codex. 
+## 35. RT by @sama: It's been a huge month for Codex. 
 5.3, Spark, Codex app, OpenClaw.
 We're accelerating. Looking for top people in:
 
@@ -275,24 +270,24 @@ DM me with a link to what you've built
 - 图片：无
 - 链接：https://nitter.net/ajambrosino/status/2023850810183217184#m
 
-## 37. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
+## 36. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
 - 内容摘要：See you all at Google I/O starting May 19th! io.google
 - 图片：无
 - 链接：https://nitter.net/sundarpichai/status/2023847540400288134#m
 
-## 38. Happy for my brother.
+## 37. Happy for my brother.
 
 An absolute triumph for Benchmark.
 - 内容摘要：Happy for my brother. An absolute triumph for Benchmark. Jack Altman (@jaltma) I’m really excited to share that I’m joining Benchmark. The past two years as a full time investor have been the most rewarding of my career.
 - 图片：无
 - 链接：https://nitter.net/sama/status/2023839310764802349#m
 
-## 39. Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.
+## 38. Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.
 - 内容摘要：Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 bi
 - 图片：![](https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419)
 - 链接：https://nitter.net/sama/status/2023838999341920283#m
 
-## 40. RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.
+## 39. RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.
 
 It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.
 
@@ -300,3 +295,10 @@ It also features a 1M token context window in beta.
 - 内容摘要：This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context windo
 - 图片：![](https://nitter.net/pic/media%2FHBYMPQSaEAAbP8J.jpg)
 - 链接：https://nitter.net/claudeai/status/2023817132581208353#m
+
+## 40. We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors.
+
+Read more: https://anthropic.com/news/anthropic-rwanda-mou
+- 内容摘要：We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors. Read more: anthropic.com/news/anthropic…
+- 图片：![](https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2023789983711326380#m
