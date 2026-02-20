@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T06:39:31.450956+08:00",
-  "count": 194,
+  "updated_at": "2026-02-21T07:41:05.259267+08:00",
+  "count": 178,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -104,14 +104,6 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/",
-      "url": "https://nitter.net/OpenAI/status/2024193883748651102#m",
-      "summary": "Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Wed, 18 Feb 2026 18:46:44 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶\n\nTry it in beta in the @GeminiApp",
       "url": "https://nitter.net/GoogleDeepMind/status/2024186433339027868#m",
       "summary": "Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶 Try it in beta in the @GeminiApp Video",
@@ -140,14 +132,6 @@
       "url": "https://nitter.net/GoogleDeepMind/status/2024153072046424556#m",
       "summary": "We’re giving creators more control over what they produce, helping them steer: 🔵 Tempo settings 🔵 Specific vocal styles 🔵 Precise lyrics Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg",
-      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
-      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
       "published": "Wed, 18 Feb 2026 16:04:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -288,38 +272,6 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
-      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
-      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
-      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
-      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
-      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
-      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Listen to the OpenAI Podcast on—\nSpotify\nhttps://open.spotify.com/episode/0qR8WghMlv19sF08bQDClM?si=HS9Pr2XLTMusVXGyAbWhfw\nApple\nhttps://podcasts.apple.com/us/podcast/episode-13-the-thinking-behind-ads-in-chatgpt/id1820330260?i=1000748954840\nYouTube\nhttps://youtu.be/2agJo3Jf_O4",
-      "url": "https://nitter.net/OpenAI/status/2021025336897700114#m",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/0qR… Apple podcasts.apple.com/us/podcas… YouTube piped.video/2agJo3Jf_O4",
-      "image": "https://nitter.net/pic/card_img%2F2023835392454389760%2FGRejdARy%3Fformat%3Djpg%26name%3D800x320_1",
-      "published": "Tue, 10 Feb 2026 00:56:03 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "This week's podcast is all about ads.\n\nAsad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all.",
-      "url": "https://nitter.net/OpenAI/status/2021025290366091442#m",
-      "summary": "This week's podcast is all about ads. Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all. Video",
-      "image": "https://nitter.net/pic/media%2FHAu1kHKbsAAXOK3.jpg",
-      "published": "Tue, 10 Feb 2026 00:55:52 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "We are excited about partnering with @fal on the new Grok Imagine API!",
       "url": "https://nitter.net/xai/status/2016755009304568287#m",
       "summary": "We are excited about partnering with @fal on the new Grok Imagine API! fal (@fal) fal is proud to partner with @xai as Grok Imagine’s day-0 platform partner xAI's latest image & video gen + editing model ✨ Stunning photorealistic images/videos from text ⚡ Lightning-fast generation 🎥 Dynamic animations with precise control 🎨 Edit elements, styles & more Video — https://nitter.net/fal/status/2016746472931283366#m",
@@ -384,14 +336,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "Newly hatched chickens form the same sound association we do https://arstechnica.com/science/2026/02/newly-hatched-chickens-form-the-same-sound-association-we-do/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024570361560649881#m",
-      "summary": "Newly hatched chickens form the same sound association we do arstechnica.com/science/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2024646992291393536%2FHUO7I71B%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 19:42:43 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
       "title": "R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.\n\nFind out more ⬇️\nhttp://goo.gle/4s5yXE5",
       "url": "https://nitter.net/GoogleDeepMind/status/2024570293520396796#m",
       "summary": "Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers. Find out more ⬇️ goo.gle/4s5yXE5",
@@ -406,22 +350,6 @@
       "image": "https://nitter.net/pic/media%2FHBi4N3_XAAAg_KI.jpg",
       "published": "Thu, 19 Feb 2026 19:42:26 GMT",
       "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "F1: Preseason tests shows how different 2026 will be https://arstechnica.com/cars/2026/02/f1-preseason-tests-shows-how-different-2026-will-be/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024551726465122485#m",
-      "summary": "F1: Preseason tests shows how different 2026 will be arstechnica.com/cars/2026/02…",
-      "image": "https://nitter.net/pic/card_img%2F2024551768840163329%2F_ELjRz2X%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 18:28:40 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
-      "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving https://arstechnica.com/google/2026/02/google-announces-gemini-3-1-pro-says-its-better-at-complex-problem-solving/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024540393510195232#m",
-      "summary": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving arstechnica.com/google/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024540396953669632%2Fe0s4Mm0X%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 17:43:38 GMT",
-      "source": "X/@arstechnica"
     },
     {
       "title": "RT by @nvidia: ✨The AI supercomputer that sparked the AI revolution. \n#TBT #NVIDIADGX #DecadeOfDGX",
@@ -448,7 +376,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -528,22 +456,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
-      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
-      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
-      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "RT by @GoogleDeepMind: Early testers of Gemini 3 Deep Think are already seeing results.\n\nWe partnered with researchers to explore how this model could tackle rigorous, real-world applications — from spotting hidden flaws in research papers to optimizing semiconductor growth.\n\nHere’s how early testers are using Gemini 3 Deep Think to help solve the \"unsolvable\" 🧵↓",
       "url": "https://nitter.net/Google/status/2022007977419415958#m",
       "summary": "Early testers of Gemini 3 Deep Think are already seeing results. We partnered with researchers to explore how this model could tackle rigorous, real-world applications — from spotting hidden flaws in research papers to optimizing semiconductor growth. Here’s how early testers are using Gemini 3 Deep Think to help solve the \"unsolvable\" 🧵↓",
@@ -576,18 +488,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
-      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
       "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
       "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
+      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -784,22 +696,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "We’re starting to roll out a test for ads in ChatGPT today to a subset of free and Go users in the U.S.\n\nAds do not influence ChatGPT’s answers. Ads are labeled as sponsored and visually separate from the response.\n\nOur goal is to give everyone access to ChatGPT for free with fewer limits, while protecting the trust they place in it for important and personal tasks.\n\nhttp://openai.com/index/testing-ads-in-chatgpt/",
-      "url": "https://nitter.net/OpenAI/status/2020936703763153010#m",
-      "summary": "We’re starting to roll out a test for ads in ChatGPT today to a subset of free and Go users in the U.S. Ads do not influence ChatGPT’s answers. Ads are labeled as sponsored and visually separate from the response. Our goal is to give everyone access to ChatGPT for free with fewer limits, while protecting the trust they place in it for important and personal tasks. openai.com/index/testing-ads…",
-      "image": "https://nitter.net/pic/media%2FHAvNn4GbwAA7ykr.jpg",
-      "published": "Mon, 09 Feb 2026 19:03:52 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "Pinned: You can just build things.",
-      "url": "https://nitter.net/OpenAI/status/2020649757434327362#m",
-      "summary": "You can just build things. Video",
-      "image": "https://nitter.net/pic/media%2FHAqlTMtacAAbhZH.jpg",
-      "published": "Mon, 09 Feb 2026 00:03:38 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "One Team 🚀\nhttps://x.ai/news/xai-joins-spacex",
       "url": "https://nitter.net/xai/status/2018441619230568627#m",
       "summary": "One Team 🚀 x.ai/news/xai-joins-spacex",
@@ -862,6 +758,38 @@
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164699200999424%2Fimg%2FJh07MFVcUBi2tLiU.jpg",
       "published": "Mon, 02 Feb 2026 03:29:07 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024990225437696123#m",
+      "summary": "Microsoft gaming chief Phil Spencer steps down after 38 years with company arstechnica.com/gaming/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024991147840434176%2Fc-yb32fE%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 23:31:06 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024987707823550671#m",
+      "summary": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide arstechnica.com/health/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024988501385568256%2FP7Yafnfz%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 23:21:06 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "The creator economy’s ad revenue problem and India’s AI ambitions https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2024983053622534591#m",
+      "summary": "The creator economy’s ad revenue problem and India’s AI ambitions techcrunch.com/video/the-cre…",
+      "image": "https://nitter.net/pic/card_img%2F2024482267377074176%2FC1pB5XnS%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 23:02:37 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Discord and Persona end partnership after shady UK age test sparks outcry https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024979833122607371#m",
+      "summary": "Discord and Persona end partnership after shady UK age test sparks outcry arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2024978173939576833%2FE00ZxNxg%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 22:49:49 GMT",
+      "source": "X/@arstechnica"
     },
     {
       "title": "Epilogue’s adorable GB Operator plug-in gizmo is a must-have for collectors of retro Nintendo Game Boy games. https://www.wired.com/review/epilogue-gb-operator/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -979,7 +907,7 @@
       "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024951340284432656#m",
       "summary": "Anthropic-funded group backs candidate attacked by rival AI super PAC techcrunch.com/2026/02/20/an…",
-      "image": "https://nitter.net/pic/card_img%2F2024951764047294464%2FUGGBREMK%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024950589034250240%2Frbgwc2Fp%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 20:56:35 GMT",
       "source": "X/@TechCrunch"
     },
@@ -987,7 +915,7 @@
       "title": "This Samsung OLED comes loaded with features specifically for gamers. https://www.wired.com/story/samsung-s90f-deal-226/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2024950640254795937#m",
       "summary": "This Samsung OLED comes loaded with features specifically for gamers. wired.com/story/samsung-s90f…",
-      "image": "https://nitter.net/pic/card_img%2F2024950254735704065%2F9H8dVArE%3Fformat%3Dpng%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024982571046608897%2FKAOK2kzY%3Fformat%3Dpng%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 20:53:49 GMT",
       "source": "X/@WIRED"
     },
@@ -1131,7 +1059,7 @@
       "title": "With NIH in chaos, its controversial director is taking over CDC, too https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024933683824918982#m",
       "summary": "With NIH in chaos, its controversial director is taking over CDC, too arstechnica.com/health/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024933687226454016%2FNQXCA5nz%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024968677985067009%2F3WuhibEd%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 19:46:26 GMT",
       "source": "X/@arstechnica"
     },
@@ -1315,7 +1243,7 @@
       "title": "Meta’s metaverse leaves virtual reality https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024877795369992346#m",
       "summary": "Meta’s metaverse leaves virtual reality techcrunch.com/2026/02/20/me…",
-      "image": "https://nitter.net/pic/card_img%2F2024877704915361793%2FDhpEEGHP%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024982436581695488%2Fj6Ty-PpY%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 16:04:21 GMT",
       "source": "X/@TechCrunch"
     },
@@ -1443,7 +1371,7 @@
       "title": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024820361846763787#m",
       "summary": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books arstechnica.com/tech-policy/…",
-      "image": "https://nitter.net/pic/card_img%2F2024822962348527617%2Fu88Bbw-B%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024820365818789888%2FXv6XF-oA%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 12:16:08 GMT",
       "source": "X/@arstechnica"
     },
@@ -1464,44 +1392,12 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "General Catalyst commits $5B to India over five years https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024736675050770887#m",
-      "summary": "General Catalyst commits $5B to India over five years techcrunch.com/2026/02/19/ge…",
-      "image": "https://nitter.net/pic/card_img%2F2024736688350679042%2FxrwzpTWN%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 06:43:35 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "There’s still time to win a Golden Ticket to attend GTC ✨\n\nScore VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more.\n\nEnter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience.\n\nContest details ➡️ https://nvda.ws/464svEF",
       "url": "https://nitter.net/nvidia/status/2022401698753335714#m",
       "summary": "There’s still time to win a Golden Ticket to attend GTC ✨ Score VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more. Enter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience. Contest details ➡️ nvda.ws/464svEF",
       "image": "https://nitter.net/pic/media%2FHBEDn-6XkAAzP78.jpg",
       "published": "Fri, 13 Feb 2026 20:05:14 GMT",
       "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
-      "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
-      "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2022237749483552768%2FQgew0edQ%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "GPT-5.2 derived a new result in theoretical physics.\n\nWe’re releasing the result in a preprint with researchers from @the_IAS, @VanderbiltU, @Cambridge_Uni, and @Harvard. It shows that a gluon interaction many physicists expected would not occur can arise under specific conditions.\n\nhttps://openai.com/index/new-result-theoretical-physics/",
-      "url": "https://nitter.net/OpenAI/status/2022390096625078389#m",
-      "summary": "GPT-5.2 derived a new result in theoretical physics. We’re releasing the result in a preprint with researchers from @the_IAS , @VanderbiltU , @Cambridge_Uni , and @Harvard . It shows that a gluon interaction many physicists expected would not occur can arise under specific conditions. openai.com/index/new-result-…",
-      "image": "https://nitter.net/pic/card_img%2F2022420787576160256%2FUNwkjz_a%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 13 Feb 2026 19:19:07 GMT",
-      "source": "X/@OpenAI"
     },
     {
       "title": "R to @GoogleDeepMind: U.S. Google AI Ultra subscribers can start creating  ↓\nhttps://labs.google/projectgenie",
@@ -1542,30 +1438,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024773344189726720%2FX2xU-MOp%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 06 Feb 2026 23:20:27 GMT",
       "source": "X/@xai"
-    },
-    {
-      "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
-      "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
-      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
-      "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
-      "published": "Fri, 06 Feb 2026 17:16:33 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "Over 300M people use ChatGPT to learn how to do something every week. \n\nMore than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. \n\nThese are just a few stories of what they are building.",
-      "url": "https://nitter.net/OpenAI/status/2019822532795547807#m",
-      "summary": "Over 300M people use ChatGPT to learn how to do something every week. More than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. These are just a few stories of what they are building. Video",
-      "image": "https://nitter.net/pic/media%2FHAfZ9lWaoAA47ME.png",
-      "published": "Fri, 06 Feb 2026 17:16:32 GMT",
-      "source": "X/@OpenAI"
     }
   ],
   "note": "数据来自 X 公开镜像 RSS（Nitter），可用性受镜像状态影响。"
