@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-20T10:50:03.814365+08:00  
-总条数：73  
+更新时间：2026-02-20T11:50:38.420848+08:00  
+总条数：188  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -12,26 +12,79 @@ Watch the full video 📹 https://nvda.ws/40jncOc
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024236532358381568%2Fimg%2Fr5pPkJl8X4TcdS40.jpg)
 - 链接：https://nitter.net/NVIDIARobotics/status/2024236678999638408#m
 
-## 2. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
+## 2. Verizon might drop its annoying 35-day wait for unlocking paid-off phones https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Verizon might drop its annoying 35-day wait for unlocking paid-off phones arstechnica.com/tech-policy/…
+- 图片：![](https://nitter.net/pic/card_img%2F2023084632489500672%2F_7Mv6k57%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024227556044787815#m
+
+## 3. Chevy Bolt, BMW i3, or something else? At $10k, you have lots of EV options https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Chevy Bolt, BMW i3, or something else? At $10k, you have lots of EV options arstechnica.com/cars/2026/02…
+- 图片：![](https://nitter.net/pic/card_img%2F2024220369998028800%2Fnnjanz5D%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024218741471605011#m
+
+## 4. Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths” https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths” arstechnica.com/tech-policy/…
+- 图片：![](https://nitter.net/pic/card_img%2F2024211639893979136%2FLQZlzkgr%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024210682045223104#m
+
+## 5. R to @AnthropicAI: A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone.
+
+For full details, and our recommendations to developers and policymakers, see the blog: https://www.anthropic.com/research/measuring-agent-autonomy
+- 内容摘要：A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone. For full details, and our recommendations to develope
+- 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2024210056871629072#m
+
+## 6. R to @AnthropicAI: Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. 
+
+As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.
+- 内容摘要：Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage o
+- 图片：![](https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png)
+- 链接：https://nitter.net/AnthropicAI/status/2024210053369385192#m
+
+## 7. New Anthropic research: Measuring AI agent autonomy in practice.
+
+We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.
+
+Read more: https://www.anthropic.com/research/measuring-agent-autonomy
+- 内容摘要：New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and wha
+- 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2024210035480678724#m
+
+## 8. 5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas arstechnica.com/gadgets/2026…
+- 图片：![](https://nitter.net/pic/card_img%2F2024218533677121537%2FkAn9MDzk%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024205645701066999#m
+
+## 9. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
 
 See how it all comes together with Google Cloud to help elite athletes find their edge. → https://goo.gle/4r4A86z
 - 内容摘要：Not all the action happens on the mountain. There’s a lot that happens after every run. See how it all comes together with Google Cloud to help elite athletes find their edge. → goo.gle/4r4A86z Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024200959732207616%2Fimg%2FHV4Q2SHYq0RP3e-K.jpg)
 - 链接：https://nitter.net/googlecloud/status/2024201066640785837#m
 
-## 3. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
+## 10. Microsoft's new 10,000-year data storage medium: glass https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Microsoft's new 10,000-year data storage medium: glass arstechnica.com/science/2026…
+- 图片：![](https://nitter.net/pic/card_img%2F2024214937795518464%2F_I5UhHtS%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024198090702651854#m
+
+## 11. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
 - 内容摘要：Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…
 - 图片：![](https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/OpenAI/status/2024193883748651102#m
 
-## 4. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
+## 12. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
 
 Try it in beta in the @GeminiApp
 - 内容摘要：Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶 Try it in beta in the @GeminiApp Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024186433339027868#m
 
-## 5. RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. 
+## 13. FDA does U-turn, will review Moderna's mRNA flu shot after shocking rejection https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：FDA does U-turn, will review Moderna's mRNA flu shot after shocking rejection arstechnica.com/health/2026/…
+- 图片：![](https://nitter.net/pic/card_img%2F2024155547155795969%2FarV7iAsB%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024170389694533677#m
+
+## 14. RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. 
 
 From a Legend Interview with Mark Weatherford (NVIDIA Head of Cybersecurity Policy and Strategy) to deep-dive sessions alongside partners like Palo Alto Networks, Forescout, and Siemens, the focus is on integrating AI-driven cybersecurity into real-world OT environments. 
 
@@ -40,7 +93,12 @@ Meet us in Miami at S4x26 and see how NVIDIA is helping secure the next generati
 - 图片：![](https://nitter.net/pic/media%2FHBdFu5DWYAAxzEP.jpg)
 - 链接：https://nitter.net/NVIDIANetworkng/status/2024163232877797699#m
 
-## 6. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
+## 15. Gemini can now generate AI music for you, no lyrics required https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Gemini can now generate AI music for you, no lyrics required arstechnica.com/google/2026/…
+- 图片：![](https://nitter.net/pic/card_img%2F2024154027802660864%2FXvV7HmR0%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024154023973294184#m
+
+## 16. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
 
 All generations from the app also include SynthID: our invisible watermark for identifying Google AI content.
 
@@ -49,7 +107,7 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151169531002880%2Fimg%2FeDffB8QLJpGKVIqS.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153074315497495#m
 
-## 7. R to @GoogleDeepMind: We’re giving creators more control over what they produce, helping them steer:
+## 17. R to @GoogleDeepMind: We’re giving creators more control over what they produce, helping them steer:
 🔵 Tempo settings
 🔵 Specific vocal styles
 🔵 Precise lyrics
@@ -57,21 +115,45 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153072046424556#m
 
-## 8. We just dropped Lyria 3: our latest generative music model. 🔊 
+## 18. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
+🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.
+🔵 Realistic vocals that sound natural and expressive.
+🔵 Lyrical clarity without missing or jumbled words.
+🔵 Diverse range supporting multiple genres and languages.
+- 内容摘要：Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 D
+- 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg)
+- 链接：https://nitter.net/GoogleDeepMind/status/2024153069919813993#m
+
+## 19. We just dropped Lyria 3: our latest generative music model. 🔊 
 
 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵
 - 内容摘要：We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153067654902014#m
 
-## 9. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
+## 20. Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear arstechnica.com/gadgets/2026…
+- 图片：![](https://nitter.net/pic/card_img%2F2024139837935104000%2FKckLWs7v%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024138911799452044#m
+
+## 21. What the Chinese art of tian-tsui has to do with kingfishers https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：What the Chinese art of tian-tsui has to do with kingfishers arstechnica.com/science/2026…
+- 图片：![](https://nitter.net/pic/card_img%2F2024136038759702529%2FmONqxNp0%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024130097851281551#m
+
+## 22. Inside the DHS forum where ICE agents trash talk one another https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter
+- 内容摘要：Inside the DHS forum where ICE agents trash talk one another arstechnica.com/tech-policy/…
+- 图片：![](https://nitter.net/pic/card_img%2F2024136360995553280%2FDQF9K2t8%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/arstechnica/status/2024126320482165187#m
+
+## 23. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
 
 From training and mentorship for students to powering innovation hubs, we’re supporting India to apply AI where it can have the most impact. → https://goo.gle/4rrFYiy
 - 内容摘要：We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳 From training and mentorship for students to powering innovation hubs, we’re supporting I
 - 图片：无
 - 链接：https://nitter.net/GoogleDeepMind/status/2024077945413816476#m
 
-## 10. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
+## 24. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
 
 With NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys, @Persistentsys, @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare.
 
@@ -80,7 +162,7 @@ Read more: https://nvda.ws/4bOuoZQ
 - 图片：![](https://nitter.net/pic/media%2FHBZujdaW4AAsysJ.jpg)
 - 链接：https://nitter.net/NVIDIAAP/status/2023926641961955484#m
 
-## 11. India is entering a new age of industrialization. 👏
+## 25. India is entering a new age of industrialization. 👏
 
 India’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence, @Siemens, @Synopsys.
 
@@ -91,7 +173,23 @@ Together, we're advancing the nation’s AI boom using applications accelerated 
 - 图片：![](https://nitter.net/pic/media%2FHBZnXMCXQAEmk_O.jpg)
 - 链接：https://nitter.net/nvidia/status/2023918736881623505#m
 
-## 12. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
+## 26. We're committing to cover electricity price increases from our data centers.
+
+To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.
+
+Read more: https://www.anthropic.com/news/covering-electricity-price-increases
+- 内容摘要：We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to 
+- 图片：![](https://nitter.net/pic/card_img%2F2021834998400102400%2FL1ReHUdN%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2021694494215901314#m
+
+## 27. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
+
+The future has never looked more exciting!
+- 内容摘要：Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video
+- 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg)
+- 链接：https://nitter.net/xai/status/2021667200885829667#m
+
+## 28. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
 
 The first paper built a research agent #Aletheia, powered by an advanced version of Gemini Deep Think, that can autonomously produce publishable math research and crack open Erdős problems.
 
@@ -102,7 +200,33 @@ See the thread for details about the two papers and the joint blog post.
 - 图片：![](https://nitter.net/pic/media%2FHA5HCv-bsAQ1fkV.jpg)
 - 链接：https://nitter.net/lmthang/status/2021631397614731563#m
 
-## 13. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
+## 29. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
+
+Thank you to all the builders; you inspire us to work even harder.
+- 内容摘要：From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly. Thank you to all the builders; you inspire us to work even harder. Craig Weiss (@crai
+- 图片：无
+- 链接：https://nitter.net/sama/status/2021606985469211065#m
+
+## 30. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+- 内容摘要：We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+- 图片：无
+- 链接：https://nitter.net/sama/status/2021452911511998557#m
+
+## 31. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
+
+Today we’re delivering on that commitment for Claude Opus 4.6.
+- 内容摘要：When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today w
+- 图片：无
+- 链接：https://nitter.net/AnthropicAI/status/2021397952791707696#m
+
+## 32. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
+
+Read the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report
+- 内容摘要：Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotag
+- 图片：无
+- 链接：https://nitter.net/AnthropicAI/status/2021397953848672557#m
+
+## 33. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
 
 This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.
 
@@ -111,179 +235,58 @@ Learn more: https://nvda.ws/4rmj3Fm
 - 图片：![](https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg)
 - 链接：https://nitter.net/nvidianewsroom/status/2023870182524145845#m
 
-## 14. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
+## 34. RT by @sama: It's been a huge month for Codex. 
+5.3, Spark, Codex app, OpenClaw.
+We're accelerating. Looking for top people in:
+
+- Full stack Typescript
+- Design engineering
+- Windows experience+distribution
+- React+Node performance
+- Crazy advanced git
+- Agent orchestration
+- Remote codex
+- Mobile
+
+DM me with a link to what you've built
+- 内容摘要：It's been a huge month for Codex. 5.3, Spark, Codex app, OpenClaw. We're accelerating. Looking for top people in: - Full stack Typescript - Design engineering - Windows experience+distribution - React+Node performance - 
+- 图片：无
+- 链接：https://nitter.net/ajambrosino/status/2023850810183217184#m
+
+## 35. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
 - 内容摘要：See you all at Google I/O starting May 19th! io.google
 - 图片：无
 - 链接：https://nitter.net/sundarpichai/status/2023847540400288134#m
 
-## 15. Deep research in ChatGPT is now powered by GPT-5.2.
+## 36. Happy for my brother.
 
-Rolling out starting today with more improvements.
-- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
+An absolute triumph for Benchmark.
+- 内容摘要：Happy for my brother. An absolute triumph for Benchmark. Jack Altman (@jaltma) I’m really excited to share that I’m joining Benchmark. The past two years as a full time investor have been the most rewarding of my career.
+- 图片：无
+- 链接：https://nitter.net/sama/status/2023839310764802349#m
+
+## 37. Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.
+- 内容摘要：Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 bi
+- 图片：![](https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419)
+- 链接：https://nitter.net/sama/status/2023838999341920283#m
+
+## 38. RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.
+
+It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.
+
+It also features a 1M token context window in beta.
+- 内容摘要：This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context windo
+- 图片：![](https://nitter.net/pic/media%2FHBYMPQSaEAAbP8J.jpg)
+- 链接：https://nitter.net/claudeai/status/2023817132581208353#m
+
+## 39. We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors.
+
+Read more: https://anthropic.com/news/anthropic-rwanda-mou
+- 内容摘要：We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors. Read more: anthropic.com/news/anthropic…
+- 图片：![](https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2023789983711326380#m
+
+## 40. RT by @sama: deep research update!!
+- 内容摘要：deep research update!! OpenAI (@OpenAI) Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video — https://nitter.net/OpenAI/status/2021299935678026168#m
 - 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
-- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
-
-## 16. R to @OpenAI: Now in deep research you can:
-
-- Connect to apps in ChatGPT and search specific sites
-
-- Track real-time progress and interrupt with follow-ups or new sources
-
-- View fullscreen reports
-- 内容摘要：Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports
-- 图片：![](https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg)
-- 链接：https://nitter.net/OpenAI/status/2021299936948781095#m
-
-## 17. R to @OpenAI: Listen to the OpenAI Podcast on—
-Spotify
-https://open.spotify.com/episode/0qR8WghMlv19sF08bQDClM?si=HS9Pr2XLTMusVXGyAbWhfw
-Apple
-https://podcasts.apple.com/us/podcast/episode-13-the-thinking-behind-ads-in-chatgpt/id1820330260?i=1000748954840
-YouTube
-https://youtu.be/2agJo3Jf_O4
-- 内容摘要：Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/0qR… Apple podcasts.apple.com/us/podcas… YouTube piped.video/2agJo3Jf_O4
-- 图片：![](https://nitter.net/pic/card_img%2F2023835392454389760%2FGRejdARy%3Fformat%3Djpg%26name%3D800x320_1)
-- 链接：https://nitter.net/OpenAI/status/2021025336897700114#m
-
-## 18. This week's podcast is all about ads.
-
-Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all.
-- 内容摘要：This week's podcast is all about ads. Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all.
-- 图片：![](https://nitter.net/pic/media%2FHAu1kHKbsAAXOK3.jpg)
-- 链接：https://nitter.net/OpenAI/status/2021025290366091442#m
-
-## 19. A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death. https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death. wired.com/story/an
-- 图片：![](https://nitter.net/pic/card_img%2F2024627386793529344%2FAwAhKeoi%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/WIRED/status/2024625834573602864#m
-
-## 20. RT by @WIRED: The FBI secretly controlled a staffer at a dark web drug market that did $100 million in sales. The informant allegedly approved the sale of drugs even after warnings they contained fentanyl—including dealers whose pills led to a confirmed overdose death. https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/
-- 内容摘要：The FBI secretly controlled a staffer at a dark web drug market that did $100 million in sales. The informant allegedly approved the sale of drugs even after warnings they contained fentanyl—including dealers whose pills
-- 图片：![](https://nitter.net/pic/card_img%2F2024627386793529344%2FAwAhKeoi%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/a_greenberg/status/2024625615714820537#m
-
-## 21. RT by @WIRED: SCOOP: MAGA's exclusive private club has an unusual figure in its inner circle—a former DC cop best known for a viral stop-and-frisk video that led to a lawsuit https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/
-- 内容摘要：SCOOP: MAGA's exclusive private club has an unusual figure in its inner circle—a former DC cop best known for a viral stop-and-frisk video that led to a lawsuit wired.com/story/magas-secret…
-- 图片：![](https://nitter.net/pic/card_img%2F2024587601257385987%2FtKXVW563%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/Knibbs/status/2024587322746888296#m
-
-## 22. The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer. https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer. wired.com
-- 图片：无
-- 链接：https://nitter.net/WIRED/status/2024586638203003327#m
-
-## 23. RT by @WIRED: wired.com/story/pew-pew-the-…
-- 内容摘要：wired.com/story/pew-pew-the-…
-- 图片：![](https://nitter.net/pic/card_img%2F2024577199777501184%2F09G5mNTj%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/car0linehaskins/status/2024581312359645191#m
-
-## 24. RT by @WIRED: just had my debut Made in China guest appearance!! : ) got to collab with @lmatsakis on this piece about the Chinese companies selling anti-drone tech on TikTok, featuring the opening line "PEW, PEW, PEW!"
-
-link in reply!
-- 内容摘要：just had my debut Made in China guest appearance!! : ) got to collab with @lmatsakis on this piece about the Chinese companies selling anti-drone tech on TikTok, featuring the opening line "PEW, PEW, PEW!" link in reply!
-- 图片：![](https://nitter.net/pic/media%2FHBjB7jWWIAA1qdW.jpg)
-- 链接：https://nitter.net/car0linehaskins/status/2024581282424934595#m
-
-## 25. On TikTok, Chinese manufacturers are advertising signal-blocking weapons with the breezy cadence of consumer lifestyle advertising. https://www.wired.com/story/pew-pew-the-chinese-sellers-marketing-military-drones-on-tiktok/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：On TikTok, Chinese manufacturers are advertising signal-blocking weapons with the breezy cadence of consumer lifestyle advertising. wired.com/story/pew-pew-the-…
-- 图片：![](https://nitter.net/pic/card_img%2F2024577199777501184%2F09G5mNTj%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/WIRED/status/2024575894270906547#m
-
-## 26. ‘Fallout,’ ‘Neighbors,’ and ‘Monarch: Legacy of Monsters’ are just a few of the TV shows we’re swooning over for February. https://www.wired.com/story/the-best-shows-to-stream-right-now/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：‘Fallout,’ ‘Neighbors,’ and ‘Monarch: Legacy of Monsters’ are just a few of the TV shows we’re swooning over for February. wired.com/story/the-best-sho…
-- 图片：![](https://nitter.net/pic/card_img%2F2024575891385282561%2F7OsWc7RJ%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/WIRED/status/2024575889866997847#m
-
-## 27. RT by @WIRED: “Pew, pew, pew!” a woman wearing sneakers and high-waisted pink trousers says cheerfully in a video uploaded to TikTok. “Jamming gun, good,” she adds, flashing a thumbs up. “Contact me!” 
-
- very fun story I worked on w/ Caroline Haskins:
-https://www.wired.com/story/pew-pew-the-chinese-sellers-marketing-military-drones-on-tiktok/
-- 内容摘要：“Pew, pew, pew!” a woman wearing sneakers and high-waisted pink trousers says cheerfully in a video uploaded to TikTok. “Jamming gun, good,” she adds, flashing a thumbs up. “Contact me!” very fun story I worked on w/ Car
-- 图片：![](https://nitter.net/pic/card_img%2F2024577199777501184%2F09G5mNTj%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/lmatsakis/status/2024575129431486552#m
-
-## 28. Workers describe a deteriorating culture at Block, the company behind Square and Cash App, where layoffs continue and employees are expected to use AI tools daily. https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：Workers describe a deteriorating culture at Block, the company behind Square and Cash App, where layoffs continue and employees are expected to use AI tools daily. wired.com/story/inside-rolli…
-- 图片：![](https://nitter.net/pic/card_img%2F2024578672376893442%2FtlfdOGy_%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/WIRED/status/2024574870651048302#m
-
-## 29. These compact Edifier speakers may not be the fanciest, but they'll blow your monitor's built-in speakers out of the water. https://www.wired.com/story/edifier-m60-deal-226/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：These compact Edifier speakers may not be the fanciest, but they'll blow your monitor's built-in speakers out of the water. wired.com/story/edifier-m60-…
-- 图片：无
-- 链接：https://nitter.net/WIRED/status/2024573391122931935#m
-
-## 30. RT by @WIRED: NEW: AI code translation startup Code Metal, which closed its series A funding round in November, has just raised another $125 million. The company makes a code translation and code testing platform for defense tech, among other industries https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/
-- 内容摘要：NEW: AI code translation startup Code Metal, which closed its series A funding round in November, has just raised another $125 million. The company makes a code translation and code testing platform for defense tech, amo
-- 图片：![](https://nitter.net/pic/card_img%2F2024658584324517889%2Fc1r_UyEL%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/LaurenGoode/status/2024572900670656978#m
-
-## 31. R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.
-
-Find out more ⬇️
-http://goo.gle/4s5yXE5
-- 内容摘要：Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers. Find out more ⬇️ goo.gle/4s5yXE5
-- 图片：![](https://nitter.net/pic/card_img%2F2024514934617624584%2Ff4XVMiFK%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024570293520396796#m
-
-## 32. We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️
-
-Watch how the model tackles complex terrain, maps out infrastructure, and simulates traffic to generate a high-quality visualization.
-- 内容摘要：We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️ Watch how the model tackles complex terrain, maps out infrastructure, and simulates traffic to generate a high-quality visualization. Video
-- 图片：![](https://nitter.net/pic/media%2FHBi4N3_XAAAg_KI.jpg)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024570291767181557#m
-
-## 33. The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs. https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs. wired.com/story/vibe-coding-…
-- 图片：![](https://nitter.net/pic/card_img%2F2024658584324517889%2Fc1r_UyEL%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/WIRED/status/2024568296482205758#m
-
-## 34. The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience. https://www.wired.com/story/perplexity-ads-shift-search-google/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev
-- 内容摘要：The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience. wired.com/story/perplexity-a…
-- 图片：![](https://nitter.net/pic/card_img%2F2024563703425683457%2Fs7bgtSnw%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/WIRED/status/2024563701425061921#m
-
-## 35. RT by @nvidia: ✨The AI supercomputer that sparked the AI revolution. 
-#TBT #NVIDIADGX #DecadeOfDGX
-- 内容摘要：✨The AI supercomputer that sparked the AI revolution. #TBT #NVIDIADGX #DecadeOfDGX NVIDIA Data Center (@NVIDIADC) Check out NVIDIA's DGX-1 on display, the first AI supercomputer in a box @at_scale_events #atscale2016 — h
-- 图片：![](https://nitter.net/pic/media%2FCrN9VsHUsAAVmmg.jpg)
-- 链接：https://nitter.net/NVIDIADC/status/2024536159632888104#m
-
-## 36. RT by @WIRED: I've never had so many people writing to me to ask about encrypted/secure/private tools for comms, collaboration, and organizing. So @lilyhnewman and I talked to experts and assembled this: the Wired guide to organizing in an age of surveillance. https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/
-- 内容摘要：I've never had so many people writing to me to ask about encrypted/secure/private tools for comms, collaboration, and organizing. So @lilyhnewman and I talked to experts and assembled this: the Wired guide to organizing 
-- 图片：![](https://nitter.net/pic/card_img%2F2024489572332146689%2F7E1JgwU2%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/a_greenberg/status/2024532900780064973#m
-
-## 37. RT by @WIRED: SCOOP: DHS strikes $1 billion purchasing agreement with Palantir.
-
-The news comes as Palantir leadership struggles to address internal tensions over the company's work with immigration enforcers.   
-
-Here's how it was announced internally:
-https://www.wired.com/story/department-homeland-security-ice-billion-dollar-agreement-palantir/
-- 内容摘要：SCOOP: DHS strikes $1 billion purchasing agreement with Palantir. The news comes as Palantir leadership struggles to address internal tensions over the company's work with immigration enforcers. Here's how it was announc
-- 图片：无
-- 链接：https://nitter.net/kellymakena/status/2024530826273178097#m
-
-## 38. RT by @WIRED: DHS now has a $1 billion tab with Palantir
-
-Another incredible scoop from @kellymakena 
-
-https://www.wired.com/story/department-homeland-security-ice-billion-dollar-agreement-palantir/
-- 内容摘要：DHS now has a $1 billion tab with Palantir Another incredible scoop from @kellymakena wired.com/story/department-h…
-- 图片：![](https://nitter.net/pic/card_img%2F2024530367856680961%2F_DeZ9n0Z%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/daithaigilbert/status/2024530366283886823#m
-
-## 39. R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp, and exclusively to Google AI Pro and Ultra users in @NotebookLM.
-
-Developers can access it in preview via the API in @GoogleAIStudio. Find out more → https://goo.gle/4s5yXE5
-- 内容摘要：Gemini 3.1 Pro is rolling out now in the @GeminiApp , and exclusively to Google AI Pro and Ultra users in @NotebookLM . Developers can access it in preview via the API in @GoogleAIStudio . Find out more → goo.gle/4s5yXE5
-- 图片：无
-- 链接：https://nitter.net/GoogleDeepMind/status/2024516471720743295#m
-
-## 40. R to @GoogleDeepMind: The model is a step forward in reasoning, designed for workflows where a simple answer isn’t enough.
-
-On ARC-AGI-2 – which tests for novel logic patterns – it more than doubles 3 Pro’s score.
-
-This means it can help you visualize complex topics, organize scattered data, and bring creative projects to life.
-- 内容摘要：The model is a step forward in reasoning, designed for workflows where a simple answer isn’t enough. On ARC-AGI-2 – which tests for novel logic patterns – it more than doubles 3 Pro’s score. This means it can help you vi
-- 图片：![](https://nitter.net/pic/media%2FHBiEguGWwAAygSR.png)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024516467618656357#m
+- 链接：https://nitter.net/isafulf/status/2021306159567618395#m
