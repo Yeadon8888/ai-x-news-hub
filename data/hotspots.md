@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-20T13:51:10.994079+08:00  
-总条数：193  
+更新时间：2026-02-20T14:51:26.790176+08:00  
+总条数：194  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -221,7 +221,7 @@ To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade
 
 Read more: https://www.anthropic.com/news/covering-electricity-price-increases
 - 内容摘要：We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to 
-- 图片：![](https://nitter.net/pic/card_img%2F2021834998400102400%2FL1ReHUdN%3Fformat%3Djpg%26name%3D800x419)
+- 图片：![](https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2021694494215901314#m
 
 ## 33. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
