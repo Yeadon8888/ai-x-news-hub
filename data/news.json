@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T17:24:21.515832+08:00",
-  "count": 180,
+  "updated_at": "2026-02-21T18:26:23.623342+08:00",
+  "count": 189,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -37,54 +37,6 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
-      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
-      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
-      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
-      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
-      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
-      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
-      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
-      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
-      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "image": null,
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -208,6 +160,30 @@
       "source": "X/@GoogleDeepMind"
     },
     {
+      "title": "From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.\n\nThank you to all the builders; you inspire us to work even harder.",
+      "url": "https://nitter.net/sama/status/2021606985469211065#m",
+      "summary": "From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly. Thank you to all the builders; you inspire us to work even harder. Craig Weiss (@craigzLiszt) nearly all of the best engineers i know are switching from claude to codex — https://nitter.net/craigzLiszt/status/2021273884998447513#m",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 15:27:19 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.",
+      "url": "https://nitter.net/sama/status/2021452911511998557#m",
+      "summary": "We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 05:15:05 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
+      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
+      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
       "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
       "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
@@ -224,12 +200,36 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "RT by @sama: It's been a huge month for Codex. \n5.3, Spark, Codex app, OpenClaw.\nWe're accelerating. Looking for top people in:\n\n- Full stack Typescript\n- Design engineering\n- Windows experience+distribution\n- React+Node performance\n- Crazy advanced git\n- Agent orchestration\n- Remote codex\n- Mobile\n\nDM me with a link to what you've built",
+      "url": "https://nitter.net/ajambrosino/status/2023850810183217184#m",
+      "summary": "It's been a huge month for Codex. 5.3, Spark, Codex app, OpenClaw. We're accelerating. Looking for top people in: - Full stack Typescript - Design engineering - Windows experience+distribution - React+Node performance - Crazy advanced git - Agent orchestration - Remote codex - Mobile DM me with a link to what you've built Alexander Embiricos (@embirico) Any longtime Windows developers/experts here who'd want to help make Codex great on Windows? — https://nitter.net/embirico/status/2023837717541597577#m",
+      "image": null,
+      "published": "Tue, 17 Feb 2026 20:03:29 GMT",
+      "source": "X/@sama"
+    },
+    {
       "title": "RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google",
       "url": "https://nitter.net/sundarpichai/status/2023847540400288134#m",
       "summary": "See you all at Google I/O starting May 19th! io.google",
       "image": null,
       "published": "Tue, 17 Feb 2026 19:50:29 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "Happy for my brother.\n\nAn absolute triumph for Benchmark.",
+      "url": "https://nitter.net/sama/status/2023839310764802349#m",
+      "summary": "Happy for my brother. An absolute triumph for Benchmark. Jack Altman (@jaltma) I’m really excited to share that I’m joining Benchmark. The past two years as a full time investor have been the most rewarding of my career. I really love venture capital, which is not something I ever imagined I’d say when I was kid, but here we are. I love new ideas and being part of a team with a mission. I love getting to be there for people who are struggling towards goals they really care about. I love learning from people who are better CEOs than I ever was. I love the texture of the work, the competition, and the way the job lets you invest in relationships. I love it so much that I’ve even turned into a little venture nerd with a podcast who goes around harassing great investors and founders, trying to learn as much as I can as fast as possible. I’ve certainly learned what I care most about, and what kind of investor I want to be. What I’ve realized is that I love investing at the Series A, when there’s enough going on that an investor can be useful but not so much that you can’t have an impact. I think there are many amazing ways to practice venture, it’s just the way that most speaks to me. And as I came to realize that, I started to think about how to best set myself up to do that craft as well as possible. It became clear to me there is nowhere better for this than Benchmark; the way they’re structured, their principles, their overall approach to investing, and their track record all create an environment that I believe will let me do my best work as an investor and help founders the most I possibly can. As I’ve gotten to know the team at Benchmark I’ve come to admire so much about each of them. Peter is truly playing his own game. A lot of what he says sounds like poetry at first, but as the ideas roll around in your head for a while you realize how much depth they have. I first heard about Eric many years ago from my friend Saji at Benchling while I was building Lattice, who described him as the most amazing board member and attributed him with a lot of the company’s success. That’s the kind of partner I want to be one day. Chetan is brilliant and truly thinks for himself; I’ve realized over time what a courageous guy he is. And then there’s my friend Ev, whose skills complement mine and who I just love to be around. I can’t wait to have him as a partner in crime. When given the chance to work with this group I just knew I had to go. One of my motivating north stars with Alt Capital was to build a firm and be a partner that I most would have wanted as an entrepreneur. Although I haven’t gotten everywhere I want to be yet, I’m proud of the work so far. And now I’m excited to build on that work at Benchmark, where I hope to increase my rate of learning and get armed with the power of a partnership so I can help founders reach their dreams even more. Thank you to the companies who’ve let me invest with them at Alt Cap. I’m keeping all my board seats and supporting everyone just the same as before. Thank you to the LPs who’ve backed me as well. I am so excited about the portfolio we have and am grateful I can stick with all those companies. And finally thank you to my teammates, Bala, Vivek, and Nate. Bala took a bet on me and started investing with me before it was remotely obvious, and we’ve been able to grow so much figuring it out together as investors. I credit Nate with helping Alt start feeling like a firm. He joined us from First Round over a year ago and made everything run smoothly. And while Vivek joined just a little while ago, even in the short time we’ve worked together he’s had a meaningful impact on how we think and invest. They’re all joining Benchmark with me. So pumped for this chapter. — https://nitter.net/jaltma/status/2023797494384390558#m",
+      "image": null,
+      "published": "Tue, 17 Feb 2026 19:17:47 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.",
+      "url": "https://nitter.net/sama/status/2023838999341920283#m",
+      "summary": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 billion, Thrive X comprises $1 billion designated for early-stage investments and $9 billion designated for growth-stage investments. We do not view this as a milestone, but as a commitment to the long work ahead. We view Thrive as a company. Our product is partnership - the willingness to commit deeply to a small number of founders, and to stand with them through momentum and adversity. This is the discipline we bring to our work, and the responsibility we accept when founders partner with Thrive. We do not hedge. Concentration demands loyalty to the founders and missions we back. In this moment, exposure alone is not a strategy. Judgment without commitment is not enough. Advantage will accrue to those who choose deliberately, commit deeply, and endure through difficult moments. Thrive was founded to be an enabling technology for the world we want to see. We are deeply aware that we are not the main character. The founders that we are fortunate enough to partner with are the artists. Our role is to help create the conditions where great work can come to life. We take a long view grounded in the belief that category-defining companies tend to create structural compounding advantages over long arcs. This fund reflects the continuity of our approach and the ways our work has deepened alongside the founders we support. We are grateful for the trust our Limited Partners place in us, and for the opportunity to work alongside those who are building with purpose, integrity, and courage. thrivecap.com/thrive-x — https://nitter.net/JoshuaKushner/status/2023732796649271619#m",
+      "image": "https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Tue, 17 Feb 2026 19:16:33 GMT",
+      "source": "X/@sama"
     },
     {
       "title": "RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.\n\nIt’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.\n\nIt also features a 1M token context window in beta.",
@@ -400,27 +400,11 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
-      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
-      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
-      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
-      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
-      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
+      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
+      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
+      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
+      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -432,6 +416,14 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
+      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "image": null,
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
       "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
       "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
@@ -440,12 +432,12 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
-      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "title": "GPT-5.3-Codex-Spark is launching today as a research preview for Pro.\n\nMore than 1000 tokens per second!\n\nThere are limitations at launch; we will rapidly improve.",
+      "url": "https://nitter.net/sama/status/2022011797524582726#m",
+      "summary": "GPT-5.3-Codex-Spark is launching today as a research preview for Pro. More than 1000 tokens per second! There are limitations at launch; we will rapidly improve. Sam Altman (@sama) We have a special thing launching to Codex users on the Pro plan later today. It sparks joy for me. I think you are going to love it... — https://nitter.net/sama/status/2021984777470193767#m",
       "image": null,
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
+      "published": "Thu, 12 Feb 2026 18:15:54 GMT",
+      "source": "X/@sama"
     },
     {
       "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
@@ -480,6 +472,14 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "We have a special thing launching to Codex users on the Pro plan later today. It sparks joy for me. I think you are going to love it...",
+      "url": "https://nitter.net/sama/status/2021984777470193767#m",
+      "summary": "We have a special thing launching to Codex users on the Pro plan later today. It sparks joy for me. I think you are going to love it...",
+      "image": null,
+      "published": "Thu, 12 Feb 2026 16:28:32 GMT",
+      "source": "X/@sama"
+    },
+    {
       "title": "R to @GoogleDeepMind: The upgraded Deep Think mode is rolling out now in the @GeminiApp for Google AI Ultra subscribers.\n\nFor scientific researchers and developers, we’re opening a Vertex AI Early Access Program for the API. Start discovering → https://goo.gle/4rMHUlq",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981517791342807#m",
       "summary": "The upgraded Deep Think mode is rolling out now in the @GeminiApp for Google AI Ultra subscribers. For scientific researchers and developers, we’re opening a Vertex AI Early Access Program for the API. Start discovering → goo.gle/4rMHUlq Video",
@@ -510,6 +510,14 @@
       "image": "https://nitter.net/pic/card_img%2F2024566799975731200%2F_328E_hM%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 12:16:46 GMT",
       "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "RT by @sama: The Codex team is just so FAST ✨",
+      "url": "https://nitter.net/ah20im/status/2021828771415044540#m",
+      "summary": "The Codex team is just so FAST ✨",
+      "image": null,
+      "published": "Thu, 12 Feb 2026 06:08:37 GMT",
+      "source": "X/@sama"
     },
     {
       "title": "RT by @xai: BREAKING: @xAI’s Grok-Imagine-Video now #1 in Video Arena!\n\nFor the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4.\n\nHuge congrats to @xAI team and @elonmusk  on this incredible milestone!",
@@ -552,12 +560,12 @@
       "source": "X/@xai"
     },
     {
-      "title": "RT by @OpenAI: Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings.\n\nOpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
+      "title": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings.\n\nOpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "url": "https://nitter.net/sama/status/2023150230905159801#m",
       "summary": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings. OpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "image": null,
       "published": "Sun, 15 Feb 2026 21:39:38 GMT",
-      "source": "X/@OpenAI"
+      "source": "X/@sama"
     },
     {
       "title": "The new image models are now available on Grok Imagine API. \n\nTry them at https://docs.x.ai/developers/model-capabilities/images/generation.",
@@ -568,10 +576,18 @@
       "source": "X/@xai"
     },
     {
+      "title": "Following increased surveillance and patrols of routes used by transnational drug-trafficking networks, Mexican authorities have seized approximately 10 tons of cocaine in the past week alone. https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025149178796536307#m",
+      "summary": "Following increased surveillance and patrols of routes used by transnational drug-trafficking networks, Mexican authorities have seized approximately 10 tons of cocaine in the past week alone. wired.com/story/narco-submar…",
+      "image": "https://nitter.net/pic/card_img%2F2025149180704915456%2FhmOotMI7%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 10:02:44 GMT",
+      "source": "X/@WIRED"
+    },
+    {
       "title": "Anker’s powerful home theater on wheels is pure chaos https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
       "url": "https://nitter.net/verge/status/2025118972421759267#m",
       "summary": "Anker’s powerful home theater on wheels is pure chaos theverge.com/tech/881788/sou…",
-      "image": null,
+      "image": "https://nitter.net/pic/card_img%2F2025118972958703616%2F9j_Wbzdv%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 08:02:42 GMT",
       "source": "X/@verge"
     },
@@ -624,12 +640,44 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "RT by @OpenAI: Very excited about the \"First Proof\" challenge. I believe novel frontier research is perhaps the most important way to evaluate capabilities of the next generation of AI models.\n\nWe have run our internal model with limited human supervision on the ten proposed problems. The problems require expertise in their respective domains and are not easy to verify; based on feedback from experts, we believe at least six solutions (2, 4, 5, 6, 9, 10) have a high chance of being correct, and some further ones look promising.\n\nWe will only publish the solution attempts after midnight (PT), per the authors' guidance - the sha256 hash of the PDF is d74f090af16fc8a19debf4c1fec11c0975be7d612bd5ae43c24ca939cd272b1a .\n\nThis was a side-sprint executed in a week mostly by querying one of the models we're currently training; as such, the methodology we employed leaves a lot to be desired. We didn't provide proof ideas or mathematical suggestions to the model during this evaluation; for some solutions, we asked the model to expand upon some proofs, per expert feedback. We also manually facilitated a back-and-forth between this model and ChatGPT for verification, formatting and style. For some problems, we present the best of a few attempts according to human judgement.\n\nWe are looking forward to more controlled evaluations in the next round!\n\nhttp://1stproof.org #1stProof",
+      "title": "R to @sama: These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
+      "url": "https://nitter.net/sama/status/2022729429710237977#m",
+      "summary": "These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
+      "image": null,
+      "published": "Sat, 14 Feb 2026 17:47:31 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "We went from AI systems that struggled to do grade school math to AI systems that can solve research-level math problems in just a few years.\n\nI agree with Jakub this is perhaps the most important eval now.\n\nI am also pretty sure the main reaction will be \"it's not that hard\" :)",
+      "url": "https://nitter.net/sama/status/2022729068949717182#m",
+      "summary": "We went from AI systems that struggled to do grade school math to AI systems that can solve research-level math problems in just a few years. I agree with Jakub this is perhaps the most important eval now. I am also pretty sure the main reaction will be \"it's not that hard\" :) Jakub Pachocki (@merettm) Very excited about the \"First Proof\" challenge. I believe novel frontier research is perhaps the most important way to evaluate capabilities of the next generation of AI models. We have run our internal model with limited human supervision on the ten proposed problems. The problems require expertise in their respective domains and are not easy to verify; based on feedback from experts, we believe at least six solutions (2, 4, 5, 6, 9, 10) have a high chance of being correct, and some further ones look promising. We will only publish the solution attempts after midnight (PT), per the authors' guidance - the sha256 hash of the PDF is d74f090af16fc8a19debf4c1fec11c0975be7d612bd5ae43c24ca939cd272b1a . This was a side-sprint executed in a week mostly by querying one of the models we're currently training; as such, the methodology we employed leaves a lot to be desired. We didn't provide proof ideas or mathematical suggestions to the model during this evaluation; for some solutions, we asked the model to expand upon some proofs, per expert feedback. We also manually facilitated a back-and-forth between this model and ChatGPT for verification, formatting and style. For some problems, we present the best of a few attempts according to human judgement. We are looking forward to more controlled evaluations in the next round! 1stproof.org #1stProof — https://nitter.net/merettm/status/2022517085193277874#m",
+      "image": null,
+      "published": "Sat, 14 Feb 2026 17:46:05 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "RT by @sama: After the IMO results last summer, some dismissed it as “high school math.” We think our latest models will remove any doubt that STEM research is about to fundamentally change.\n\nMathematicians created a set of 10 research questions that arose naturally from their own research. Only they know the answers, and they gave the world a week to use LLMs to try to solve them. We think our latest models make it possible to solve several of them.\n\nThis is an internal model for now, but I’m optimistic we’ll get it (or a better model) out soon.",
+      "url": "https://nitter.net/polynoamial/status/2022527227049742779#m",
+      "summary": "After the IMO results last summer, some dismissed it as “high school math.” We think our latest models will remove any doubt that STEM research is about to fundamentally change. Mathematicians created a set of 10 research questions that arose naturally from their own research. Only they know the answers, and they gave the world a week to use LLMs to try to solve them. We think our latest models make it possible to solve several of them. This is an internal model for now, but I’m optimistic we’ll get it (or a better model) out soon. Jakub Pachocki (@merettm) Very excited about the \"First Proof\" challenge. I believe novel frontier research is perhaps the most important way to evaluate capabilities of the next generation of AI models. We have run our internal model with limited human supervision on the ten proposed problems. The problems require expertise in their respective domains and are not easy to verify; based on feedback from experts, we believe at least six solutions (2, 4, 5, 6, 9, 10) have a high chance of being correct, and some further ones look promising. We will only publish the solution attempts after midnight (PT), per the authors' guidance - the sha256 hash of the PDF is d74f090af16fc8a19debf4c1fec11c0975be7d612bd5ae43c24ca939cd272b1a . This was a side-sprint executed in a week mostly by querying one of the models we're currently training; as such, the methodology we employed leaves a lot to be desired. We didn't provide proof ideas or mathematical suggestions to the model during this evaluation; for some solutions, we asked the model to expand upon some proofs, per expert feedback. We also manually facilitated a back-and-forth between this model and ChatGPT for verification, formatting and style. For some problems, we present the best of a few attempts according to human judgement. We are looking forward to more controlled evaluations in the next round! 1stproof.org #1stProof — https://nitter.net/merettm/status/2022517085193277874#m",
+      "image": "https://nitter.net/pic/media%2FHBF1ys9akAEnusb.jpg",
+      "published": "Sat, 14 Feb 2026 04:24:02 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "RT by @sama: It was really exciting seeing a model  we’re currently training tackling these frontier math research problems.  With each checkpoint it became so much better at math research. I can’t wait till such intelligence is in the hands of ChatGPT users.",
+      "url": "https://nitter.net/ahelkky/status/2022520289398263926#m",
+      "summary": "It was really exciting seeing a model we’re currently training tackling these frontier math research problems. With each checkpoint it became so much better at math research. I can’t wait till such intelligence is in the hands of ChatGPT users. Jakub Pachocki (@merettm) Very excited about the \"First Proof\" challenge. I believe novel frontier research is perhaps the most important way to evaluate capabilities of the next generation of AI models. We have run our internal model with limited human supervision on the ten proposed problems. The problems require expertise in their respective domains and are not easy to verify; based on feedback from experts, we believe at least six solutions (2, 4, 5, 6, 9, 10) have a high chance of being correct, and some further ones look promising. We will only publish the solution attempts after midnight (PT), per the authors' guidance - the sha256 hash of the PDF is d74f090af16fc8a19debf4c1fec11c0975be7d612bd5ae43c24ca939cd272b1a . This was a side-sprint executed in a week mostly by querying one of the models we're currently training; as such, the methodology we employed leaves a lot to be desired. We didn't provide proof ideas or mathematical suggestions to the model during this evaluation; for some solutions, we asked the model to expand upon some proofs, per expert feedback. We also manually facilitated a back-and-forth between this model and ChatGPT for verification, formatting and style. For some problems, we present the best of a few attempts according to human judgement. We are looking forward to more controlled evaluations in the next round! 1stproof.org #1stProof — https://nitter.net/merettm/status/2022517085193277874#m",
+      "image": null,
+      "published": "Sat, 14 Feb 2026 03:56:28 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "RT by @sama: Very excited about the \"First Proof\" challenge. I believe novel frontier research is perhaps the most important way to evaluate capabilities of the next generation of AI models.\n\nWe have run our internal model with limited human supervision on the ten proposed problems. The problems require expertise in their respective domains and are not easy to verify; based on feedback from experts, we believe at least six solutions (2, 4, 5, 6, 9, 10) have a high chance of being correct, and some further ones look promising.\n\nWe will only publish the solution attempts after midnight (PT), per the authors' guidance - the sha256 hash of the PDF is d74f090af16fc8a19debf4c1fec11c0975be7d612bd5ae43c24ca939cd272b1a .\n\nThis was a side-sprint executed in a week mostly by querying one of the models we're currently training; as such, the methodology we employed leaves a lot to be desired. We didn't provide proof ideas or mathematical suggestions to the model during this evaluation; for some solutions, we asked the model to expand upon some proofs, per expert feedback. We also manually facilitated a back-and-forth between this model and ChatGPT for verification, formatting and style. For some problems, we present the best of a few attempts according to human judgement.\n\nWe are looking forward to more controlled evaluations in the next round!\n\nhttp://1stproof.org #1stProof",
       "url": "https://nitter.net/merettm/status/2022517085193277874#m",
       "summary": "Very excited about the \"First Proof\" challenge. I believe novel frontier research is perhaps the most important way to evaluate capabilities of the next generation of AI models. We have run our internal model with limited human supervision on the ten proposed problems. The problems require expertise in their respective domains and are not easy to verify; based on feedback from experts, we believe at least six solutions (2, 4, 5, 6, 9, 10) have a high chance of being correct, and some further ones look promising. We will only publish the solution attempts after midnight (PT), per the authors' guidance - the sha256 hash of the PDF is d74f090af16fc8a19debf4c1fec11c0975be7d612bd5ae43c24ca939cd272b1a . This was a side-sprint executed in a week mostly by querying one of the models we're currently training; as such, the methodology we employed leaves a lot to be desired. We didn't provide proof ideas or mathematical suggestions to the model during this evaluation; for some solutions, we asked the model to expand upon some proofs, per expert feedback. We also manually facilitated a back-and-forth between this model and ChatGPT for verification, formatting and style. For some problems, we present the best of a few attempts according to human judgement. We are looking forward to more controlled evaluations in the next round! 1stproof.org #1stProof",
       "image": null,
       "published": "Sat, 14 Feb 2026 03:43:44 GMT",
-      "source": "X/@OpenAI"
+      "source": "X/@sama"
     },
     {
       "title": "NVIDIA is at the forefront of inference performance. NVIDIA GB300 NVL72 delivers massive generational leaps over Hopper platform.\n⚡ 50x better performance per watt\n💲 35x lower cost per million tokens",
@@ -638,6 +686,22 @@
       "image": "https://nitter.net/pic/media%2FHBTXnKHWAAAXU01.jpg",
       "published": "Mon, 16 Feb 2026 19:26:51 GMT",
       "source": "X/@NVIDIA"
+    },
+    {
+      "title": "🦞",
+      "url": "https://nitter.net/sama/status/2023463428892094655#m",
+      "summary": "🦞",
+      "image": null,
+      "published": "Mon, 16 Feb 2026 18:24:10 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "R to @sama: (Also best family ❤️)",
+      "url": "https://nitter.net/sama/status/2023453150334906839#m",
+      "summary": "(Also best family ❤️)",
+      "image": null,
+      "published": "Mon, 16 Feb 2026 17:43:19 GMT",
+      "source": "X/@sama"
     },
     {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -678,6 +742,14 @@
       "image": "https://nitter.net/pic/card_img%2F2023322616535162880%2FX-iWNs1s%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 16 Feb 2026 09:04:13 GMT",
       "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "Codex weekly users have more than tripled since the beginning of the year!",
+      "url": "https://nitter.net/sama/status/2023233085509410833#m",
+      "summary": "Codex weekly users have more than tripled since the beginning of the year!",
+      "image": null,
+      "published": "Mon, 16 Feb 2026 03:08:52 GMT",
+      "source": "X/@sama"
     },
     {
       "title": "We’re starting to roll out a test for ads in ChatGPT today to a subset of free and Go users in the U.S.\n\nAds do not influence ChatGPT’s answers. Ads are labeled as sponsored and visually separate from the response.\n\nOur goal is to give everyone access to ChatGPT for free with fewer limits, while protecting the trust they place in it for important and personal tasks.\n\nhttp://openai.com/index/testing-ads-in-chatgpt/",
@@ -1032,14 +1104,6 @@
       "source": "X/@verge"
     },
     {
-      "title": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and key limits on face recognition. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2024938262008131860#m",
-      "summary": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and key limits on face recognition. wired.com/story/dhs-wants-a-…",
-      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:04:37 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "America is at risk of becoming an automotive backwater https://www.theverge.com/transportation/882194/america-auto-backwater-ev-loss-detroit-trump-emissions",
       "url": "https://nitter.net/verge/status/2024935949839524165#m",
       "summary": "America is at risk of becoming an automotive backwater theverge.com/transportation/…",
@@ -1318,6 +1382,14 @@
       "image": "https://nitter.net/pic/card_img%2F2024850583447076864%2FGxjHDP1y%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 14:16:12 GMT",
       "source": "X/@arstechnica"
+    },
+    {
+      "title": "Great meeting with PM @narendramodi today to talk about the incredible energy around AI in India.\n\nIndia is our fastest growing market for codex globally, up 4x  in weekly users in the past 2 weeks alone.\n\n🇮🇳!",
+      "url": "https://nitter.net/sama/status/2024826822060290508#m",
+      "summary": "Great meeting with PM @narendramodi today to talk about the incredible energy around AI in India. India is our fastest growing market for codex globally, up 4x in weekly users in the past 2 weeks alone. 🇮🇳!",
+      "image": "https://nitter.net/pic/media%2FHBmhLRaWgAANwWX.jpg",
+      "published": "Fri, 20 Feb 2026 12:41:48 GMT",
+      "source": "X/@sama"
     },
     {
       "title": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
