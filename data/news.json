@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T19:26:40.721092+08:00",
-  "count": 186,
+  "updated_at": "2026-02-21T20:26:57.319814+08:00",
+  "count": 194,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -37,6 +37,54 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
+      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
+      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
+      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
+      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
+      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
+      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
+      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
+      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
+      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "image": null,
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -176,14 +224,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
-      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
-      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
-      "image": null,
-      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
       "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
       "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
@@ -320,22 +360,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024605869749785061#m",
-      "summary": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes arstechnica.com/space/2026/0…",
-      "image": "https://nitter.net/pic/card_img%2F2023428488720416768%2F2KfhgFon%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 22:03:49 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
-      "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024598314721956259#m",
-      "summary": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube arstechnica.com/gadgets/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2024598318920478720%2FRofhRmBZ%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 19 Feb 2026 21:33:48 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
       "title": "R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.\n\nFind out more ⬇️\nhttp://goo.gle/4s5yXE5",
       "url": "https://nitter.net/GoogleDeepMind/status/2024570293520396796#m",
       "summary": "Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers. Find out more ⬇️ goo.gle/4s5yXE5",
@@ -432,18 +456,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
-      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "image": null,
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
       "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
       "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
       "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
+      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "image": null,
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -467,7 +491,7 @@
       "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
       "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2FNPhIhImC%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -592,6 +616,38 @@
       "source": "X/@xai"
     },
     {
+      "title": "Have we leapt into commercial genetic testing without understanding it? https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025180671464116310#m",
+      "summary": "Have we leapt into commercial genetic testing without understanding it? arstechnica.com/science/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2025180675008266240%2FbPR7ZJ4g%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 12:07:52 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "From pins to mascots to Swatch watches, memorabilia from the Milano Cortina Games is showing up on sites like eBay and Vinted. https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025180142218183116#m",
+      "summary": "From pins to mascots to Swatch watches, memorabilia from the Milano Cortina Games is showing up on sites like eBay and Vinted. wired.com/story/gear-from-th…",
+      "image": "https://nitter.net/pic/card_img%2F2025182291832733697%2Fd5EEoqA4%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 12:05:46 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Major government research lab appears to be squeezing out foreign scientists https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025173116146839879#m",
+      "summary": "Major government research lab appears to be squeezing out foreign scientists arstechnica.com/science/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2025173119443632131%2FcQN8zhI-%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 11:37:51 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more. https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025172015288610998#m",
+      "summary": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more. wired.com/story/security-new…",
+      "image": "https://nitter.net/pic/card_img%2F2025171858065424388%2FvfR7Z-N3%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 11:33:28 GMT",
+      "source": "X/@WIRED"
+    },
+    {
       "title": "By typing simple, text-based commands into Windows' PowerShell, you can quickly install apps directly from the Microsoft Store—all without the typical ads or clutter. https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2025164422528823625#m",
       "summary": "By typing simple, text-based commands into Windows' PowerShell, you can quickly install apps directly from the Microsoft Store—all without the typical ads or clutter. wired.com/story/install-and-…",
@@ -619,7 +675,7 @@
       "title": "Anker’s powerful home theater on wheels is pure chaos https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
       "url": "https://nitter.net/verge/status/2025118972421759267#m",
       "summary": "Anker’s powerful home theater on wheels is pure chaos theverge.com/tech/881788/sou…",
-      "image": "https://nitter.net/pic/card_img%2F2025118972958703616%2F9j_Wbzdv%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 08:02:42 GMT",
       "source": "X/@verge"
     },
@@ -944,6 +1000,14 @@
       "source": "X/@arstechnica"
     },
     {
+      "title": "R to @WIRED: Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.”\n\nRead the full story: https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960134829801545#m",
+      "summary": "Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.” Read the full story: wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:32 GMT",
+      "source": "X/@WIRED"
+    },
+    {
       "title": "R to @WIRED: However, SCOTUS did not explicitly address whether the government will be required to issue refunds. “That’s the billion-dollar question,” says one brokerage firm president. “Everybody is in a state of flux.”\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
       "url": "https://nitter.net/WIRED/status/2024960132967530884#m",
       "summary": "However, SCOTUS did not explicitly address whether the government will be required to issue refunds. “That’s the billion-dollar question,” says one brokerage firm president. “Everybody is in a state of flux.” wired.com/story/they-bet-aga…",
@@ -952,11 +1016,27 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @WIRED: Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.”\n\nRead the full story: https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
-      "url": "https://nitter.net/WIRED/status/2024960134829801545#m",
-      "summary": "Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.” Read the full story: wired.com/story/they-bet-aga…",
+      "title": "R to @WIRED: “We were like, [Trump] is capriciously applying the law,” says Thomas Braziel, founder of investment firm 117 Partners, who says he purchased $925,000 worth of tariff refund claims with his own money. “That was the play.”\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960130941682033#m",
+      "summary": "“We were like, [Trump] is capriciously applying the law,” says Thomas Braziel, founder of investment firm 117 Partners, who says he purchased $925,000 worth of tariff refund claims with his own money. “That was the play.” wired.com/story/they-bet-aga…",
       "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 21:31:32 GMT",
+      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: When Trump first introduced the tariffs, hedge funds began to bet on the possibility that the courts might rule that he had violated the law, doing so by purchasing the right to theoretical tariff refunds at cents on the dollar from struggling importers.\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960129385533533#m",
+      "summary": "When Trump first introduced the tariffs, hedge funds began to bet on the possibility that the courts might rule that he had violated the law, doing so by purchasing the right to theoretical tariff refunds at cents on the dollar from struggling importers. wired.com/story/they-bet-aga…",
+      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @WIRED: ICYMI, earlier today SCOTUS overturned most of the Trump administration’s tariffs, putting the US government on the hook for at least $175 billion in tariff refunds.\nhttps://www.wired.com/story/supreme-court-trump-tariffs-ruling/",
+      "url": "https://nitter.net/WIRED/status/2024960127863062976#m",
+      "summary": "ICYMI, earlier today SCOTUS overturned most of the Trump administration’s tariffs, putting the US government on the hook for at least $175 billion in tariff refunds. wired.com/story/supreme-cour…",
+      "image": "https://nitter.net/pic/card_img%2F2024886858044657664%2FIVvV4_Na%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
       "source": "X/@WIRED"
     },
     {
@@ -979,7 +1059,7 @@
       "title": "Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs",
       "url": "https://nitter.net/verge/status/2024952571669217728#m",
       "summary": "Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs theverge.com/games/882377/mi…",
-      "image": "https://nitter.net/pic/card_img%2F2022795584109789184%2FNWSgGszR%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 21:01:29 GMT",
       "source": "X/@verge"
     },
@@ -1019,7 +1099,7 @@
       "title": "SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds",
       "url": "https://nitter.net/verge/status/2024949800849080775#m",
       "summary": "SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over theverge.com/policy/882227/s…",
-      "image": "https://nitter.net/pic/card_img%2F2024949801507586052%2FBt0Z9wkN%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:50:28 GMT",
       "source": "X/@verge"
     },
@@ -1027,7 +1107,7 @@
       "title": "Read Xbox chief Phil Spencer’s memo about leaving Microsoft https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=null",
       "url": "https://nitter.net/verge/status/2024945954412265670#m",
       "summary": "Read Xbox chief Phil Spencer’s memo about leaving Microsoft theverge.com/news/882340/xbo…",
-      "image": "https://nitter.net/pic/card_img%2F2022469834726866944%2FOLhcovj7%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:35:11 GMT",
       "source": "X/@verge"
     },
@@ -1035,7 +1115,7 @@
       "title": "Sarah Bond is leaving Xbox https://www.theverge.com/games/882281/xbox-sarah-bond-leaving-microsoft?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=null",
       "url": "https://nitter.net/verge/status/2024945940487094644#m",
       "summary": "Sarah Bond is leaving Xbox theverge.com/games/882281/xb…",
-      "image": "https://nitter.net/pic/card_img%2F2024945453804978178%2FPLCm-_qY%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:35:08 GMT",
       "source": "X/@verge"
     },
@@ -1043,7 +1123,7 @@
       "title": "Xbox chief Phil Spencer is leaving Microsoft https://www.theverge.com/news/882241/microsoft-phil-spencer-xbox-leaving-retirement?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=null",
       "url": "https://nitter.net/verge/status/2024945923198255265#m",
       "summary": "Xbox chief Phil Spencer is leaving Microsoft theverge.com/news/882241/mic…",
-      "image": "https://nitter.net/pic/card_img%2F2025149180243836929%2FubUcnJ9B%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:35:04 GMT",
       "source": "X/@verge"
     },
@@ -1051,7 +1131,7 @@
       "title": "Read Microsoft gaming CEO Asha Sharma’s first memo on the future of Xbox https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=null",
       "url": "https://nitter.net/verge/status/2024945900045672856#m",
       "summary": "Read Microsoft gaming CEO Asha Sharma’s first memo on the future of Xbox theverge.com/games/882326/re…",
-      "image": "https://nitter.net/pic/card_img%2F2024945766897430528%2FiGbwCrdb%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:34:58 GMT",
       "source": "X/@verge"
     },
@@ -1059,17 +1139,9 @@
       "title": "Trump is making coal plants even dirtier as AI demands more energy https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
       "url": "https://nitter.net/verge/status/2024944260525817943#m",
       "summary": "Trump is making coal plants even dirtier as AI demands more energy theverge.com/science/882288/…",
-      "image": "https://nitter.net/pic/card_img%2F2024942246274236417%2FCC0O9OB_%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:28:28 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "R to @WIRED: The system would support watchlisting, detention, or removal operations and comes as DHS is pushing biometric surveillance far beyond ports of entry and into the hands of intelligence units and masked agents operating hundreds of miles from the border. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-      "url": "https://nitter.net/WIRED/status/2024942490688626832#m",
-      "summary": "The system would support watchlisting, detention, or removal operations and comes as DHS is pushing biometric surveillance far beyond ports of entry and into the hands of intelligence units and masked agents operating hundreds of miles from the border. wired.com/story/dhs-wants-a-…",
-      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:21:26 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "R to @WIRED: The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system.\n\nRead the full story: https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
@@ -1080,18 +1152,10 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "The DHS is moving to consolidate its face recognition and other biometric technologies into a single system capable of comparing faces, fingerprints, iris scans, and other identifiers collected across its enforcement agencies. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-      "url": "https://nitter.net/WIRED/status/2024942485802238214#m",
-      "summary": "The DHS is moving to consolidate its face recognition and other biometric technologies into a single system capable of comparing faces, fingerprints, iris scans, and other identifiers collected across its enforcement agencies. wired.com/story/dhs-wants-a-…",
-      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:21:24 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "Web scraper sued by Google claims Google is the one scraping the web https://www.theverge.com/tech/882300/serpapi-google-lawsuit-web-scraper-motion-to-dismiss",
       "url": "https://nitter.net/verge/status/2024941490498400591#m",
       "summary": "Web scraper sued by Google claims Google is the one scraping the web theverge.com/tech/882300/ser…",
-      "image": "https://nitter.net/pic/card_img%2F2024939778966466560%2FpDzUtUtY%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:17:27 GMT",
       "source": "X/@verge"
     },
@@ -1099,7 +1163,7 @@
       "title": "You can save $30 on Sony’s DualSense Edge controller by buying refurbished https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale",
       "url": "https://nitter.net/verge/status/2024938722492555274#m",
       "summary": "You can save $30 on Sony’s DualSense Edge controller by buying refurbished theverge.com/gadgets/815676/…",
-      "image": "https://nitter.net/pic/card_img%2F2024937212346064896%2FwZbCD5hA%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 20:06:27 GMT",
       "source": "X/@verge"
     },
@@ -1163,7 +1227,7 @@
       "title": "Trump Mobile is just Liberty Mobile in gold foil https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno",
       "url": "https://nitter.net/verge/status/2024912026108416450#m",
       "summary": "Trump Mobile is just Liberty Mobile in gold foil theverge.com/tech/882064/tru…",
-      "image": "https://nitter.net/pic/card_img%2F2024912026703986691%2FoB5KJJfp%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 18:20:22 GMT",
       "source": "X/@verge"
     },
@@ -1243,7 +1307,7 @@
       "title": "Amazon blames human employees for an AI coding agent’s mistake https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
       "url": "https://nitter.net/verge/status/2024890620486320183#m",
       "summary": "Amazon blames human employees for an AI coding agent’s mistake theverge.com/ai-artificial-i…",
-      "image": "https://nitter.net/pic/card_img%2F2025103343740227584%2FzQuUupp7%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 16:55:19 GMT",
       "source": "X/@verge"
     },
@@ -1275,7 +1339,7 @@
       "title": "Prop bet https://www.theverge.com/business/881967/polymarket-kalshi-journalism-sponsorship-ad",
       "url": "https://nitter.net/verge/status/2024882310244614258#m",
       "summary": "Prop bet theverge.com/business/881967…",
-      "image": "https://nitter.net/pic/card_img%2F2024882310894718976%2Fj99RyT4o%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 16:22:17 GMT",
       "source": "X/@verge"
     },
@@ -1315,7 +1379,7 @@
       "title": "Tamron’s new dongle lets you wirelessly control your lens from your phone https://www.theverge.com/tech/881943/tamron-link-usb-dongle-bluetooth-adapter-camera-lens-remote",
       "url": "https://nitter.net/verge/status/2024870727862927518#m",
       "summary": "Tamron’s new dongle lets you wirelessly control your lens from your phone theverge.com/tech/881943/tam…",
-      "image": "https://nitter.net/pic/card_img%2F2024867439205396480%2FpA2sykil%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 15:36:16 GMT",
       "source": "X/@verge"
     },
@@ -1339,7 +1403,7 @@
       "title": "Samsung’s Galaxy Z TriFold is back in stock https://www.theverge.com/gadgets/881946/samsung-galaxy-z-trifold-restock-buy",
       "url": "https://nitter.net/verge/status/2024868208340296001#m",
       "summary": "Samsung’s Galaxy Z TriFold is back in stock theverge.com/gadgets/881946/…",
-      "image": "https://nitter.net/pic/card_img%2F2024866286090469377%2FeXxipBkm%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 15:26:15 GMT",
       "source": "X/@verge"
     },
