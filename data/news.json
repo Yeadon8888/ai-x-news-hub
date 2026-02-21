@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T21:29:50.452254+08:00",
-  "count": 195,
+  "updated_at": "2026-02-21T22:33:20.834286+08:00",
+  "count": 196,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -416,11 +416,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -590,6 +606,14 @@
       "image": "https://nitter.net/pic/card_img%2F2024052517961609216%2F9QhvfKdK%3Fformat%3Dpng%26name%3D800x419",
       "published": "Sun, 08 Feb 2026 01:48:23 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox",
+      "url": "https://nitter.net/verge/status/2025209633070285090#m",
+      "summary": "Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish theverge.com/games/875259/dr…",
+      "image": "https://nitter.net/pic/card_img%2F2025209050141454337%2F3vyalSkd%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 14:02:57 GMT",
+      "source": "X/@verge"
     },
     {
       "title": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash. https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
@@ -789,14 +813,6 @@
       "summary": "(Also best family ❤️)",
       "image": null,
       "published": "Mon, 16 Feb 2026 17:43:19 GMT",
-      "source": "X/@sama"
-    },
-    {
-      "title": "Best OpenAI sweatshirt ever",
-      "url": "https://nitter.net/sama/status/2023453083595141411#m",
-      "summary": "Best OpenAI sweatshirt ever",
-      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
-      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
       "source": "X/@sama"
     },
     {
@@ -1366,14 +1382,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024872223647924224%2Fl1BeDZbQ%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 15:41:16 GMT",
       "source": "X/@arstechnica"
-    },
-    {
-      "title": "Tamron’s new dongle lets you wirelessly control your lens from your phone https://www.theverge.com/tech/881943/tamron-link-usb-dongle-bluetooth-adapter-camera-lens-remote",
-      "url": "https://nitter.net/verge/status/2024870727862927518#m",
-      "summary": "Tamron’s new dongle lets you wirelessly control your lens from your phone theverge.com/tech/881943/tam…",
-      "image": "https://nitter.net/pic/card_img%2F2024867439205396480%2FpA2sykil%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 15:36:16 GMT",
-      "source": "X/@verge"
     },
     {
       "title": "AI’s promise to indie filmmakers: faster, cheaper, lonelier https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/?utm_source=dlvr.it&utm_medium=twitter",
