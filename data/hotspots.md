@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-21T18:26:23.623342+08:00  
-总条数：189  
+更新时间：2026-02-21T19:26:40.721092+08:00  
+总条数：186  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -236,7 +236,14 @@ Read more: https://anthropic.com/news/anthropic-rwanda-mou
 - 图片：![](https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2023789983711326380#m
 
-## 30. R to @OpenAI: Now in deep research you can:
+## 30. Deep research in ChatGPT is now powered by GPT-5.2.
+
+Rolling out starting today with more improvements.
+- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
+- 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
+- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
+
+## 31. R to @OpenAI: Now in deep research you can:
 
 - Connect to apps in ChatGPT and search specific sites
 
@@ -246,13 +253,6 @@ Read more: https://anthropic.com/news/anthropic-rwanda-mou
 - 内容摘要：Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports
 - 图片：![](https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg)
 - 链接：https://nitter.net/OpenAI/status/2021299936948781095#m
-
-## 31. Deep research in ChatGPT is now powered by GPT-5.2.
-
-Rolling out starting today with more improvements.
-- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
-- 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
-- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
 
 ## 32. R to @OpenAI: Listen to the OpenAI Podcast on—
 Spotify

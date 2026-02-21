@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T18:26:23.623342+08:00",
-  "count": 189,
+  "updated_at": "2026-02-21T19:26:40.721092+08:00",
+  "count": 186,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -248,18 +248,18 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
-      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
-      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
-      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
       "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
       "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
       "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
+      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
+      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
+      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -400,11 +400,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -440,18 +456,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
-      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
       "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
       "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
+      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -574,6 +590,22 @@
       "image": "https://nitter.net/pic/card_img%2F2024052517961609216%2F9QhvfKdK%3Fformat%3Dpng%26name%3D800x419",
       "published": "Sun, 08 Feb 2026 01:48:23 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "By typing simple, text-based commands into Windows' PowerShell, you can quickly install apps directly from the Microsoft Store—all without the typical ads or clutter. https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025164422528823625#m",
+      "summary": "By typing simple, text-based commands into Windows' PowerShell, you can quickly install apps directly from the Microsoft Store—all without the typical ads or clutter. wired.com/story/install-and-…",
+      "image": "https://nitter.net/pic/card_img%2F2025164424336519169%2FSoV12_9g%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 11:03:18 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "From disappointments to scandals to Madison Chock and Evan Bates’ silver medal, figure skating brought some of the biggest surprises of the Milano Cortina Games. We talked to Adam Rippon to find out why. https://www.wired.com/story/2026-winter-olympics-figure-skating-adam-rippon-interview/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025158346630705197#m",
+      "summary": "From disappointments to scandals to Madison Chock and Evan Bates’ silver medal, figure skating brought some of the biggest surprises of the Milano Cortina Games. We talked to Adam Rippon to find out why. wired.com/story/2026-winter-…",
+      "image": "https://nitter.net/pic/card_img%2F2025158348161638400%2FAa5HmzgS%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 10:39:10 GMT",
+      "source": "X/@WIRED"
     },
     {
       "title": "Following increased surveillance and patrols of routes used by transnational drug-trafficking networks, Mexican authorities have seized approximately 10 tons of cocaine in the past week alone. https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -701,6 +733,14 @@
       "summary": "(Also best family ❤️)",
       "image": null,
       "published": "Mon, 16 Feb 2026 17:43:19 GMT",
+      "source": "X/@sama"
+    },
+    {
+      "title": "Best OpenAI sweatshirt ever",
+      "url": "https://nitter.net/sama/status/2023453083595141411#m",
+      "summary": "Best OpenAI sweatshirt ever",
+      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
+      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
       "source": "X/@sama"
     },
     {
@@ -904,14 +944,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "R to @WIRED: Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.”\n\nRead the full story: https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
-      "url": "https://nitter.net/WIRED/status/2024960134829801545#m",
-      "summary": "Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.” Read the full story: wired.com/story/they-bet-aga…",
-      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 21:31:32 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "R to @WIRED: However, SCOTUS did not explicitly address whether the government will be required to issue refunds. “That’s the billion-dollar question,” says one brokerage firm president. “Everybody is in a state of flux.”\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
       "url": "https://nitter.net/WIRED/status/2024960132967530884#m",
       "summary": "However, SCOTUS did not explicitly address whether the government will be required to issue refunds. “That’s the billion-dollar question,” says one brokerage firm president. “Everybody is in a state of flux.” wired.com/story/they-bet-aga…",
@@ -920,27 +952,11 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @WIRED: “We were like, [Trump] is capriciously applying the law,” says Thomas Braziel, founder of investment firm 117 Partners, who says he purchased $925,000 worth of tariff refund claims with his own money. “That was the play.”\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
-      "url": "https://nitter.net/WIRED/status/2024960130941682033#m",
-      "summary": "“We were like, [Trump] is capriciously applying the law,” says Thomas Braziel, founder of investment firm 117 Partners, who says he purchased $925,000 worth of tariff refund claims with his own money. “That was the play.” wired.com/story/they-bet-aga…",
+      "title": "R to @WIRED: Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.”\n\nRead the full story: https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
+      "url": "https://nitter.net/WIRED/status/2024960134829801545#m",
+      "summary": "Asked about the possibility of tariff refunds on Friday, Trump said, “I guess it has to get litigated.” Read the full story: wired.com/story/they-bet-aga…",
       "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "R to @WIRED: When Trump first introduced the tariffs, hedge funds began to bet on the possibility that the courts might rule that he had violated the law, doing so by purchasing the right to theoretical tariff refunds at cents on the dollar from struggling importers.\nhttps://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
-      "url": "https://nitter.net/WIRED/status/2024960129385533533#m",
-      "summary": "When Trump first introduced the tariffs, hedge funds began to bet on the possibility that the courts might rule that he had violated the law, doing so by purchasing the right to theoretical tariff refunds at cents on the dollar from struggling importers. wired.com/story/they-bet-aga…",
-      "image": "https://nitter.net/pic/card_img%2F2024954646494695425%2FN1pbOPRR%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "R to @WIRED: ICYMI, earlier today SCOTUS overturned most of the Trump administration’s tariffs, putting the US government on the hook for at least $175 billion in tariff refunds.\nhttps://www.wired.com/story/supreme-court-trump-tariffs-ruling/",
-      "url": "https://nitter.net/WIRED/status/2024960127863062976#m",
-      "summary": "ICYMI, earlier today SCOTUS overturned most of the Trump administration’s tariffs, putting the US government on the hook for at least $175 billion in tariff refunds. wired.com/story/supreme-cour…",
-      "image": "https://nitter.net/pic/card_img%2F2024886858044657664%2FIVvV4_Na%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 21:31:31 GMT",
+      "published": "Fri, 20 Feb 2026 21:31:32 GMT",
       "source": "X/@WIRED"
     },
     {
@@ -1027,7 +1043,7 @@
       "title": "Xbox chief Phil Spencer is leaving Microsoft https://www.theverge.com/news/882241/microsoft-phil-spencer-xbox-leaving-retirement?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=null",
       "url": "https://nitter.net/verge/status/2024945923198255265#m",
       "summary": "Xbox chief Phil Spencer is leaving Microsoft theverge.com/news/882241/mic…",
-      "image": "https://nitter.net/pic/card_img%2F2022559631264915456%2F1uL3_VGF%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025149180243836929%2FubUcnJ9B%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 20:35:04 GMT",
       "source": "X/@verge"
     },
@@ -1048,14 +1064,6 @@
       "source": "X/@verge"
     },
     {
-      "title": "R to @WIRED: The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system.\n\nRead the full story: https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-      "url": "https://nitter.net/WIRED/status/2024942492076904752#m",
-      "summary": "The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system. Read the full story: wired.com/story/dhs-wants-a-…",
-      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:21:26 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "R to @WIRED: The system would support watchlisting, detention, or removal operations and comes as DHS is pushing biometric surveillance far beyond ports of entry and into the hands of intelligence units and masked agents operating hundreds of miles from the border. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
       "url": "https://nitter.net/WIRED/status/2024942490688626832#m",
       "summary": "The system would support watchlisting, detention, or removal operations and comes as DHS is pushing biometric surveillance far beyond ports of entry and into the hands of intelligence units and masked agents operating hundreds of miles from the border. wired.com/story/dhs-wants-a-…",
@@ -1064,19 +1072,11 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @WIRED: The goal is to connect components including CBP, ICE, the Transportation Security Administration, US Citizenship and Immigration Services, the Secret Service, and DHS headquarters, replacing a patchwork of tools that do not share data easily. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-      "url": "https://nitter.net/WIRED/status/2024942489107345579#m",
-      "summary": "The goal is to connect components including CBP, ICE, the Transportation Security Administration, US Citizenship and Immigration Services, the Secret Service, and DHS headquarters, replacing a patchwork of tools that do not share data easily. wired.com/story/dhs-wants-a-…",
+      "title": "R to @WIRED: The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system.\n\nRead the full story: https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
+      "url": "https://nitter.net/WIRED/status/2024942492076904752#m",
+      "summary": "The records show DHS is trying to buy a single “matching engine” that can take different kinds of biometrics and run them through the same backend, giving multiple DHS agencies one shared system. Read the full story: wired.com/story/dhs-wants-a-…",
       "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:21:25 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "R to @WIRED: The agency is asking private biometric contractors how to build a unified platform that would let employees search faces and fingerprints across large government databases already filled with biometrics gathered in different contexts. https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
-      "url": "https://nitter.net/WIRED/status/2024942487253508161#m",
-      "summary": "The agency is asking private biometric contractors how to build a unified platform that would let employees search faces and fingerprints across large government databases already filled with biometrics gathered in different contexts. wired.com/story/dhs-wants-a-…",
-      "image": "https://nitter.net/pic/card_img%2F2024938263631319040%2FxDNPhe7Z%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:21:25 GMT",
+      "published": "Fri, 20 Feb 2026 20:21:26 GMT",
       "source": "X/@WIRED"
     },
     {
@@ -1416,14 +1416,6 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2F1ruPBI7S%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
       "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
       "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1432,27 +1424,11 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
-      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
-      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
-      "image": null,
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2F1ruPBI7S%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
-      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
-      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1505,17 +1481,17 @@
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
