@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-21T15:23:28.610859+08:00",
-  "count": 176,
+  "updated_at": "2026-02-21T16:24:05.295164+08:00",
+  "count": 193,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -16,10 +16,18 @@
   ],
   "items": [
     {
+      "title": "RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 \n\nBy combining decades of machine data with AI, simulation, and digital twins, leaders like @AGIBOTofficial, @FRANKAROBOTICS, @CaterpillarInc, and @PlusAI_Inc are scaling intelligent machines across industries and redefining what robots can do in the physical world.\n\nWatch the full video 📹 https://nvda.ws/40jncOc",
+      "url": "https://nitter.net/NVIDIARobotics/status/2024236678999638408#m",
+      "summary": "What’s next in robotics starts with physical AI. 🤖 By combining decades of machine data with AI, simulation, and digital twins, leaders like @AGIBOTofficial , @FRANKAROBOTICS , @CaterpillarInc , and @PlusAI_Inc are scaling intelligent machines across industries and redefining what robots can do in the physical world. Watch the full video 📹 nvda.ws/40jncOc Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024236532358381568%2Fimg%2Fr5pPkJl8X4TcdS40.jpg",
+      "published": "Wed, 18 Feb 2026 21:36:47 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
       "title": "R to @AnthropicAI: A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone.\n\nFor full details, and our recommendations to developers and policymakers, see the blog: https://www.anthropic.com/research/measuring-agent-autonomy",
       "url": "https://nitter.net/AnthropicAI/status/2024210056871629072#m",
       "summary": "A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone. For full details, and our recommendations to developers and policymakers, see the blog: anthropic.com/research/measu…",
-      "image": "https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:51:00 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -83,7 +91,7 @@
       "title": "New Anthropic research: Measuring AI agent autonomy in practice.\n\nWe analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.\n\nRead more: https://www.anthropic.com/research/measuring-agent-autonomy",
       "url": "https://nitter.net/AnthropicAI/status/2024210035480678724#m",
       "summary": "New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose. Read more: anthropic.com/research/measu…",
-      "image": "https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -110,6 +118,14 @@
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg",
       "published": "Wed, 18 Feb 2026 18:17:07 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. \n\nFrom a Legend Interview with Mark Weatherford (NVIDIA Head of Cybersecurity Policy and Strategy) to deep-dive sessions alongside partners like Palo Alto Networks, Forescout, and Siemens, the focus is on integrating AI-driven cybersecurity into real-world OT environments. \n\nMeet us in Miami at S4x26 and see how NVIDIA is helping secure the next generation of critical infrastructure. https://nvda.ws/4ryVLfp",
+      "url": "https://nitter.net/NVIDIANetworkng/status/2024163232877797699#m",
+      "summary": "🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. From a Legend Interview with Mark Weatherford (NVIDIA Head of Cybersecurity Policy and Strategy) to deep-dive sessions alongside partners like Palo Alto Networks, Forescout, and Siemens, the focus is on integrating AI-driven cybersecurity into real-world OT environments. Meet us in Miami at S4x26 and see how NVIDIA is helping secure the next generation of critical infrastructure. nvda.ws/4ryVLfp",
+      "image": "https://nitter.net/pic/media%2FHBdFu5DWYAAxzEP.jpg",
+      "published": "Wed, 18 Feb 2026 16:44:56 GMT",
+      "source": "X/@NVIDIA"
     },
     {
       "title": "R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️\n\nAll generations from the app also include SynthID: our invisible watermark for identifying Google AI content.\n\nFind out more → https://goo.gle/4kFSqbX",
@@ -150,6 +166,22 @@
       "image": null,
       "published": "Wed, 18 Feb 2026 11:06:02 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.\n\nWith NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys, @Persistentsys, @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare.\n\nRead more: https://nvda.ws/4bOuoZQ",
+      "url": "https://nitter.net/NVIDIAAP/status/2023926641961955484#m",
+      "summary": "At #IndiaAIImpactSummit2026 , we revealed how agentic #AI is reshaping India's tech landscape. With NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys , @Persistentsys , @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare. Read more: nvda.ws/4bOuoZQ",
+      "image": "https://nitter.net/pic/media%2FHBZujdaW4AAsysJ.jpg",
+      "published": "Wed, 18 Feb 2026 01:04:48 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "India is entering a new age of industrialization. 👏\n\nIndia’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence, @Siemens, @Synopsys.\n\nTogether, we're advancing the nation’s AI boom using applications accelerated by NVIDIA CUDA-X and @NVIDIAOmniverse libraries.\n\n🔗 Read the full #IndiaAIImpactSummit2026 blog: https://nvda.ws/3ZIyKdF",
+      "url": "https://nitter.net/nvidia/status/2023918736881623505#m",
+      "summary": "India is entering a new age of industrialization. 👏 India’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence , @Siemens , @Synopsys . Together, we're advancing the nation’s AI boom using applications accelerated by NVIDIA CUDA-X and @NVIDIAOmniverse libraries. 🔗 Read the full #IndiaAIImpactSummit2026 blog: nvda.ws/3ZIyKdF",
+      "image": "https://nitter.net/pic/media%2FHBZnXMCXQAEmk_O.jpg",
+      "published": "Wed, 18 Feb 2026 00:33:24 GMT",
+      "source": "X/@NVIDIA"
     },
     {
       "title": "We're committing to cover electricity price increases from our data centers.\n\nTo ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.\n\nRead more: https://www.anthropic.com/news/covering-electricity-price-increases",
@@ -200,6 +232,14 @@
       "source": "X/@AnthropicAI"
     },
     {
+      "title": "RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.\n\nThis expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.\n\nLearn more: https://nvda.ws/4rmj3Fm",
+      "url": "https://nitter.net/nvidianewsroom/status/2023870182524145845#m",
+      "summary": ". @Meta is deploying AI at scale through deep codesign across the full NVIDIA platform. This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs. Learn more: nvda.ws/4rmj3Fm",
+      "image": "https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg",
+      "published": "Tue, 17 Feb 2026 21:20:27 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
       "title": "RT by @sama: It's been a huge month for Codex. \n5.3, Spark, Codex app, OpenClaw.\nWe're accelerating. Looking for top people in:\n\n- Full stack Typescript\n- Design engineering\n- Windows experience+distribution\n- React+Node performance\n- Crazy advanced git\n- Agent orchestration\n- Remote codex\n- Mobile\n\nDM me with a link to what you've built",
       "url": "https://nitter.net/ajambrosino/status/2023850810183217184#m",
       "summary": "It's been a huge month for Codex. 5.3, Spark, Codex app, OpenClaw. We're accelerating. Looking for top people in: - Full stack Typescript - Design engineering - Windows experience+distribution - React+Node performance - Crazy advanced git - Agent orchestration - Remote codex - Mobile DM me with a link to what you've built Alexander Embiricos (@embirico) Any longtime Windows developers/experts here who'd want to help make Codex great on Windows? — https://nitter.net/embirico/status/2023837717541597577#m",
@@ -248,18 +288,18 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
-      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
-      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
-      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
       "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
       "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
       "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
+      "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
+      "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
+      "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -352,6 +392,14 @@
       "source": "X/@GoogleDeepMind"
     },
     {
+      "title": "RT by @nvidia: ✨The AI supercomputer that sparked the AI revolution. \n#TBT #NVIDIADGX #DecadeOfDGX",
+      "url": "https://nitter.net/NVIDIADC/status/2024536159632888104#m",
+      "summary": "✨The AI supercomputer that sparked the AI revolution. #TBT #NVIDIADGX #DecadeOfDGX NVIDIA Data Center (@NVIDIADC) Check out NVIDIA's DGX-1 on display, the first AI supercomputer in a box @at_scale_events #atscale2016 — https://nitter.net/NVIDIADC/status/771097774825676800#m",
+      "image": "https://nitter.net/pic/media%2FCrN9VsHUsAAVmmg.jpg",
+      "published": "Thu, 19 Feb 2026 17:26:49 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
       "title": "R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp, and exclusively to Google AI Pro and Ultra users in @NotebookLM.\n\nDevelopers can access it in preview via the API in @GoogleAIStudio. Find out more → https://goo.gle/4s5yXE5",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516471720743295#m",
       "summary": "Gemini 3.1 Pro is rolling out now in the @GeminiApp , and exclusively to Google AI Pro and Ultra users in @NotebookLM . Developers can access it in preview via the API in @GoogleAIStudio . Find out more → goo.gle/4s5yXE5",
@@ -374,6 +422,54 @@
       "image": null,
       "published": "Thu, 19 Feb 2026 16:08:33 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @basetenco: This is why leading AI inference providers are optimizing their inference platforms on Blackwell. \n\nCheck out the latest blog 👇https://nvda.ws/4awCFzk",
+      "url": "https://nitter.net/nvidia/status/2022032295364788394#m",
+      "summary": "This is why leading AI inference providers are optimizing their inference platforms on Blackwell. Check out the latest blog 👇 nvda.ws/4awCFzk",
+      "image": "https://nitter.net/pic/media%2FHA-zpzWXcAA8SPA.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:21 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Infrastructure efficiency fuels better tokenomics. \n\nLike a printing press that produces more pages when you invest in a better machine, ink and energy, better AI infrastructure means more tokens leading to lower cost per token.",
+      "url": "https://nitter.net/nvidia/status/2022032284266766444#m",
+      "summary": "Infrastructure efficiency fuels better tokenomics. Like a printing press that produces more pages when you invest in a better machine, ink and energy, better AI infrastructure means more tokens leading to lower cost per token.",
+      "image": "https://nitter.net/pic/media%2FHA-zpUYW8AAkkqn.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:18 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "RT by @nvidia: ✨ Thank you to our incredible community of developers and researchers driving AI innovation — one model, one commit, and one breakthrough at a time.\n\n🤗 We’re thrilled to celebrate 50,000+ followers on @HuggingFace. \n\nKeep building with us: https://huggingface.co/nvidia",
+      "url": "https://nitter.net/NVIDIAAIDev/status/2022023402047799389#m",
+      "summary": "✨ Thank you to our incredible community of developers and researchers driving AI innovation — one model, one commit, and one breakthrough at a time. 🤗 We’re thrilled to celebrate 50,000+ followers on @HuggingFace . Keep building with us: huggingface.co/nvidia",
+      "image": "https://nitter.net/pic/media%2FHA-bk2IWEAATT0K.jpg",
+      "published": "Thu, 12 Feb 2026 19:02:01 GMT",
+      "source": "X/@NVIDIA"
     },
     {
       "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
@@ -400,18 +496,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
-      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
-      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
       "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
       "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
+      "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
+      "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2F_3tNL-Yo%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -422,6 +518,14 @@
       "image": "https://nitter.net/pic/media%2FHA-crkWXoAAMksS.jpg",
       "published": "Thu, 12 Feb 2026 18:00:43 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "RT by @nvidia: Did you know there’s an NVIDIA DGX Spark powering AI research at the South Pole? ❄️\n\nAt the @UWMadison’s IceCube Neutrino Observatory in Antarctica, researchers are using DGX Spark to run AI models that help study the universe’s most cataclysmic events—through subatomic particles called neutrinos.\n\nThe NVIDIA DGX Spark desktop supercomputer brings data‑center‑class AI performance to lab benches, faculty offices, and student systems worldwide. Discover how DGX Spark fuels groundbreaking AI research at universities including @ASU, @Harvard, ISTA, @msstate, @nyuniversity, @Stanford, and @UDelaware. \n\n🔗 https://blogs.nvidia.com/blog/dgx-spark-higher-education/\n\n📸 DGX Spark on a ceremonial South Pole marker. Image courtesy of Tim Bendfelt / NSF.",
+      "url": "https://nitter.net/NVIDIAAIDev/status/2021993454805381183#m",
+      "summary": "Did you know there’s an NVIDIA DGX Spark powering AI research at the South Pole? ❄️ At the @UWMadison ’s IceCube Neutrino Observatory in Antarctica, researchers are using DGX Spark to run AI models that help study the universe’s most cataclysmic events—through subatomic particles called neutrinos. The NVIDIA DGX Spark desktop supercomputer brings data‑center‑class AI performance to lab benches, faculty offices, and student systems worldwide. Discover how DGX Spark fuels groundbreaking AI research at universities including @ASU , @Harvard , ISTA, @msstate , @nyuniversity , @Stanford , and @UDelaware . 🔗 blogs.nvidia.com/blog/dgx-sp… 📸 DGX Spark on a ceremonial South Pole marker. Image courtesy of Tim Bendfelt / NSF.",
+      "image": "https://nitter.net/pic/media%2FHA-FmfaWIAMBmkb.jpg",
+      "published": "Thu, 12 Feb 2026 17:03:01 GMT",
+      "source": "X/@NVIDIA"
     },
     {
       "title": "We have a special thing launching to Codex users on the Pro plan later today. It sparks joy for me. I think you are going to love it...",
@@ -528,6 +632,14 @@
       "source": "X/@xai"
     },
     {
+      "title": "Anker’s powerful home theater on wheels is pure chaos https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
+      "url": "https://nitter.net/verge/status/2025118972421759267#m",
+      "summary": "Anker’s powerful home theater on wheels is pure chaos theverge.com/tech/881788/sou…",
+      "image": "https://nitter.net/pic/card_img%2F2025118972958703616%2F9j_Wbzdv%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 08:02:42 GMT",
+      "source": "X/@verge"
+    },
+    {
       "title": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a \"disgrace.\" https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2025042807656710380#m",
       "summary": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a \"disgrace.\" wired.com/story/trump-impose…",
@@ -616,6 +728,14 @@
       "source": "X/@sama"
     },
     {
+      "title": "NVIDIA is at the forefront of inference performance. NVIDIA GB300 NVL72 delivers massive generational leaps over Hopper platform.\n⚡ 50x better performance per watt\n💲 35x lower cost per million tokens",
+      "url": "https://nitter.net/nvidia/status/2023479202981224472#m",
+      "summary": "NVIDIA is at the forefront of inference performance. NVIDIA GB300 NVL72 delivers massive generational leaps over Hopper platform. ⚡ 50x better performance per watt 💲 35x lower cost per million tokens",
+      "image": "https://nitter.net/pic/media%2FHBTXnKHWAAAXU01.jpg",
+      "published": "Mon, 16 Feb 2026 19:26:51 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
       "title": "🦞",
       "url": "https://nitter.net/sama/status/2023463428892094655#m",
       "summary": "🦞",
@@ -630,6 +750,38 @@
       "image": null,
       "published": "Mon, 16 Feb 2026 17:43:19 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
+      "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
+      "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
+      "image": "https://nitter.net/pic/media%2FHBS7aTabcAU1TWS.jpg",
+      "published": "Mon, 16 Feb 2026 17:23:38 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack with NVIDIA Dynamo and TensorRT-LLM deliver over 50x performance per watt compared with the NVIDIA Hopper platform.",
+      "url": "https://nitter.net/nvidia/status/2023448139190202479#m",
+      "summary": "NVIDIA GB300 NVL72 and the codesigned software stack with NVIDIA Dynamo and TensorRT-LLM deliver over 50x performance per watt compared with the NVIDIA Hopper platform.",
+      "image": "https://nitter.net/pic/media%2FHBS7WS-bMAAnRAy.jpg",
+      "published": "Mon, 16 Feb 2026 17:23:24 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "RT by @nvidia: NVIDIA says its Blackwell Ultra is optimized for agentic AI, delivering 50× higher throughput per megawatt than H200s, 35× lower cost per million tokens, and 1.5× lower cost per token vs. GB200 NVL72.\nhttps://wccftech.com/nvidias-blackwell-ultra-pushes-agentic-ai-performance-to-new-heights/",
+      "url": "https://nitter.net/wccftech/status/2023447422790496304#m",
+      "summary": "NVIDIA says its Blackwell Ultra is optimized for agentic AI, delivering 50× higher throughput per megawatt than H200s, 35× lower cost per million tokens, and 1.5× lower cost per token vs. GB200 NVL72. wccftech.com/nvidias-blackwe…",
+      "image": "https://nitter.net/pic/card_img%2F2023442404314140673%2FIRaU5zfm%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 16 Feb 2026 17:20:34 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "⚡New data shows NVIDIA Blackwell Ultra delivers up to 50x better performance and 35x lower cost for agentic AI.\nCloud providers are deploying NVIDIA GB300 NVL72 systems at scale for low-latency and long-context use cases including agentic coding and coding assistants.\n\nLearn how #NVIDIABlackwell platform is maximizing inference performance: https://nvda.ws/4rTyDbi",
+      "url": "https://nitter.net/nvidia/status/2023442916115427787#m",
+      "summary": "⚡New data shows NVIDIA Blackwell Ultra delivers up to 50x better performance and 35x lower cost for agentic AI. Cloud providers are deploying NVIDIA GB300 NVL72 systems at scale for low-latency and long-context use cases including agentic coding and coding assistants. Learn how #NVIDIABlackwell platform is maximizing inference performance: nvda.ws/4rTyDbi",
+      "image": "https://nitter.net/pic/media%2FHBS2m_mXQAAU_LW.jpg",
+      "published": "Mon, 16 Feb 2026 17:02:39 GMT",
+      "source": "X/@NVIDIA"
     },
     {
       "title": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific.\n\nIndia is our second-largest market for http://Claude.ai. We’re launching new partnerships to deepen our long-term commitment: https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
@@ -867,7 +1019,7 @@
       "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024952519957557714#m",
       "summary": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show techcrunch.com/2026/02/20/re…",
-      "image": "https://nitter.net/pic/card_img%2F2024952524135170050%2FI4OO0nim%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 21:01:17 GMT",
       "source": "X/@TechCrunch"
     },
@@ -1128,6 +1280,14 @@
       "source": "X/@verge"
     },
     {
+      "title": "The latest SemiAnalysis InferenceX data proves that the best performance drives the lowest inference cost - and that’s NVIDIA GB300 NVL72.",
+      "url": "https://nitter.net/nvidia/status/2024891801195180224#m",
+      "summary": "The latest SemiAnalysis InferenceX data proves that the best performance drives the lowest inference cost - and that’s NVIDIA GB300 NVL72.",
+      "image": "https://nitter.net/pic/media%2FHBkGX3ZWwAAXwbD.jpg",
+      "published": "Fri, 20 Feb 2026 17:00:00 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
       "title": "Threads posts can now be shared directly to your Instagram Story without leaving the app https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024891357735911794#m",
       "summary": "Threads posts can now be shared directly to your Instagram Story without leaving the app techcrunch.com/2026/02/20/th…",
@@ -1139,7 +1299,7 @@
       "title": "Amazon blames human employees for an AI coding agent’s mistake https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
       "url": "https://nitter.net/verge/status/2024890620486320183#m",
       "summary": "Amazon blames human employees for an AI coding agent’s mistake theverge.com/ai-artificial-i…",
-      "image": "https://nitter.net/pic/card_img%2F2024890621060939779%2F_c2ot87Y%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025103343740227584%2FzQuUupp7%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 16:55:19 GMT",
       "source": "X/@verge"
     },
@@ -1240,14 +1400,6 @@
       "source": "X/@verge"
     },
     {
-      "title": "I review laptops for The Verge, ask me anything https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything",
-      "url": "https://nitter.net/verge/status/2024865439516688603#m",
-      "summary": "I review laptops for The Verge, ask me anything theverge.com/column/881567/i…",
-      "image": "https://nitter.net/pic/card_img%2F2024863692723027968%2FiqSSvHoK%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 15:15:15 GMT",
-      "source": "X/@verge"
-    },
-    {
       "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2024865274655301897#m",
       "summary": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up techcrunch.com/2026/02/20/pe…",
@@ -1312,12 +1464,12 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2Fbtguu_RV%3Fformat%3Djpg%26name%3D420x420_2",
-      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
+      "title": "There’s still time to win a Golden Ticket to attend GTC ✨\n\nScore VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more.\n\nEnter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience.\n\nContest details ➡️ https://nvda.ws/464svEF",
+      "url": "https://nitter.net/nvidia/status/2022401698753335714#m",
+      "summary": "There’s still time to win a Golden Ticket to attend GTC ✨ Score VIP keynote seating to see Jensen Huang live, win a DGX Spark, join us for happy hour at NVIDIA Headquarters, and more. Enter by this Sunday, February 15 at 11:59 PM PT for your chance to be part of the ultimate #NVIDIAGTC experience. Contest details ➡️ nvda.ws/464svEF",
+      "image": "https://nitter.net/pic/media%2FHBEDn-6XkAAzP78.jpg",
+      "published": "Fri, 13 Feb 2026 20:05:14 GMT",
+      "source": "X/@NVIDIA"
     },
     {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1328,27 +1480,11 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
-      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
-      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
-      "image": null,
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2Fbtguu_RV%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
-      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
-      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
-      "image": null,
-      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1401,17 +1537,17 @@
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
