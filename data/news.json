@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T01:53:28.124325+08:00",
-  "count": 195,
+  "updated_at": "2026-02-23T02:55:04.168997+08:00",
+  "count": 197,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -416,11 +416,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -542,6 +558,30 @@
       "image": "https://nitter.net/pic/media%2FHAWnU70b0AAyHuM.jpg",
       "published": "Thu, 05 Feb 2026 00:21:59 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "The best electric toothbrush reduces plaque and gingivitis, encourages you to brush long enough, and prevents overzealous scrubbing. https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025635954296242284#m",
+      "summary": "The best electric toothbrush reduces plaque and gingivitis, encourages you to brush long enough, and prevents overzealous scrubbing. wired.com/story/the-best-ele…",
+      "image": "https://nitter.net/pic/card_img%2F2025513218278621184%2FR5Euy1_P%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Sun, 22 Feb 2026 18:17:00 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths. https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
+      "url": "https://nitter.net/WIRED/status/2025632937048150313#m",
+      "summary": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths. wired.com/story/googles-ai-o…",
+      "image": "https://nitter.net/pic/card_img%2F2025219993789702144%2F2y5PTmoR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sun, 22 Feb 2026 18:05:01 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Quantonation’s double-sized second fund shows quantum still has believers https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025631984077480018#m",
+      "summary": "Quantonation’s double-sized second fund shows quantum still has believers techcrunch.com/2026/02/22/qu…",
+      "image": "https://nitter.net/pic/card_img%2F2023786136552755200%2FaH3GMB_B%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sun, 22 Feb 2026 18:01:14 GMT",
+      "source": "X/@TechCrunch"
     },
     {
       "title": "Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/?utm_source=dlvr.it&utm_medium=twitter",
@@ -827,7 +867,7 @@
       "title": "Georgia says Elon Musk’s America PAC violated election law https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
       "url": "https://nitter.net/verge/status/2025253705881452560#m",
       "summary": "Georgia says Elon Musk’s America PAC violated election law theverge.com/tech/882838/geo…",
-      "image": "https://nitter.net/pic/card_img%2F2025255268896944128%2FAymnIzC4%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025253706640621574%2FmwNUKOUY%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 16:58:05 GMT",
       "source": "X/@verge"
     },
@@ -968,28 +1008,12 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "Following increased surveillance and patrols of routes used by transnational drug-trafficking networks, Mexican authorities have seized approximately 10 tons of cocaine in the past week alone. https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2025149178796536307#m",
-      "summary": "Following increased surveillance and patrols of routes used by transnational drug-trafficking networks, Mexican authorities have seized approximately 10 tons of cocaine in the past week alone. wired.com/story/narco-submar…",
-      "image": "https://nitter.net/pic/card_img%2F2025624200350961664%2FQCSLCJFg%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 10:02:44 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "Anker’s powerful home theater on wheels is pure chaos https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
       "url": "https://nitter.net/verge/status/2025118972421759267#m",
       "summary": "Anker’s powerful home theater on wheels is pure chaos theverge.com/tech/881788/sou…",
       "image": "https://nitter.net/pic/card_img%2F2025118972958703616%2F9j_Wbzdv%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 08:02:42 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a \"disgrace.\" https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2025042807656710380#m",
-      "summary": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a \"disgrace.\" wired.com/story/trump-impose…",
-      "image": "https://nitter.net/pic/card_img%2F2025042660231180288%2FEmIK-xCr%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 03:00:03 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "Raising a round may not be a signal to spend aggressively, and many of the best founders stay disciplined. \n\n@yuris from @generalcatalyst advises to wait until the pain is real, then hire with intention. Taking your time can prevent painful layoffs, protect culture, and give your startup a longer runway to win.\n\nListen to the full episode of Build Mode: http://spr.ly/6019hiErd",
@@ -1285,14 +1309,6 @@
       "summary": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show techcrunch.com/2026/02/20/re…",
       "image": "https://nitter.net/pic/card_img%2F2024952524135170050%2FI4OO0nim%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 21:01:17 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2024951340284432656#m",
-      "summary": "Anthropic-funded group backs candidate attacked by rival AI super PAC techcrunch.com/2026/02/20/an…",
-      "image": "https://nitter.net/pic/card_img%2F2024951764047294464%2FUGGBREMK%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:56:35 GMT",
       "source": "X/@TechCrunch"
     },
     {
