@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-23T05:58:19.513075+08:00  
-总条数：197  
+更新时间：2026-02-23T07:00:21.416027+08:00  
+总条数：191  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -297,7 +297,7 @@ https://podcasts.apple.com/us/podcast/episode-13-the-thinking-behind-ads-in-chat
 YouTube
 https://youtu.be/2agJo3Jf_O4
 - 内容摘要：Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/0qR… Apple podcasts.apple.com/us/podcas… YouTube piped.video/2agJo3Jf_O4
-- 图片：![](https://nitter.net/pic/cards%2Fplayer-placeholder.png)
+- 图片：![](https://nitter.net/pic/card_img%2F2023835392454389760%2FGRejdARy%3Fformat%3Djpg%26name%3D800x320_1)
 - 链接：https://nitter.net/OpenAI/status/2021025336897700114#m
 
 ## 38. This week's podcast is all about ads.
