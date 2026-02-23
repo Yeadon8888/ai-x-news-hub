@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T23:18:47.587966+08:00",
-  "count": 197,
+  "updated_at": "2026-02-24T00:20:09.744804+08:00",
+  "count": 191,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -37,54 +37,6 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
-      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
-      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
-      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
-      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
-      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
-      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
-      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
-      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
-      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "image": null,
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -440,18 +392,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
-      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
       "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "image": null,
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
+      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -659,7 +611,7 @@
       "title": "China’s brain-computer interface industry is racing ahead https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025602558732152922#m",
       "summary": "China’s brain-computer interface industry is racing ahead techcrunch.com/2026/02/22/ch…",
-      "image": "https://nitter.net/pic/card_img%2F2025602377676468224%2FYbqzvNN-%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025727817582100480%2FZnkGNFX4%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 16:04:18 GMT",
       "source": "X/@TechCrunch"
     },
@@ -904,14 +856,6 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "When Indian Prime Minister Narendra Modi asked AI's most prominent leaders to join hands on stage, Sam Altman and Dario Amodei said \"no thanks.\"\n\n@EquityPod breaks down the moment, and everything else making headlines at the India AI Impact Summit: http://spr.ly/6013hi1xv",
-      "url": "https://nitter.net/TechCrunch/status/2025261738803753330#m",
-      "summary": "When Indian Prime Minister Narendra Modi asked AI's most prominent leaders to join hands on stage, Sam Altman and Dario Amodei said \"no thanks.\" @EquityPod breaks down the moment, and everything else making headlines at the India AI Impact Summit: spr.ly/6013hi1xv Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2025107754034065408%2Fimg%2FEx7FuDgkP2B8-1M3.jpg",
-      "published": "Sat, 21 Feb 2026 17:30:00 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\" https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
       "url": "https://nitter.net/WIRED/status/2025257978216013896#m",
       "summary": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\" wired.com/story/ai-agent-ren…",
@@ -984,14 +928,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "Anker’s powerful home theater on wheels is pure chaos https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
-      "url": "https://nitter.net/verge/status/2025118972421759267#m",
-      "summary": "Anker’s powerful home theater on wheels is pure chaos theverge.com/tech/881788/sou…",
-      "image": "https://nitter.net/pic/card_img%2F2025118972958703616%2F9j_Wbzdv%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 08:02:42 GMT",
-      "source": "X/@verge"
-    },
-    {
       "title": "R to @sama: These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
       "url": "https://nitter.net/sama/status/2022729429710237977#m",
       "summary": "These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
@@ -1030,6 +966,38 @@
       "image": null,
       "published": "Sat, 14 Feb 2026 03:43:44 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025966220319891494#m",
+      "summary": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report techcrunch.com/2026/02/23/vp…",
+      "image": "https://nitter.net/pic/card_img%2F2025966225088811009%2Funr4VyBW%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:09:22 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Yep, it’s fast: Donut Lab’s solid-state battery gets its first test result https://www.theverge.com/transportation/882993/donut-labs-solid-state-battery-charge-speed-vtt-test",
+      "url": "https://nitter.net/verge/status/2025964951345742237#m",
+      "summary": "Yep, it’s fast: Donut Lab’s solid-state battery gets its first test result theverge.com/transportation/…",
+      "image": "https://nitter.net/pic/card_img%2F2025963430465748992%2FF4AExqim%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:04:19 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "AOC’s 27-inch 1440p QD-OLED gaming monitor is down to $380 https://www.theverge.com/gadgets/883004/qd-oled-27-1440p-gaming-monitor-ghost-yotei-beats-deal-sale",
+      "url": "https://nitter.net/verge/status/2025962180554932621#m",
+      "summary": "AOC’s 27-inch 1440p QD-OLED gaming monitor is down to $380 theverge.com/gadgets/883004/…",
+      "image": "https://nitter.net/pic/card_img%2F2025962181171490816%2F8L6Z0jUf%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 15:53:19 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "AIs can generate near-verbatim copies of novels from training data https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025959913995018546#m",
+      "summary": "AIs can generate near-verbatim copies of novels from training data arstechnica.com/ai/2026/02/a…",
+      "image": "https://nitter.net/pic/card_img%2F2025632806181761024%2FV3nIcMdz%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 15:44:18 GMT",
+      "source": "X/@arstechnica"
     },
     {
       "title": "Hank Green will gladly take billionaire money for education videos https://www.theverge.com/podcast/882021/hank-green-complexly-non-profit-youtube-ai-algorithms-interview",
@@ -1384,14 +1352,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs",
-      "url": "https://nitter.net/verge/status/2024952571669217728#m",
-      "summary": "Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs theverge.com/games/882377/mi…",
-      "image": "https://nitter.net/pic/card_img%2F2022795584109789184%2FNWSgGszR%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 21:01:29 GMT",
-      "source": "X/@verge"
-    },
-    {
       "title": "With NIH in chaos, its controversial director is taking over CDC, too https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024933683824918982#m",
       "summary": "With NIH in chaos, its controversial director is taking over CDC, too arstechnica.com/health/2026/…",
@@ -1453,14 +1413,6 @@
       "summary": "Pokémon Red and Green's GBA remakes are getting re-released on Switch for $20 a pop arstechnica.com/gaming/2026/…",
       "image": "https://nitter.net/pic/card_img%2F2024885587719933952%2Fkliz5QJX%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 16:35:18 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
-      "title": "Supreme Court blocks Trump's emergency tariffs, billions in refunds may be owed https://arstechnica.com/tech-policy/2026/02/supreme-court-blocks-trumps-emergency-tariffs-billions-in-refunds-may-be-owed/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024871985541722249#m",
-      "summary": "Supreme Court blocks Trump's emergency tariffs, billions in refunds may be owed arstechnica.com/tech-policy/…",
-      "image": "https://nitter.net/pic/card_img%2F2024872223647924224%2Fl1BeDZbQ%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 15:41:16 GMT",
       "source": "X/@arstechnica"
     },
     {
