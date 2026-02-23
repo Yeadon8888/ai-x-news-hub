@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T17:03:49.163160+08:00",
-  "count": 195,
+  "updated_at": "2026-02-23T18:04:16.429995+08:00",
+  "count": 196,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -140,14 +140,6 @@
       "url": "https://nitter.net/GoogleDeepMind/status/2024153072046424556#m",
       "summary": "We’re giving creators more control over what they produce, helping them steer: 🔵 Tempo settings 🔵 Specific vocal styles 🔵 Precise lyrics Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg",
-      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
-      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
       "published": "Wed, 18 Feb 2026 16:04:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -392,7 +384,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -416,11 +408,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -504,18 +512,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
-      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
       "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
       "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
+      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -1163,7 +1171,7 @@
       "title": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific.\n\nIndia is our second-largest market for http://Claude.ai. We’re launching new partnerships to deepen our long-term commitment: https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
       "url": "https://nitter.net/AnthropicAI/status/2023322514206957688#m",
       "summary": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific. India is our second-largest market for Claude.ai . We’re launching new partnerships to deepen our long-term commitment: anthropic.com/news/bengaluru…",
-      "image": "https://nitter.net/pic/card_img%2F2023322616535162880%2FX-iWNs1s%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025859341006635008%2FBWhXPDPI%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 16 Feb 2026 09:04:13 GMT",
       "source": "X/@AnthropicAI"
     },
