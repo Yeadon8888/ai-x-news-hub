@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-23T18:04:16.429995+08:00  
-总条数：196  
+更新时间：2026-02-23T19:04:30.823511+08:00  
+总条数：195  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -243,7 +243,7 @@ An absolute triumph for Benchmark.
 
 ## 31. Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.
 - 内容摘要：Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 bi
-- 图片：![](https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419)
+- 图片：无
 - 链接：https://nitter.net/sama/status/2023838999341920283#m
 
 ## 32. RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.
