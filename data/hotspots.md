@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-23T11:03:12.735842+08:00  
-总条数：176  
+更新时间：2026-02-23T12:23:03.526896+08:00  
+总条数：193  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -122,30 +122,21 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153072046424556#m
 
-## 17. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
-🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.
-🔵 Realistic vocals that sound natural and expressive.
-🔵 Lyrical clarity without missing or jumbled words.
-🔵 Diverse range supporting multiple genres and languages.
-- 内容摘要：Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 D
-- 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024153069919813993#m
-
-## 18. We just dropped Lyria 3: our latest generative music model. 🔊 
+## 17. We just dropped Lyria 3: our latest generative music model. 🔊 
 
 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵
 - 内容摘要：We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153067654902014#m
 
-## 19. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
+## 18. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
 
 From training and mentorship for students to powering innovation hubs, we’re supporting India to apply AI where it can have the most impact. → https://goo.gle/4rrFYiy
 - 内容摘要：We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳 From training and mentorship for students to powering innovation hubs, we’re supporting I
 - 图片：无
 - 链接：https://nitter.net/GoogleDeepMind/status/2024077945413816476#m
 
-## 20. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
+## 19. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
 
 With NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys, @Persistentsys, @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare.
 
@@ -154,7 +145,7 @@ Read more: https://nvda.ws/4bOuoZQ
 - 图片：![](https://nitter.net/pic/media%2FHBZujdaW4AAsysJ.jpg)
 - 链接：https://nitter.net/NVIDIAAP/status/2023926641961955484#m
 
-## 21. India is entering a new age of industrialization. 👏
+## 20. India is entering a new age of industrialization. 👏
 
 India’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence, @Siemens, @Synopsys.
 
@@ -165,7 +156,7 @@ Together, we're advancing the nation’s AI boom using applications accelerated 
 - 图片：![](https://nitter.net/pic/media%2FHBZnXMCXQAEmk_O.jpg)
 - 链接：https://nitter.net/nvidia/status/2023918736881623505#m
 
-## 22. We're committing to cover electricity price increases from our data centers.
+## 21. We're committing to cover electricity price increases from our data centers.
 
 To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.
 
@@ -173,6 +164,13 @@ Read more: https://www.anthropic.com/news/covering-electricity-price-increases
 - 内容摘要：We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to 
 - 图片：![](https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2021694494215901314#m
+
+## 22. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
+
+The future has never looked more exciting!
+- 内容摘要：Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video
+- 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg)
+- 链接：https://nitter.net/xai/status/2021667200885829667#m
 
 ## 23. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
 
@@ -264,7 +262,14 @@ Read more: https://anthropic.com/news/anthropic-rwanda-mou
 - 图片：![](https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/AnthropicAI/status/2023789983711326380#m
 
-## 34. R to @OpenAI: Now in deep research you can:
+## 34. Deep research in ChatGPT is now powered by GPT-5.2.
+
+Rolling out starting today with more improvements.
+- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
+- 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
+- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
+
+## 35. R to @OpenAI: Now in deep research you can:
 
 - Connect to apps in ChatGPT and search specific sites
 
@@ -274,13 +279,6 @@ Read more: https://anthropic.com/news/anthropic-rwanda-mou
 - 内容摘要：Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports
 - 图片：![](https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg)
 - 链接：https://nitter.net/OpenAI/status/2021299936948781095#m
-
-## 35. Deep research in ChatGPT is now powered by GPT-5.2.
-
-Rolling out starting today with more improvements.
-- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
-- 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
-- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
 
 ## 36. R to @OpenAI: Listen to the OpenAI Podcast on—
 Spotify
@@ -300,23 +298,28 @@ Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share ho
 - 图片：![](https://nitter.net/pic/media%2FHAu1kHKbsAAXOK3.jpg)
 - 链接：https://nitter.net/OpenAI/status/2021025290366091442#m
 
-## 38. R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.
+## 38. We are excited about partnering with @fal on the new Grok Imagine API!
+- 内容摘要：We are excited about partnering with @fal on the new Grok Imagine API! fal (@fal) fal is proud to partner with @xai as Grok Imagine’s day-0 platform partner xAI's latest image & video gen + editing model ✨ Stunning photo
+- 图片：![](https://nitter.net/pic/ext_tw_video_thumb%2F2016746354005950464%2Fpu%2Fimg%2FToC9bRtF9wG__GPX.jpg)
+- 链接：https://nitter.net/xai/status/2016755009304568287#m
 
-Find out more ⬇️
-http://goo.gle/4s5yXE5
-- 内容摘要：Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers. Find out more ⬇️ goo.gle/4s5yXE5
-- 图片：![](https://nitter.net/pic/card_img%2F2024516429949628417%2FM2IFL-_D%3Fformat%3Djpg%26name%3D800x419)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024570293520396796#m
+## 39. Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api
+- 内容摘要：Try the all new Grok Imagine API: x.ai/news/grok-imagine-api Artificial Analysis (@ArtificialAnlys) xAI's Grok Imagine takes the #1 spot in both Text to Video and Image to Video in the Artificial Analysis Video Arena, su
+- 图片：![](https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419)
+- 链接：https://nitter.net/xai/status/2016751241226027302#m
 
-## 39. We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️
+## 40. RT by @xai: 🚨BREAKING: @xAI’s first model in Video Arena debuts in the top 3!
 
-Watch how the model tackles complex terrain, maps out infrastructure, and simulates traffic to generate a high-quality visualization.
-- 内容摘要：We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️ Watch how the model tackles complex terrain, maps out infrastructure, and simulates traffic to generate a high-quality visualization. Video
-- 图片：![](https://nitter.net/pic/media%2FHBi4N3_XAAAg_KI.jpg)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024570291767181557#m
+Grok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. 
 
-## 40. RT by @nvidia: ✨The AI supercomputer that sparked the AI revolution. 
-#TBT #NVIDIADGX #DecadeOfDGX
-- 内容摘要：✨The AI supercomputer that sparked the AI revolution. #TBT #NVIDIADGX #DecadeOfDGX NVIDIA Data Center (@NVIDIADC) Check out NVIDIA's DGX-1 on display, the first AI supercomputer in a box @at_scale_events #atscale2016 — h
-- 图片：![](https://nitter.net/pic/media%2FCrN9VsHUsAAVmmg.jpg)
-- 链接：https://nitter.net/NVIDIADC/status/2024536159632888104#m
+It is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models.
+
+Grok-Imagine-Video offers:
+- Text-to-video and image-to-video capabilities
+- Native audio generation
+- Up to 15-seconds video duration
+
+Congrats to @xAI on this strong launch!
+- 内容摘要：🚨BREAKING: @xAI ’s first model in Video Arena debuts in the top 3! Grok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. It is close to the top-ranked @GoogleDeepMind Veo 3.1 and @Ope
+- 图片：![](https://nitter.net/pic/media%2FG_zsjvCbUAAP9Zv.jpg)
+- 链接：https://nitter.net/arena/status/2016748418635616440#m
