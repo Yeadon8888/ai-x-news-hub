@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T19:04:30.823511+08:00",
-  "count": 195,
+  "updated_at": "2026-02-23T20:05:58.083689+08:00",
+  "count": 189,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -37,54 +37,6 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
-      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
-      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
-      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
-      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
-      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
-      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
-      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
-      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
-      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
-      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
-      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
-      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
-      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
-      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
-      "image": null,
-      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -140,6 +92,14 @@
       "url": "https://nitter.net/GoogleDeepMind/status/2024153072046424556#m",
       "summary": "We’re giving creators more control over what they produce, helping them steer: 🔵 Tempo settings 🔵 Specific vocal styles 🔵 Precise lyrics Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg",
+      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
+      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
       "published": "Wed, 18 Feb 2026 16:04:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -216,6 +176,14 @@
       "source": "X/@sama"
     },
     {
+      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
+      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
+      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
       "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
       "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
@@ -259,7 +227,7 @@
       "title": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.",
       "url": "https://nitter.net/sama/status/2023838999341920283#m",
       "summary": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 billion, Thrive X comprises $1 billion designated for early-stage investments and $9 billion designated for growth-stage investments. We do not view this as a milestone, but as a commitment to the long work ahead. We view Thrive as a company. Our product is partnership - the willingness to commit deeply to a small number of founders, and to stand with them through momentum and adversity. This is the discipline we bring to our work, and the responsibility we accept when founders partner with Thrive. We do not hedge. Concentration demands loyalty to the founders and missions we back. In this moment, exposure alone is not a strategy. Judgment without commitment is not enough. Advantage will accrue to those who choose deliberately, commit deeply, and endure through difficult moments. Thrive was founded to be an enabling technology for the world we want to see. We are deeply aware that we are not the main character. The founders that we are fortunate enough to partner with are the artists. Our role is to help create the conditions where great work can come to life. We take a long view grounded in the belief that category-defining companies tend to create structural compounding advantages over long arcs. This fund reflects the continuity of our approach and the ways our work has deepened alongside the founders we support. We are grateful for the trust our Limited Partners place in us, and for the opportunity to work alongside those who are building with purpose, integrity, and courage. thrivecap.com/thrive-x — https://nitter.net/JoshuaKushner/status/2023732796649271619#m",
-      "image": null,
+      "image": "https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419",
       "published": "Tue, 17 Feb 2026 19:16:33 GMT",
       "source": "X/@sama"
     },
@@ -384,7 +352,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -408,27 +376,11 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
-      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
-      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
-      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
-      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
-      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
+      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
+      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
+      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
+      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -440,18 +392,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
-      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
       "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
       "image": null,
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
+      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -512,18 +464,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
-      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
-      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
       "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
+      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
+      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -955,7 +907,7 @@
       "title": "You can never truly empty a box. Why? Zero-point energy. https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
       "url": "https://nitter.net/WIRED/status/2025227790388175120#m",
       "summary": "You can never truly empty a box. Why? Zero-point energy. wired.com/story/the-nothing-…",
-      "image": "https://nitter.net/pic/card_img%2F2023354597885313026%2FaYtfM-GF%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025891330690338817%2FtVBUqxNZ%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 15:15:06 GMT",
       "source": "X/@WIRED"
     },
@@ -990,14 +942,6 @@
       "image": "https://nitter.net/pic/card_img%2F2025209050141454337%2F3vyalSkd%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 14:02:57 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash. https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
-      "url": "https://nitter.net/WIRED/status/2025197577663058328#m",
-      "summary": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash. wired.com/story/letter-sales…",
-      "image": "https://nitter.net/pic/card_img%2F2023886876218978305%2Fg9DnllvP%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 13:15:03 GMT",
-      "source": "X/@WIRED"
     },
     {
       "title": "Dinosaur eggshells can reveal the age of other fossils https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
@@ -1078,6 +1022,30 @@
       "image": null,
       "published": "Sat, 14 Feb 2026 03:43:44 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "Taara Beam provides 25Gbps connectivity over invisible beams of light https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light",
+      "url": "https://nitter.net/verge/status/2025891979830476803#m",
+      "summary": "Taara Beam provides 25Gbps connectivity over invisible beams of light theverge.com/tech/881882/taa…",
+      "image": "https://nitter.net/pic/card_img%2F2025889345991811073%2FgmnGL4ES%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 11:14:21 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "How many AIs does it take to read a PDF? https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+      "url": "https://nitter.net/verge/status/2025889461536719188#m",
+      "summary": "How many AIs does it take to read a PDF? theverge.com/ai-artificial-i…",
+      "image": "https://nitter.net/pic/card_img%2F2025889344691605505%2Fc0l-35Wm%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 11:04:21 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks. https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025888475333992729#m",
+      "summary": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks. wired.com/story/say-goodbye-…",
+      "image": "https://nitter.net/pic/card_img%2F2025890218990301186%2FxLlngWZO%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 11:00:26 GMT",
+      "source": "X/@WIRED"
     },
     {
       "title": "Wispr Flow launches an Android app for AI-powered dictation https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/?utm_source=dlvr.it&utm_medium=twitter",
@@ -1341,22 +1309,6 @@
       "summary": "Xbox chief Phil Spencer is leaving Microsoft theverge.com/news/882241/mic…",
       "image": "https://nitter.net/pic/card_img%2F2025149180243836929%2FubUcnJ9B%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 20:35:04 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "Read Microsoft gaming CEO Asha Sharma’s first memo on the future of Xbox https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=null",
-      "url": "https://nitter.net/verge/status/2024945900045672856#m",
-      "summary": "Read Microsoft gaming CEO Asha Sharma’s first memo on the future of Xbox theverge.com/games/882326/re…",
-      "image": "https://nitter.net/pic/card_img%2F2025246703792578561%2FEcpLa_99%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:34:58 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "Trump is making coal plants even dirtier as AI demands more energy https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-      "url": "https://nitter.net/verge/status/2024944260525817943#m",
-      "summary": "Trump is making coal plants even dirtier as AI demands more energy theverge.com/science/882288/…",
-      "image": "https://nitter.net/pic/card_img%2F2024942246274236417%2FCC0O9OB_%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 20:28:28 GMT",
       "source": "X/@verge"
     },
     {
