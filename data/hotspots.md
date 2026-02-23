@@ -1,7 +1,7 @@
 # X 热点简报
 
-更新时间：2026-02-23T15:02:59.715352+08:00  
-总条数：151  
+更新时间：2026-02-23T16:03:15.956371+08:00  
+总条数：192  
 
 ## 1. RT by @nvidia: What’s next in robotics starts with physical AI. 🤖 
 
@@ -12,26 +12,49 @@ Watch the full video 📹 https://nvda.ws/40jncOc
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024236532358381568%2Fimg%2Fr5pPkJl8X4TcdS40.jpg)
 - 链接：https://nitter.net/NVIDIARobotics/status/2024236678999638408#m
 
-## 2. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
+## 2. R to @AnthropicAI: A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone.
+
+For full details, and our recommendations to developers and policymakers, see the blog: https://www.anthropic.com/research/measuring-agent-autonomy
+- 内容摘要：A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone. For full details, and our recommendations to develope
+- 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2024210056871629072#m
+
+## 3. R to @AnthropicAI: Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. 
+
+As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.
+- 内容摘要：Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage o
+- 图片：![](https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png)
+- 链接：https://nitter.net/AnthropicAI/status/2024210053369385192#m
+
+## 4. New Anthropic research: Measuring AI agent autonomy in practice.
+
+We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.
+
+Read more: https://www.anthropic.com/research/measuring-agent-autonomy
+- 内容摘要：New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and wha
+- 图片：![](https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2024210035480678724#m
+
+## 5. RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. 
 
 See how it all comes together with Google Cloud to help elite athletes find their edge. → https://goo.gle/4r4A86z
 - 内容摘要：Not all the action happens on the mountain. There’s a lot that happens after every run. See how it all comes together with Google Cloud to help elite athletes find their edge. → goo.gle/4r4A86z Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024200959732207616%2Fimg%2FHV4Q2SHYq0RP3e-K.jpg)
 - 链接：https://nitter.net/googlecloud/status/2024201066640785837#m
 
-## 3. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
+## 6. Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://openai.com/index/introducing-evmbench/
 - 内容摘要：Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. openai.com/index/introducing…
 - 图片：![](https://nitter.net/pic/card_img%2F2024193547231248384%2FffdHHUEC%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/OpenAI/status/2024193883748651102#m
 
-## 4. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
+## 7. Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶
 
 Try it in beta in the @GeminiApp
 - 内容摘要：Crystal-clear audio. Granular control. Lyria 3 is our most capable music model yet. 🎶 Try it in beta in the @GeminiApp Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024186128736059392%2Fimg%2FsoqHgs6Q631rp0ka.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024186433339027868#m
 
-## 5. RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. 
+## 8. RT by @nvidia: 🔒 We are heading to #S4x26 to help OT and ICS cybersecurity leaders put AI to work securing critical infrastructure. 
 
 From a Legend Interview with Mark Weatherford (NVIDIA Head of Cybersecurity Policy and Strategy) to deep-dive sessions alongside partners like Palo Alto Networks, Forescout, and Siemens, the focus is on integrating AI-driven cybersecurity into real-world OT environments. 
 
@@ -40,7 +63,7 @@ Meet us in Miami at S4x26 and see how NVIDIA is helping secure the next generati
 - 图片：![](https://nitter.net/pic/media%2FHBdFu5DWYAAxzEP.jpg)
 - 链接：https://nitter.net/NVIDIANetworkng/status/2024163232877797699#m
 
-## 6. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
+## 9. R to @GoogleDeepMind: Lyria 3 is rolling out today in beta in the @GeminiApp for everyone globally, making it easy to get started with custom audio. 🎛️
 
 All generations from the app also include SynthID: our invisible watermark for identifying Google AI content.
 
@@ -49,7 +72,7 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151169531002880%2Fimg%2FeDffB8QLJpGKVIqS.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153074315497495#m
 
-## 7. R to @GoogleDeepMind: We’re giving creators more control over what they produce, helping them steer:
+## 10. R to @GoogleDeepMind: We’re giving creators more control over what they produce, helping them steer:
 🔵 Tempo settings
 🔵 Specific vocal styles
 🔵 Precise lyrics
@@ -57,7 +80,7 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153072046424556#m
 
-## 8. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
+## 11. R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:
 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.
 🔵 Realistic vocals that sound natural and expressive.
 🔵 Lyrical clarity without missing or jumbled words.
@@ -66,21 +89,21 @@ Find out more → https://goo.gle/4kFSqbX
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153069919813993#m
 
-## 9. We just dropped Lyria 3: our latest generative music model. 🔊 
+## 12. We just dropped Lyria 3: our latest generative music model. 🔊 
 
 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵
 - 内容摘要：We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2024150673319727104%2Fimg%2FMfyZ5l9K74Gx15o6.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024153067654902014#m
 
-## 10. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
+## 13. We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳
 
 From training and mentorship for students to powering innovation hubs, we’re supporting India to apply AI where it can have the most impact. → https://goo.gle/4rrFYiy
 - 内容摘要：We’re partnering with government bodies and local institutions across India to accelerate discoveries in science and education. 🇮🇳 From training and mentorship for students to powering innovation hubs, we’re supporting I
 - 图片：无
 - 链接：https://nitter.net/GoogleDeepMind/status/2024077945413816476#m
 
-## 11. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
+## 14. RT by @nvidia: At #IndiaAIImpactSummit2026, we revealed how agentic #AI is reshaping India's tech landscape.
 
 With NVIDIA AI Enterprise and Nemotron models, India's technology leaders including @Infosys, @Persistentsys, @tech_mahindra and @Wipro are accelerating productivity across industries — from call centers to telecommunications and healthcare.
 
@@ -89,7 +112,7 @@ Read more: https://nvda.ws/4bOuoZQ
 - 图片：![](https://nitter.net/pic/media%2FHBZujdaW4AAsysJ.jpg)
 - 链接：https://nitter.net/NVIDIAAP/status/2023926641961955484#m
 
-## 12. India is entering a new age of industrialization. 👏
+## 15. India is entering a new age of industrialization. 👏
 
 India’s largest manufacturers are working with global service integrators including @Tata Consultancy Services , @Wipro PARI, & industrial software leaders like @Cadence, @Siemens, @Synopsys.
 
@@ -100,14 +123,23 @@ Together, we're advancing the nation’s AI boom using applications accelerated 
 - 图片：![](https://nitter.net/pic/media%2FHBZnXMCXQAEmk_O.jpg)
 - 链接：https://nitter.net/nvidia/status/2023918736881623505#m
 
-## 13. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
+## 16. We're committing to cover electricity price increases from our data centers.
+
+To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.
+
+Read more: https://www.anthropic.com/news/covering-electricity-price-increases
+- 内容摘要：We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to 
+- 图片：![](https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2021694494215901314#m
+
+## 17. Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.
 
 The future has never looked more exciting!
 - 内容摘要：Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg)
 - 链接：https://nitter.net/xai/status/2021667200885829667#m
 
-## 14. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
+## 18. RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:
 
 The first paper built a research agent #Aletheia, powered by an advanced version of Gemini Deep Think, that can autonomously produce publishable math research and crack open Erdős problems.
 
@@ -118,19 +150,33 @@ See the thread for details about the two papers and the joint blog post.
 - 图片：![](https://nitter.net/pic/media%2FHA5HCv-bsAQ1fkV.jpg)
 - 链接：https://nitter.net/lmthang/status/2021631397614731563#m
 
-## 15. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
+## 19. From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.
 
 Thank you to all the builders; you inspire us to work even harder.
 - 内容摘要：From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly. Thank you to all the builders; you inspire us to work even harder. Craig Weiss (@crai
 - 图片：无
 - 链接：https://nitter.net/sama/status/2021606985469211065#m
 
-## 16. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
+## 20. We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
 - 内容摘要：We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better.
 - 图片：无
 - 链接：https://nitter.net/sama/status/2021452911511998557#m
 
-## 17. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
+## 21. When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.
+
+Today we’re delivering on that commitment for Claude Opus 4.6.
+- 内容摘要：When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today w
+- 图片：无
+- 链接：https://nitter.net/AnthropicAI/status/2021397952791707696#m
+
+## 22. R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.
+
+Read the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report
+- 内容摘要：Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotag
+- 图片：无
+- 链接：https://nitter.net/AnthropicAI/status/2021397953848672557#m
+
+## 23. RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.
 
 This expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.
 
@@ -139,7 +185,7 @@ Learn more: https://nvda.ws/4rmj3Fm
 - 图片：![](https://nitter.net/pic/media%2FHBY557KWAAA9SKy.jpg)
 - 链接：https://nitter.net/nvidianewsroom/status/2023870182524145845#m
 
-## 18. RT by @sama: It's been a huge month for Codex. 
+## 24. RT by @sama: It's been a huge month for Codex. 
 5.3, Spark, Codex app, OpenClaw.
 We're accelerating. Looking for top people in:
 
@@ -157,31 +203,40 @@ DM me with a link to what you've built
 - 图片：无
 - 链接：https://nitter.net/ajambrosino/status/2023850810183217184#m
 
-## 19. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
+## 25. RT by @GoogleDeepMind: See you all at Google I/O starting May 19th! http://io.google
 - 内容摘要：See you all at Google I/O starting May 19th! io.google
 - 图片：无
 - 链接：https://nitter.net/sundarpichai/status/2023847540400288134#m
 
-## 20. Happy for my brother.
+## 26. Happy for my brother.
 
 An absolute triumph for Benchmark.
 - 内容摘要：Happy for my brother. An absolute triumph for Benchmark. Jack Altman (@jaltma) I’m really excited to share that I’m joining Benchmark. The past two years as a full time investor have been the most rewarding of my career.
 - 图片：无
 - 链接：https://nitter.net/sama/status/2023839310764802349#m
 
-## 21. Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.
+## 27. Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.
 - 内容摘要：Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 bi
 - 图片：![](https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419)
 - 链接：https://nitter.net/sama/status/2023838999341920283#m
 
-## 22. Deep research in ChatGPT is now powered by GPT-5.2.
+## 28. RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.
 
-Rolling out starting today with more improvements.
-- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
-- 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
-- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
+It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.
 
-## 23. R to @OpenAI: Now in deep research you can:
+It also features a 1M token context window in beta.
+- 内容摘要：This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context windo
+- 图片：![](https://nitter.net/pic/media%2FHBYMPQSaEAAbP8J.jpg)
+- 链接：https://nitter.net/claudeai/status/2023817132581208353#m
+
+## 29. We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors.
+
+Read more: https://anthropic.com/news/anthropic-rwanda-mou
+- 内容摘要：We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors. Read more: anthropic.com/news/anthropic…
+- 图片：![](https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419)
+- 链接：https://nitter.net/AnthropicAI/status/2023789983711326380#m
+
+## 30. R to @OpenAI: Now in deep research you can:
 
 - Connect to apps in ChatGPT and search specific sites
 
@@ -192,7 +247,14 @@ Rolling out starting today with more improvements.
 - 图片：![](https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg)
 - 链接：https://nitter.net/OpenAI/status/2021299936948781095#m
 
-## 24. R to @OpenAI: Listen to the OpenAI Podcast on—
+## 31. Deep research in ChatGPT is now powered by GPT-5.2.
+
+Rolling out starting today with more improvements.
+- 内容摘要：Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video
+- 图片：![](https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png)
+- 链接：https://nitter.net/OpenAI/status/2021299935678026168#m
+
+## 32. R to @OpenAI: Listen to the OpenAI Podcast on—
 Spotify
 https://open.spotify.com/episode/0qR8WghMlv19sF08bQDClM?si=HS9Pr2XLTMusVXGyAbWhfw
 Apple
@@ -203,24 +265,24 @@ https://youtu.be/2agJo3Jf_O4
 - 图片：![](https://nitter.net/pic/card_img%2F2023835392454389760%2FGRejdARy%3Fformat%3Djpg%26name%3D800x320_1)
 - 链接：https://nitter.net/OpenAI/status/2021025336897700114#m
 
-## 25. This week's podcast is all about ads.
+## 33. This week's podcast is all about ads.
 
 Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all.
 - 内容摘要：This week's podcast is all about ads. Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all.
 - 图片：![](https://nitter.net/pic/media%2FHAu1kHKbsAAXOK3.jpg)
 - 链接：https://nitter.net/OpenAI/status/2021025290366091442#m
 
-## 26. We are excited about partnering with @fal on the new Grok Imagine API!
+## 34. We are excited about partnering with @fal on the new Grok Imagine API!
 - 内容摘要：We are excited about partnering with @fal on the new Grok Imagine API! fal (@fal) fal is proud to partner with @xai as Grok Imagine’s day-0 platform partner xAI's latest image & video gen + editing model ✨ Stunning photo
 - 图片：![](https://nitter.net/pic/ext_tw_video_thumb%2F2016746354005950464%2Fpu%2Fimg%2FToC9bRtF9wG__GPX.jpg)
 - 链接：https://nitter.net/xai/status/2016755009304568287#m
 
-## 27. Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api
+## 35. Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api
 - 内容摘要：Try the all new Grok Imagine API: x.ai/news/grok-imagine-api Artificial Analysis (@ArtificialAnlys) xAI's Grok Imagine takes the #1 spot in both Text to Video and Image to Video in the Artificial Analysis Video Arena, su
 - 图片：![](https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419)
 - 链接：https://nitter.net/xai/status/2016751241226027302#m
 
-## 28. RT by @xai: 🚨BREAKING: @xAI’s first model in Video Arena debuts in the top 3!
+## 36. RT by @xai: 🚨BREAKING: @xAI’s first model in Video Arena debuts in the top 3!
 
 Grok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. 
 
@@ -236,14 +298,14 @@ Congrats to @xAI on this strong launch!
 - 图片：![](https://nitter.net/pic/media%2FG_zsjvCbUAAP9Zv.jpg)
 - 链接：https://nitter.net/arena/status/2016748418635616440#m
 
-## 29. Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: https://x.ai/news/grok-imagine-api
+## 37. Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: https://x.ai/news/grok-imagine-api
 
 Try it out and let your Imagination run wild.
 - 内容摘要：Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your 
 - 图片：![](https://nitter.net/pic/amplify_video_thumb%2F2016745571508506625%2Fimg%2FL9iVxwKvINuIDrqf.jpg)
 - 链接：https://nitter.net/xai/status/2016745652739363129#m
 
-## 30. R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.
+## 38. R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.
 
 Find out more ⬇️
 http://goo.gle/4s5yXE5
@@ -251,81 +313,15 @@ http://goo.gle/4s5yXE5
 - 图片：![](https://nitter.net/pic/card_img%2F2024516429949628417%2FM2IFL-_D%3Fformat%3Djpg%26name%3D800x419)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024570293520396796#m
 
-## 31. We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️
+## 39. We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️
 
 Watch how the model tackles complex terrain, maps out infrastructure, and simulates traffic to generate a high-quality visualization.
 - 内容摘要：We used Gemini 3.1 Pro to build a realistic city planner app. 🏙️ Watch how the model tackles complex terrain, maps out infrastructure, and simulates traffic to generate a high-quality visualization. Video
 - 图片：![](https://nitter.net/pic/media%2FHBi4N3_XAAAg_KI.jpg)
 - 链接：https://nitter.net/GoogleDeepMind/status/2024570291767181557#m
 
-## 32. RT by @nvidia: ✨The AI supercomputer that sparked the AI revolution. 
+## 40. RT by @nvidia: ✨The AI supercomputer that sparked the AI revolution. 
 #TBT #NVIDIADGX #DecadeOfDGX
 - 内容摘要：✨The AI supercomputer that sparked the AI revolution. #TBT #NVIDIADGX #DecadeOfDGX NVIDIA Data Center (@NVIDIADC) Check out NVIDIA's DGX-1 on display, the first AI supercomputer in a box @at_scale_events #atscale2016 — h
 - 图片：![](https://nitter.net/pic/media%2FCrN9VsHUsAAVmmg.jpg)
 - 链接：https://nitter.net/NVIDIADC/status/2024536159632888104#m
-
-## 33. R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp, and exclusively to Google AI Pro and Ultra users in @NotebookLM.
-
-Developers can access it in preview via the API in @GoogleAIStudio. Find out more → https://goo.gle/4s5yXE5
-- 内容摘要：Gemini 3.1 Pro is rolling out now in the @GeminiApp , and exclusively to Google AI Pro and Ultra users in @NotebookLM . Developers can access it in preview via the API in @GoogleAIStudio . Find out more → goo.gle/4s5yXE5
-- 图片：无
-- 链接：https://nitter.net/GoogleDeepMind/status/2024516471720743295#m
-
-## 34. R to @GoogleDeepMind: The model is a step forward in reasoning, designed for workflows where a simple answer isn’t enough.
-
-On ARC-AGI-2 – which tests for novel logic patterns – it more than doubles 3 Pro’s score.
-
-This means it can help you visualize complex topics, organize scattered data, and bring creative projects to life.
-- 内容摘要：The model is a step forward in reasoning, designed for workflows where a simple answer isn’t enough. On ARC-AGI-2 – which tests for novel logic patterns – it more than doubles 3 Pro’s score. This means it can help you vi
-- 图片：![](https://nitter.net/pic/media%2FHBiEguGWwAAygSR.png)
-- 链接：https://nitter.net/GoogleDeepMind/status/2024516467618656357#m
-
-## 35. Pinned: Gemini 3.1 Pro is here.
-
-We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵
-- 内容摘要：Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵
-- 图片：无
-- 链接：https://nitter.net/GoogleDeepMind/status/2024516464892334129#m
-
-## 36. R to @basetenco: This is why leading AI inference providers are optimizing their inference platforms on Blackwell. 
-
-Check out the latest blog 👇https://nvda.ws/4awCFzk
-- 内容摘要：This is why leading AI inference providers are optimizing their inference platforms on Blackwell. Check out the latest blog 👇 nvda.ws/4awCFzk
-- 图片：![](https://nitter.net/pic/media%2FHA-zpzWXcAA8SPA.jpg)
-- 链接：https://nitter.net/nvidia/status/2022032295364788394#m
-
-## 37. R to @basetenco: Infrastructure efficiency fuels better tokenomics. 
-
-Like a printing press that produces more pages when you invest in a better machine, ink and energy, better AI infrastructure means more tokens leading to lower cost per token.
-- 内容摘要：Infrastructure efficiency fuels better tokenomics. Like a printing press that produces more pages when you invest in a better machine, ink and energy, better AI infrastructure means more tokens leading to lower cost per 
-- 图片：![](https://nitter.net/pic/media%2FHA-zpUYW8AAkkqn.jpg)
-- 链接：https://nitter.net/nvidia/status/2022032284266766444#m
-
-## 38. 🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell
-
-Across industries, tokens power every AI interaction:
-💉 Medical insights
-🎮 Game character dialogue
-🧙‍♂️ Autonomous customer support
-🤖 Agentic chat
-- 内容摘要：🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insight
-- 图片：![](https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg)
-- 链接：https://nitter.net/nvidia/status/2022032253652541562#m
-
-## 39. RT by @nvidia: ✨ Thank you to our incredible community of developers and researchers driving AI innovation — one model, one commit, and one breakthrough at a time.
-
-🤗 We’re thrilled to celebrate 50,000+ followers on @HuggingFace. 
-
-Keep building with us: https://huggingface.co/nvidia
-- 内容摘要：✨ Thank you to our incredible community of developers and researchers driving AI innovation — one model, one commit, and one breakthrough at a time. 🤗 We’re thrilled to celebrate 50,000+ followers on @HuggingFace . Keep 
-- 图片：![](https://nitter.net/pic/media%2FHA-bk2IWEAATT0K.jpg)
-- 链接：https://nitter.net/NVIDIAAIDev/status/2022023402047799389#m
-
-## 40. GPT-5.3-Codex-Spark is launching today as a research preview for Pro.
-
-More than 1000 tokens per second!
-
-There are limitations at launch; we will rapidly improve.
-- 内容摘要：GPT-5.3-Codex-Spark is launching today as a research preview for Pro. More than 1000 tokens per second! There are limitations at launch; we will rapidly improve. Sam Altman (@sama) We have a special thing launching to Co
-- 图片：无
-- 链接：https://nitter.net/sama/status/2022011797524582726#m

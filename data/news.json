@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T15:02:59.715352+08:00",
-  "count": 151,
+  "updated_at": "2026-02-23T16:03:15.956371+08:00",
+  "count": 192,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -22,6 +22,30 @@
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024236532358381568%2Fimg%2Fr5pPkJl8X4TcdS40.jpg",
       "published": "Wed, 18 Feb 2026 21:36:47 GMT",
       "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @AnthropicAI: A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone.\n\nFor full details, and our recommendations to developers and policymakers, see the blog: https://www.anthropic.com/research/measuring-agent-autonomy",
+      "url": "https://nitter.net/AnthropicAI/status/2024210056871629072#m",
+      "summary": "A central lesson of this work is that autonomy is co-constructed by the model, user, and product. It can't be fully characterized by pre-deployment evaluations alone. For full details, and our recommendations to developers and policymakers, see the blog: anthropic.com/research/measu…",
+      "image": "https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Wed, 18 Feb 2026 19:51:00 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. \n\nAs the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210053369385192#m",
+      "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
+      "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
+      "published": "Wed, 18 Feb 2026 19:50:59 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "New Anthropic research: Measuring AI agent autonomy in practice.\n\nWe analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.\n\nRead more: https://www.anthropic.com/research/measuring-agent-autonomy",
+      "url": "https://nitter.net/AnthropicAI/status/2024210035480678724#m",
+      "summary": "New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose. Read more: anthropic.com/research/measu…",
+      "image": "https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
+      "source": "X/@AnthropicAI"
     },
     {
       "title": "RT by @GoogleDeepMind: Not all the action happens on the mountain. There’s a lot that happens after every run. \n\nSee how it all comes together with Google Cloud to help elite athletes find their edge. → https://goo.gle/4r4A86z",
@@ -112,6 +136,14 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "We're committing to cover electricity price increases from our data centers.\n\nTo ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.\n\nRead more: https://www.anthropic.com/news/covering-electricity-price-increases",
+      "url": "https://nitter.net/AnthropicAI/status/2021694494215901314#m",
+      "summary": "We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain. Read more: anthropic.com/news/covering-…",
+      "image": "https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Wed, 11 Feb 2026 21:15:03 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting!",
       "url": "https://nitter.net/xai/status/2021667200885829667#m",
       "summary": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video",
@@ -142,6 +174,22 @@
       "image": null,
       "published": "Wed, 11 Feb 2026 05:15:05 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
+      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
+      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
+      "url": "https://nitter.net/AnthropicAI/status/2021397953848672557#m",
+      "summary": "Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail. Read the sabotage risk report here: anthropic.com/claude-opus-4-…",
+      "image": null,
+      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
+      "source": "X/@AnthropicAI"
     },
     {
       "title": "RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.\n\nThis expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.\n\nLearn more: https://nvda.ws/4rmj3Fm",
@@ -184,18 +232,34 @@
       "source": "X/@sama"
     },
     {
-      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
-      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
-      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
-      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
-      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
-      "source": "X/@OpenAI"
+      "title": "RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.\n\nIt’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.\n\nIt also features a 1M token context window in beta.",
+      "url": "https://nitter.net/claudeai/status/2023817132581208353#m",
+      "summary": "This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context window in beta. Video",
+      "image": "https://nitter.net/pic/media%2FHBYMPQSaEAAbP8J.jpg",
+      "published": "Tue, 17 Feb 2026 17:49:39 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors.\n\nRead more: https://anthropic.com/news/anthropic-rwanda-mou",
+      "url": "https://nitter.net/AnthropicAI/status/2023789983711326380#m",
+      "summary": "We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Tue, 17 Feb 2026 16:01:46 GMT",
+      "source": "X/@AnthropicAI"
     },
     {
       "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
       "url": "https://nitter.net/OpenAI/status/2021299936948781095#m",
       "summary": "Now in deep research you can: - Connect to apps in ChatGPT and search specific sites - Track real-time progress and interrupt with follow-ups or new sources - View fullscreen reports",
       "image": "https://nitter.net/pic/media%2FHA0ZRpZaAAI7_66.jpg",
+      "published": "Tue, 10 Feb 2026 19:07:13 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nRolling out starting today with more improvements.",
+      "url": "https://nitter.net/OpenAI/status/2021299935678026168#m",
+      "summary": "Deep research in ChatGPT is now powered by GPT-5.2. Rolling out starting today with more improvements. Video",
+      "image": "https://nitter.net/pic/media%2FHA0ZqlJagAA28JX.png",
       "published": "Tue, 10 Feb 2026 19:07:13 GMT",
       "source": "X/@OpenAI"
     },
@@ -312,11 +376,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -328,6 +408,22 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
+      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "image": null,
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
+      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "GPT-5.3-Codex-Spark is launching today as a research preview for Pro.\n\nMore than 1000 tokens per second!\n\nThere are limitations at launch; we will rapidly improve.",
       "url": "https://nitter.net/sama/status/2022011797524582726#m",
       "summary": "GPT-5.3-Codex-Spark is launching today as a research preview for Pro. More than 1000 tokens per second! There are limitations at launch; we will rapidly improve. Sam Altman (@sama) We have a special thing launching to Codex users on the Pro plan later today. It sparks joy for me. I think you are going to love it... — https://nitter.net/sama/status/2021984777470193767#m",
@@ -336,18 +432,18 @@
       "source": "X/@sama"
     },
     {
-      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
-      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
-      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
-      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
       "title": "R to @OpenAI: Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. \nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "url": "https://nitter.net/OpenAI/status/2022009583653576787#m",
       "summary": "Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. openai.com/index/introducing…",
       "image": "https://nitter.net/pic/card_img%2F2022639821479444480%2FNPhIhImC%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 18:07:06 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "GPT-5.3-Codex-Spark is now in research preview.\n\nYou can just build things—faster.",
+      "url": "https://nitter.net/OpenAI/status/2022009582210715925#m",
+      "summary": "GPT-5.3-Codex-Spark is now in research preview. You can just build things—faster. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2022006158765305856%2Fimg%2FboAkEOij5foYQRQx.jpg",
       "published": "Thu, 12 Feb 2026 18:07:06 GMT",
       "source": "X/@OpenAI"
     },
@@ -398,6 +494,14 @@
       "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "AI is being adopted faster than any technology in history. The window to get policy right is closing.\n\nToday we’re contributing $20m to Public First Action, a new bipartisan org that will mobilize people and politicians who understand what’s at stake.\n\nhttps://www.anthropic.com/news/donate-public-first-action",
+      "url": "https://nitter.net/AnthropicAI/status/2021921419026657362#m",
+      "summary": "AI is being adopted faster than any technology in history. The window to get policy right is closing. Today we’re contributing $20m to Public First Action, a new bipartisan org that will mobilize people and politicians who understand what’s at stake. anthropic.com/news/donate-pu…",
+      "image": "https://nitter.net/pic/card_img%2F2024566799975731200%2F_328E_hM%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 12:16:46 GMT",
+      "source": "X/@AnthropicAI"
     },
     {
       "title": "RT by @sama: The Codex team is just so FAST ✨",
@@ -523,7 +627,7 @@
       "title": "China’s brain-computer interface industry is racing ahead https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025602558732152922#m",
       "summary": "China’s brain-computer interface industry is racing ahead techcrunch.com/2026/02/22/ch…",
-      "image": "https://nitter.net/pic/card_img%2F2025727817582100480%2FZnkGNFX4%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025602377676468224%2FYbqzvNN-%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 16:04:18 GMT",
       "source": "X/@TechCrunch"
     },
@@ -590,6 +694,14 @@
       "image": "https://nitter.net/pic/card_img%2F2023416599290507266%2F5zUS34E5%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 11:34:50 GMT",
       "source": "X/@WIRED"
+    },
+    {
+      "title": "Study shows how rocket launches pollute the atmosphere https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025532818336760314#m",
+      "summary": "Study shows how rocket launches pollute the atmosphere arstechnica.com/space/2026/0…",
+      "image": "https://nitter.net/pic/card_img%2F2025541177731166208%2FbXvIFH2_%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sun, 22 Feb 2026 11:27:11 GMT",
+      "source": "X/@arstechnica"
     },
     {
       "title": "You can avoid Google's AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether. https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -670,6 +782,14 @@
       "image": "https://nitter.net/pic/card_img%2F2024052517961609216%2F9QhvfKdK%3Fformat%3Dpng%26name%3D800x419",
       "published": "Sun, 08 Feb 2026 01:48:23 GMT",
       "source": "X/@xai"
+    },
+    {
+      "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025359485620158673#m",
+      "summary": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs arstechnica.com/space/2026/0…",
+      "image": "https://nitter.net/pic/card_img%2F2025359705665658880%2FE8LNrIQJ%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 23:58:25 GMT",
+      "source": "X/@arstechnica"
     },
     {
       "title": "Gay men have long been rumored to run Silicon Valley. WIRED investigates. https://www.wired.com/story/inside-the-gay-tech-mafia/",
@@ -848,12 +968,36 @@
       "source": "X/@WIRED"
     },
     {
+      "title": "Dinosaur eggshells can reveal the age of other fossils https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025195781473665314#m",
+      "summary": "Dinosaur eggshells can reveal the age of other fossils arstechnica.com/science/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2025222691309961216%2FxLL5u2N1%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 13:07:55 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
       "title": "Stellantis is in a crisis of its own making https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations",
       "url": "https://nitter.net/verge/status/2025194523786445105#m",
       "summary": "Stellantis is in a crisis of its own making theverge.com/transportation/…",
       "image": "https://nitter.net/pic/card_img%2F2025194524319023104%2F6uoYzNBk%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 13:02:55 GMT",
       "source": "X/@verge"
+    },
+    {
+      "title": "Have we leapt into commercial genetic testing without understanding it? https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025180671464116310#m",
+      "summary": "Have we leapt into commercial genetic testing without understanding it? arstechnica.com/science/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2025185815836364800%2FkvqcV5K-%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 12:07:52 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Major government research lab appears to be squeezing out foreign scientists https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025173116146839879#m",
+      "summary": "Major government research lab appears to be squeezing out foreign scientists arstechnica.com/science/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2025190573074739201%2FxR31n1pV%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sat, 21 Feb 2026 11:37:51 GMT",
+      "source": "X/@arstechnica"
     },
     {
       "title": "Anker’s powerful home theater on wheels is pure chaos https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
@@ -952,6 +1096,14 @@
       "source": "X/@sama"
     },
     {
+      "title": "Best OpenAI sweatshirt ever",
+      "url": "https://nitter.net/sama/status/2023453083595141411#m",
+      "summary": "Best OpenAI sweatshirt ever",
+      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
+      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
+      "source": "X/@sama"
+    },
+    {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
       "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
       "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -982,6 +1134,14 @@
       "image": "https://nitter.net/pic/media%2FHBS2m_mXQAAU_LW.jpg",
       "published": "Mon, 16 Feb 2026 17:02:39 GMT",
       "source": "X/@NVIDIA"
+    },
+    {
+      "title": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific.\n\nIndia is our second-largest market for http://Claude.ai. We’re launching new partnerships to deepen our long-term commitment: https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+      "url": "https://nitter.net/AnthropicAI/status/2023322514206957688#m",
+      "summary": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific. India is our second-largest market for Claude.ai . We’re launching new partnerships to deepen our long-term commitment: anthropic.com/news/bengaluru…",
+      "image": "https://nitter.net/pic/card_img%2F2023322616535162880%2FX-iWNs1s%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 16 Feb 2026 09:04:13 GMT",
+      "source": "X/@AnthropicAI"
     },
     {
       "title": "Codex weekly users have more than tripled since the beginning of the year!",
@@ -1072,6 +1232,54 @@
       "source": "X/@xai"
     },
     {
+      "title": "NASA reports no significant leaks in Artemis II fueling test, eyes March 6 launch https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024997089282023641#m",
+      "summary": "NASA reports no significant leaks in Artemis II fueling test, eyes March 6 launch arstechnica.com/space/2026/0…",
+      "image": "https://nitter.net/pic/card_img%2F2024997092519985152%2FqpOao3ae%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 23:58:23 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024990225437696123#m",
+      "summary": "Microsoft gaming chief Phil Spencer steps down after 38 years with company arstechnica.com/gaming/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024991147840434176%2Fc-yb32fE%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 23:31:06 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024987707823550671#m",
+      "summary": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide arstechnica.com/health/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024988501385568256%2FP7Yafnfz%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 23:21:06 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Discord and Persona end partnership after shady UK age test sparks outcry https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024979833122607371#m",
+      "summary": "Discord and Persona end partnership after shady UK age test sparks outcry arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2024978173939576833%2FE00ZxNxg%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 22:49:49 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024968689238638852#m",
+      "summary": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2024976289065472000%2FNXU33nsC%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 22:05:32 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Meta's flagship metaverse service leaves VR behind https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024964911970091396#m",
+      "summary": "Meta's flagship metaverse service leaves VR behind arstechnica.com/gadgets/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2024965470042869760%2FfRmNKzKH%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 21:50:31 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
       "title": "Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs",
       "url": "https://nitter.net/verge/status/2024952571669217728#m",
       "summary": "Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs theverge.com/games/882377/mi…",
@@ -1128,12 +1336,92 @@
       "source": "X/@verge"
     },
     {
+      "title": "With NIH in chaos, its controversial director is taking over CDC, too https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024933683824918982#m",
+      "summary": "With NIH in chaos, its controversial director is taking over CDC, too arstechnica.com/health/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024968677985067009%2F3WuhibEd%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 19:46:26 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Wikipedia bans http://Archive.today after site executed DDoS and altered web captures https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024917062444089841#m",
+      "summary": "Wikipedia bans Archive.today after site executed DDoS and altered web captures arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2024941952097996800%2FQsKoDvOc%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 18:40:23 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "RT by @AnthropicAI: Introducing Claude Code Security, now in limited research preview.\n\nIt scans codebases for vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix issues that traditional tools often miss.\n\nLearn more: https://www.anthropic.com/news/claude-code-security",
+      "url": "https://nitter.net/claudeai/status/2024907535145468326#m",
+      "summary": "Introducing Claude Code Security, now in limited research preview. It scans codebases for vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix issues that traditional tools often miss. Learn more: anthropic.com/news/claude-co… Video",
+      "image": "https://nitter.net/pic/media%2FHBntcaZaoAA7SFR.jpg",
+      "published": "Fri, 20 Feb 2026 18:02:31 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "Why Final Fantasy is now targeting PC as its \"lead platform\" https://arstechnica.com/gaming/2026/02/why-final-fantasy-is-now-targeting-pc-as-its-lead-platform/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024899687434924388#m",
+      "summary": "Why Final Fantasy is now targeting PC as its \"lead platform\" arstechnica.com/gaming/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024901858372771840%2F5Gp-q2Pa%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 17:31:20 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "New dates on Chinese fossils raise question of how many times we left Africa https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024893392342381049#m",
+      "summary": "New dates on Chinese fossils raise question of how many times we left Africa arstechnica.com/science/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2024902648680370176%2FTkXWSYwM%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 17:06:20 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
       "title": "The latest SemiAnalysis InferenceX data proves that the best performance drives the lowest inference cost - and that’s NVIDIA GB300 NVL72.",
       "url": "https://nitter.net/nvidia/status/2024891801195180224#m",
       "summary": "The latest SemiAnalysis InferenceX data proves that the best performance drives the lowest inference cost - and that’s NVIDIA GB300 NVL72.",
       "image": "https://nitter.net/pic/media%2FHBkGX3ZWwAAXwbD.jpg",
       "published": "Fri, 20 Feb 2026 17:00:00 GMT",
       "source": "X/@NVIDIA"
+    },
+    {
+      "title": "It's outright war for the Iron Throne in House of the Dragon S3 teaser https://arstechnica.com/culture/2026/02/its-outright-war-for-the-iron-throne-in-house-of-the-dragon-s3-teaser/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024888354006024334#m",
+      "summary": "It's outright war for the Iron Throne in House of the Dragon S3 teaser arstechnica.com/culture/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2024931036212117504%2Fjt5AcPHL%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 16:46:18 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Pokémon Red and Green's GBA remakes are getting re-released on Switch for $20 a pop https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024885584024797522#m",
+      "summary": "Pokémon Red and Green's GBA remakes are getting re-released on Switch for $20 a pop arstechnica.com/gaming/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2024885587719933952%2Fkliz5QJX%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 16:35:18 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Supreme Court blocks Trump's emergency tariffs, billions in refunds may be owed https://arstechnica.com/tech-policy/2026/02/supreme-court-blocks-trumps-emergency-tariffs-billions-in-refunds-may-be-owed/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024871985541722249#m",
+      "summary": "Supreme Court blocks Trump's emergency tariffs, billions in refunds may be owed arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2024872223647924224%2Fl1BeDZbQ%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 15:41:16 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Tesla slashes Cybertruck prices as it tries to move (unpainted) metal https://arstechnica.com/cars/2026/02/tesla-slashes-cybertruck-prices-as-it-tries-to-move-unpainted-metal/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024855364249022688#m",
+      "summary": "Tesla slashes Cybertruck prices as it tries to move (unpainted) metal arstechnica.com/cars/2026/02…",
+      "image": "https://nitter.net/pic/card_img%2F2024855433811283968%2FhxnuklHX%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 14:35:13 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "An AI coding bot took down Amazon Web Services https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2024850580041339057#m",
+      "summary": "An AI coding bot took down Amazon Web Services arstechnica.com/ai/2026/02/a…",
+      "image": "https://nitter.net/pic/card_img%2F2024850583447076864%2FGxjHDP1y%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 20 Feb 2026 14:16:12 GMT",
+      "source": "X/@arstechnica"
     },
     {
       "title": "Great meeting with PM @narendramodi today to talk about the incredible energy around AI in India.\n\nIndia is our fastest growing market for codex globally, up 4x  in weekly users in the past 2 weeks alone.\n\n🇮🇳!",
@@ -1152,6 +1440,14 @@
       "source": "X/@NVIDIA"
     },
     {
+      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
+      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
+      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
+      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2F2wMu7zWt%3Fformat%3Djpg%26name%3D420x420_2",
+      "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
       "title": "R to @OpenAI: In modern amplitude theory, simple formulas often signal deeper structure. \n\nShowing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. \n\nSome of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
       "url": "https://nitter.net/OpenAI/status/2022390103017161216#m",
       "summary": "In modern amplitude theory, simple formulas often signal deeper structure. Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and related amplitude relations. Some of these generalizations are also amenable to solution via this new AI methodology and will be reported on elsewhere.",
@@ -1160,11 +1456,27 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
-      "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
-      "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2F2wMu7zWt%3Fformat%3Djpg%26name%3D420x420_2",
+      "title": "R to @OpenAI: The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. \n\nGPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. \n\nNext, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. \n\nThe final result was then verified by the authors.",
+      "url": "https://nitter.net/OpenAI/status/2022390101670854878#m",
+      "summary": "The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. GPT-5.2 simplified these expressions and then conjectured a simple formula for the general case. Next, a separate scaffolded internal OpenAI model spent roughly 12 hours reasoning through the problem, independently deriving the same formula and producing a formal proof. The final result was then verified by the authors.",
+      "image": null,
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. \n\nWhen an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
+      "url": "https://nitter.net/OpenAI/status/2022390100055986540#m",
+      "summary": "For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a carefully defined situation — where the particles’ motions satisfy a specific alignment condition — the amplitude is not zero.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @OpenAI: Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. \n\nWithout the strong force, atomic nuclei would not exist. \n\nIt is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
+      "url": "https://nitter.net/OpenAI/status/2022390098495721597#m",
+      "summary": "Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. Without the strong force, atomic nuclei would not exist. It is one of the four fundamental forces of nature and a core part of the Standard Model of particle physics.",
+      "image": null,
+      "published": "Fri, 13 Feb 2026 19:19:08 GMT",
       "source": "X/@OpenAI"
     },
     {
@@ -1192,6 +1504,22 @@
       "source": "X/@GoogleDeepMind"
     },
     {
+      "title": "Chris Liddell has been appointed to Anthropic's Board of Directors.\n\nChris brings over 30 years of leadership experience, including as CFO of Microsoft and General Motors, and as Deputy Chief of Staff during the first Trump administration.\n\nRead more: https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+      "url": "https://nitter.net/AnthropicAI/status/2022326252930318498#m",
+      "summary": "Chris Liddell has been appointed to Anthropic's Board of Directors. Chris brings over 30 years of leadership experience, including as CFO of Microsoft and General Motors, and as Deputy Chief of Staff during the first Trump administration. Read more: anthropic.com/news/chris-lid…",
+      "image": "https://nitter.net/pic/card_img%2F2025013038420819970%2FyR691uzy%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 13 Feb 2026 15:05:26 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "Anthropic is partnering with @CodePath, the US's largest collegiate computer science program, to bring Claude and Claude Code to 20,000+ students at community colleges, state schools, and HBCUs.\n\nRead more: https://www.anthropic.com/news/anthropic-codepath-partnership",
+      "url": "https://nitter.net/AnthropicAI/status/2022299804894712174#m",
+      "summary": "Anthropic is partnering with @CodePath , the US's largest collegiate computer science program, to bring Claude and Claude Code to 20,000+ students at community colleges, state schools, and HBCUs. Read more: anthropic.com/news/anthropic…",
+      "image": "https://nitter.net/pic/card_img%2F2022298704552603648%2F11Wd4B48%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Fri, 13 Feb 2026 13:20:20 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "Supercharge your X apps with Grok by unlocking free xAI API credits!\n\nFor every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend.\n\nDetails: https://docs.x.com/overview#pricing",
       "url": "https://nitter.net/xai/status/2019914112743219453#m",
       "summary": "Supercharge your X apps with Grok by unlocking free xAI API credits! For every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend. Details: docs.x.com/overview#pricing Developers (@XDevelopers) Officially launching X API Pay-Per-Use The core of X developers are indie builders, early stage products, startups, and hobbyists It’s time to open up our X API ecosystem and instill a new wave of next generation X apps We’re so back. developer.x.com — https://nitter.net/XDevelopers/status/2019881223666233717#m",
@@ -1201,17 +1529,17 @@
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
+      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
     {
       "title": "R to @OpenAI:",
-      "url": "https://nitter.net/OpenAI/status/2019822535119106245#m",
+      "url": "https://nitter.net/OpenAI/status/2019822534003437619#m",
       "summary": "Video",
-      "image": "https://nitter.net/pic/media%2FHAfaRjSaoAApSEh.jpg",
+      "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
       "source": "X/@OpenAI"
     },
