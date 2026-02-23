@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T16:03:15.956371+08:00",
-  "count": 192,
+  "updated_at": "2026-02-23T17:03:49.163160+08:00",
+  "count": 195,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -37,6 +37,54 @@
       "summary": "Software engineering makes up ~50% of agentic tool calls on our API, but we see emerging use in other industries. As the frontier of risk and autonomy expands, post-deployment monitoring becomes essential. We encourage other model developers to extend this research.",
       "image": "https://nitter.net/pic/media%2FHBdvcsMbYAAXwGM.png",
       "published": "Wed, 18 Feb 2026 19:50:59 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
+      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
+      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
+      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
+      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
+      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
+      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
+      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
+      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
+      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "image": null,
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -174,14 +222,6 @@
       "image": null,
       "published": "Wed, 11 Feb 2026 05:15:05 GMT",
       "source": "X/@sama"
-    },
-    {
-      "title": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models.\n\nToday we’re delivering on that commitment for Claude Opus 4.6.",
-      "url": "https://nitter.net/AnthropicAI/status/2021397952791707696#m",
-      "summary": "When we released Claude Opus 4.5, we knew future models would be close to our AI Safety Level 4 threshold for autonomous AI R&D. We therefore committed to writing sabotage risk reports for future frontier models. Today we’re delivering on that commitment for Claude Opus 4.6.",
-      "image": null,
-      "published": "Wed, 11 Feb 2026 01:36:42 GMT",
-      "source": "X/@AnthropicAI"
     },
     {
       "title": "R to @AnthropicAI: Rather than making difficult calls about blurry thresholds, we decided to preemptively meet the higher ASL-4 safety bar by developing the report, which assesses Opus 4.6’s AI R&D risks in greater detail.\n\nRead the sabotage risk report here: https://anthropic.com/claude-opus-4-6-risk-report",
@@ -376,27 +416,11 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
-      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
-      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
-      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
-      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
-      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
+      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
+      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
+      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
+      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -408,18 +432,18 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
-      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "image": null,
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
       "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
       "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
       "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
+      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
+      "image": null,
       "published": "Thu, 12 Feb 2026 19:01:02 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -803,7 +827,7 @@
       "title": "Sam Altman would like remind you that humans use a lot of energy, too https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025324714353459688#m",
       "summary": "Sam Altman would like remind you that humans use a lot of energy, too techcrunch.com/2026/02/21/sa…",
-      "image": "https://nitter.net/pic/card_img%2F2023136211250884608%2FASV9a46y%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025843751059361792%2FxFxP-MOz%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 21:40:15 GMT",
       "source": "X/@TechCrunch"
     },
@@ -1008,14 +1032,6 @@
       "source": "X/@verge"
     },
     {
-      "title": "Raising a round may not be a signal to spend aggressively, and many of the best founders stay disciplined. \n\n@yuris from @generalcatalyst advises to wait until the pain is real, then hire with intention. Taking your time can prevent painful layoffs, protect culture, and give your startup a longer runway to win.\n\nListen to the full episode of Build Mode: http://spr.ly/6019hiErd",
-      "url": "https://nitter.net/TechCrunch/status/2025015189951697233#m",
-      "summary": "Raising a round may not be a signal to spend aggressively, and many of the best founders stay disciplined. @yuris from @generalcatalyst advises to wait until the pain is real, then hire with intention. Taking your time can prevent painful layoffs, protect culture, and give your startup a longer runway to win. Listen to the full episode of Build Mode: spr.ly/6019hiErd Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2025015114156347393%2Fimg%2FjFfLTTCgaTzvrE7p.jpg",
-      "published": "Sat, 21 Feb 2026 01:10:18 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "R to @sama: These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
       "url": "https://nitter.net/sama/status/2022729429710237977#m",
       "summary": "These are obviously not earth-shattering results, but the ability to produce genuinely new knowledge, however small, is a significant milestone and I hope we all take it seriously, with excitement and caution.",
@@ -1054,6 +1070,14 @@
       "image": null,
       "published": "Sat, 14 Feb 2026 03:43:44 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "Wispr Flow launches an Android app for AI-powered dictation https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025843917195973027#m",
+      "summary": "Wispr Flow launches an Android app for AI-powered dictation techcrunch.com/2026/02/23/wi…",
+      "image": "https://nitter.net/pic/card_img%2F2025843920610246656%2FaIrMq9gA%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 08:03:22 GMT",
+      "source": "X/@TechCrunch"
     },
     {
       "title": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April. https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -1443,7 +1467,7 @@
       "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
       "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
       "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2F2wMu7zWt%3Fformat%3Djpg%26name%3D420x420_2",
+      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2FB9C0_h8D%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
       "source": "X/@OpenAI"
     },
