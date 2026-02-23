@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T20:05:58.083689+08:00",
-  "count": 189,
+  "updated_at": "2026-02-23T21:06:17.631242+08:00",
+  "count": 191,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -376,11 +376,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -523,7 +539,7 @@
       "title": "Samsung is adding Perplexity to Galaxy AI https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
       "url": "https://nitter.net/verge/status/2025696381391061063#m",
       "summary": "Samsung is adding Perplexity to Galaxy AI theverge.com/tech/882921/sam…",
-      "image": "https://nitter.net/pic/card_img%2F2025696381936316416%2F2aJvClb6%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sun, 22 Feb 2026 22:17:07 GMT",
       "source": "X/@verge"
     },
@@ -531,7 +547,7 @@
       "title": "You need to listen to Laurie Spiegel’s masterpiece of early ambient music https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music",
       "url": "https://nitter.net/verge/status/2025685048922648899#m",
       "summary": "You need to listen to Laurie Spiegel’s masterpiece of early ambient music theverge.com/entertainment/8…",
-      "image": "https://nitter.net/pic/card_img%2F2025686631492067329%2FPBajhF3I%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sun, 22 Feb 2026 21:32:05 GMT",
       "source": "X/@verge"
     },
@@ -619,7 +635,7 @@
       "title": "Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice",
       "url": "https://nitter.net/verge/status/2025597035165122606#m",
       "summary": "Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice theverge.com/policy/882881/t…",
-      "image": "https://nitter.net/pic/card_img%2F2025597035974688768%2FKzsn3QAq%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sun, 22 Feb 2026 15:42:21 GMT",
       "source": "X/@verge"
     },
@@ -635,7 +651,7 @@
       "title": "This magazine plays Tetris — here’s how https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display",
       "url": "https://nitter.net/verge/status/2025573110414713103#m",
       "summary": "This magazine plays Tetris — here’s how theverge.com/tech/881175/red…",
-      "image": "https://nitter.net/pic/card_img%2F2025573110951645184%2FnWy1rkUc%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sun, 22 Feb 2026 14:07:17 GMT",
       "source": "X/@verge"
     },
@@ -659,7 +675,7 @@
       "title": "Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2 https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review",
       "url": "https://nitter.net/verge/status/2025556740973170971#m",
       "summary": "Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2 theverge.com/gadgets/882641/…",
-      "image": "https://nitter.net/pic/card_img%2F2025556741715603456%2FKdRSrpO0%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sun, 22 Feb 2026 13:02:14 GMT",
       "source": "X/@verge"
     },
@@ -803,7 +819,7 @@
       "title": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version https://www.theverge.com/tech/882852/arturia-fx-collection-6",
       "url": "https://nitter.net/verge/status/2025317928217043298#m",
       "summary": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version theverge.com/tech/882852/art…",
-      "image": "https://nitter.net/pic/card_img%2F2025317928976220162%2Fx_5UMW5e%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 21:13:17 GMT",
       "source": "X/@verge"
     },
@@ -875,7 +891,7 @@
       "title": "Georgia says Elon Musk’s America PAC violated election law https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
       "url": "https://nitter.net/verge/status/2025253705881452560#m",
       "summary": "Georgia says Elon Musk’s America PAC violated election law theverge.com/tech/882838/geo…",
-      "image": "https://nitter.net/pic/card_img%2F2025255268896944128%2FAymnIzC4%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 16:58:05 GMT",
       "source": "X/@verge"
     },
@@ -891,7 +907,7 @@
       "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
       "url": "https://nitter.net/verge/status/2025231039422210059#m",
       "summary": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT theverge.com/ai-artificial-i…",
-      "image": "https://nitter.net/pic/card_img%2F2025261882211291136%2F5I1ACco7%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 15:28:01 GMT",
       "source": "X/@verge"
     },
@@ -912,14 +928,6 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "After Swedish curler Oskar Eriksson accused Canadian vice-skip Marc Kennedy of cheating last week, everyone has become an expert in curling rules. They’re missing the point. https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/",
-      "url": "https://nitter.net/WIRED/status/2025227788823699714#m",
-      "summary": "After Swedish curler Oskar Eriksson accused Canadian vice-skip Marc Kennedy of cheating last week, everyone has become an expert in curling rules. They’re missing the point. wired.com/story/2026-winter-…",
-      "image": "https://nitter.net/pic/card_img%2F2023838998792228864%2FTyqXICCh%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 15:15:06 GMT",
-      "source": "X/@WIRED"
-    },
-    {
       "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026 https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025225077374288347#m",
       "summary": "7 days until ticket prices rise for TechCrunch Disrupt 2026 techcrunch.com/2026/02/21/7-…",
@@ -931,7 +939,7 @@
       "title": "The Pixel 10A and Soundcore Space One are just two of the best deals this week https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale",
       "url": "https://nitter.net/verge/status/2025220966151061952#m",
       "summary": "The Pixel 10A and Soundcore Space One are just two of the best deals this week theverge.com/gadgets/881998/…",
-      "image": "https://nitter.net/pic/card_img%2F2025220966411108361%2FntT8Gj4X%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 14:47:59 GMT",
       "source": "X/@verge"
     },
@@ -939,7 +947,7 @@
       "title": "Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox",
       "url": "https://nitter.net/verge/status/2025209633070285090#m",
       "summary": "Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish theverge.com/games/875259/dr…",
-      "image": "https://nitter.net/pic/card_img%2F2025209050141454337%2F3vyalSkd%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 14:02:57 GMT",
       "source": "X/@verge"
     },
@@ -1024,10 +1032,26 @@
       "source": "X/@sama"
     },
     {
+      "title": "We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker. https://www.wired.com/gallery/best-coffee-grinders/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025911174617858068#m",
+      "summary": "We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker. wired.com/gallery/best-coffe…",
+      "image": "https://nitter.net/pic/card_img%2F2024789730005807104%2FYPsx5qXv%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 12:30:38 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "The first cars bold enough to drive themselves https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025905767627554944#m",
+      "summary": "The first cars bold enough to drive themselves arstechnica.com/features/202…",
+      "image": "https://nitter.net/pic/card_img%2F2025905771167481856%2F-UoB-C_d%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 12:09:09 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
       "title": "Taara Beam provides 25Gbps connectivity over invisible beams of light https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light",
       "url": "https://nitter.net/verge/status/2025891979830476803#m",
       "summary": "Taara Beam provides 25Gbps connectivity over invisible beams of light theverge.com/tech/881882/taa…",
-      "image": "https://nitter.net/pic/card_img%2F2025889345991811073%2FgmnGL4ES%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Mon, 23 Feb 2026 11:14:21 GMT",
       "source": "X/@verge"
     },
@@ -1035,7 +1059,7 @@
       "title": "How many AIs does it take to read a PDF? https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
       "url": "https://nitter.net/verge/status/2025889461536719188#m",
       "summary": "How many AIs does it take to read a PDF? theverge.com/ai-artificial-i…",
-      "image": "https://nitter.net/pic/card_img%2F2025889344691605505%2Fc0l-35Wm%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Mon, 23 Feb 2026 11:04:21 GMT",
       "source": "X/@verge"
     },
@@ -1059,7 +1083,7 @@
       "title": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April. https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2025734122451190075#m",
       "summary": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April. wired.com/story/nasa-delays-…",
-      "image": "https://nitter.net/pic/card_img%2F2025733907342327809%2FutkynhnQ%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025906023911837697%2F-L-FsM8v%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 00:47:05 GMT",
       "source": "X/@WIRED"
     },
@@ -1389,14 +1413,6 @@
       "summary": "Tesla slashes Cybertruck prices as it tries to move (unpainted) metal arstechnica.com/cars/2026/02…",
       "image": "https://nitter.net/pic/card_img%2F2024855433811283968%2FhxnuklHX%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 20 Feb 2026 14:35:13 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
-      "title": "An AI coding bot took down Amazon Web Services https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024850580041339057#m",
-      "summary": "An AI coding bot took down Amazon Web Services arstechnica.com/ai/2026/02/a…",
-      "image": "https://nitter.net/pic/card_img%2F2024850583447076864%2FGxjHDP1y%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 14:16:12 GMT",
       "source": "X/@arstechnica"
     },
     {
