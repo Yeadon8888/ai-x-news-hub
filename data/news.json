@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T10:02:59.639649+08:00",
-  "count": 194,
+  "updated_at": "2026-02-23T11:03:12.735842+08:00",
+  "count": 176,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -144,6 +144,14 @@
       "source": "X/@GoogleDeepMind"
     },
     {
+      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
+      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
+      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
       "title": "We just dropped Lyria 3: our latest generative music model. 🔊 \n\nIt can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024153067654902014#m",
       "summary": "We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video",
@@ -182,14 +190,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419",
       "published": "Wed, 11 Feb 2026 21:15:03 GMT",
       "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting!",
-      "url": "https://nitter.net/xai/status/2021667200885829667#m",
-      "summary": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2021663522305060864%2Fimg%2F5M5DcW3bmQMUQk1G.jpg",
-      "published": "Wed, 11 Feb 2026 19:26:36 GMT",
-      "source": "X/@xai"
     },
     {
       "title": "RT by @GoogleDeepMind: 6 months in, after the IMO-gold achievement, I’m very excited to share another important  milestone: AI can help accelerate knowledge discovery in mathematics, physics, and computer science! We’re sharing Two new papers from @GoogleDeepMind and @GoogleResearch that explore how Gemini #DeepThink together with agentic workflows can empower mathematicians and scientists to tackle professional research problems. Some highlights:\n\nThe first paper built a research agent #Aletheia, powered by an advanced version of Gemini Deep Think, that can autonomously produce publishable math research and crack open Erdős problems.\n\nThe second paper, built on similar agentic reasoning ideas, helped resolve bottlenecks in 18 research problems, across algorithms, ML and combinatorial optimization, information theory and economics.\n\nSee the thread for details about the two papers and the joint blog post.",
@@ -312,38 +312,6 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "We are excited about partnering with @fal on the new Grok Imagine API!",
-      "url": "https://nitter.net/xai/status/2016755009304568287#m",
-      "summary": "We are excited about partnering with @fal on the new Grok Imagine API! fal (@fal) fal is proud to partner with @xai as Grok Imagine’s day-0 platform partner xAI's latest image & video gen + editing model ✨ Stunning photorealistic images/videos from text ⚡ Lightning-fast generation 🎥 Dynamic animations with precise control 🎨 Edit elements, styles & more Video — https://nitter.net/fal/status/2016746472931283366#m",
-      "image": "https://nitter.net/pic/ext_tw_video_thumb%2F2016746354005950464%2Fpu%2Fimg%2FToC9bRtF9wG__GPX.jpg",
-      "published": "Thu, 29 Jan 2026 06:07:18 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api",
-      "url": "https://nitter.net/xai/status/2016751241226027302#m",
-      "summary": "Try the all new Grok Imagine API: x.ai/news/grok-imagine-api Artificial Analysis (@ArtificialAnlys) xAI's Grok Imagine takes the #1 spot in both Text to Video and Image to Video in the Artificial Analysis Video Arena, surpassing Runway Gen-4.5, Kling 2.5 Turbo, and Veo 3.1! Grok Imagine is the latest video model from @xAI , and joins an increasing roster of models such as Google's Veo and OpenAI's Sora supporting native audio generation alongside video output. The model is available via xAI's new Grok Imagine API only. It is priced at $4.20 per minute including audio, matching Kling 2.5 Turbo (without audio) and cheaper than Veo 3.1 Preview ($12/min) and Sora 2 Pro ($30/min). Congratulations @elonmusk and the xAI team. See below for comparisons between Grok Imagine and other leading models in our Artificial Analysis Video Arena — https://nitter.net/ArtificialAnlys/status/2016749756081721561#m",
-      "image": "https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Thu, 29 Jan 2026 05:52:19 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "RT by @xai: 🚨BREAKING: @xAI’s first model in Video Arena debuts in the top 3!\n\nGrok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. \n\nIt is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models.\n\nGrok-Imagine-Video offers:\n- Text-to-video and image-to-video capabilities\n- Native audio generation\n- Up to 15-seconds video duration\n\nCongrats to @xAI on this strong launch!",
-      "url": "https://nitter.net/arena/status/2016748418635616440#m",
-      "summary": "🚨BREAKING: @xAI ’s first model in Video Arena debuts in the top 3! Grok-Imagine-Video ranks #3 on the Image-to-Video Arena and #4 on the Text-to-Video Arena. It is close to the top-ranked @GoogleDeepMind Veo 3.1 and @OpenAI Sora 2 Pro models. Grok-Imagine-Video offers: - Text-to-video and image-to-video capabilities - Native audio generation - Up to 15-seconds video duration Congrats to @xAI on this strong launch! xAI (@xai) Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your Imagination run wild. Video — https://nitter.net/xai/status/2016745652739363129#m",
-      "image": "https://nitter.net/pic/media%2FG_zsjvCbUAAP9Zv.jpg",
-      "published": "Thu, 29 Jan 2026 05:41:07 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: https://x.ai/news/grok-imagine-api\n\nTry it out and let your Imagination run wild.",
-      "url": "https://nitter.net/xai/status/2016745652739363129#m",
-      "summary": "Understanding requires imagining. Grok Imagine lets you bring what’s in your brain to life, and now it’s available via the world’s fastest, and most powerful video API: x.ai/news/grok-imagine-api Try it out and let your Imagination run wild. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2016745571508506625%2Fimg%2FL9iVxwKvINuIDrqf.jpg",
-      "published": "Thu, 29 Jan 2026 05:30:07 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "R to @GoogleDeepMind: Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers.\n\nFind out more ⬇️\nhttp://goo.gle/4s5yXE5",
       "url": "https://nitter.net/GoogleDeepMind/status/2024570293520396796#m",
       "summary": "Gemini 3.1 Pro is rolling out now in the @GeminiApp and in @GoogleAIStudio for developers. Find out more ⬇️ goo.gle/4s5yXE5",
@@ -384,7 +352,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -408,11 +376,27 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "🧵 How @BasetenCo, @DeepInfra, @FireworksAI_HQ, and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell\n\nAcross industries, tokens power every AI interaction:\n💉 Medical insights\n🎮 Game character dialogue\n🧙‍♂️ Autonomous customer support\n🤖 Agentic chat",
-      "url": "https://nitter.net/nvidia/status/2022032253652541562#m",
-      "summary": "🧵 How @BasetenCo , @DeepInfra , @FireworksAI_HQ , and @togethercompute are cutting AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell Across industries, tokens power every AI interaction: 💉 Medical insights 🎮 Game character dialogue 🧙‍♂️ Autonomous customer support 🤖 Agentic chat",
-      "image": "https://nitter.net/pic/media%2FHA-znhTXQAEQ1mn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:11 GMT",
+      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
+      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
+      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
+      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
+      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
+      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
+      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
+      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
+      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
       "source": "X/@NVIDIA"
     },
     {
@@ -496,18 +480,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
-      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
-      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
       "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
+      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
+      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -528,18 +512,10 @@
       "source": "X/@sama"
     },
     {
-      "title": "RT by @xai: BREAKING: @xAI’s Grok-Imagine-Video now #1 in Video Arena!\n\nFor the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4.\n\nHuge congrats to @xAI team and @elonmusk  on this incredible milestone!",
-      "url": "https://nitter.net/arena/status/2019204821551837665#m",
-      "summary": "BREAKING: @xAI ’s Grok-Imagine-Video now #1 in Video Arena! For the first time, Grok-Imagine-Video-720p takes the top spot on the Image-to-Video leaderboard, overtaking Google’s Veo 3.1 while being 5x cheaper. Its 480p version released a few days ago ranks #4. Huge congrats to @xAI team and @elonmusk on this incredible milestone! xAI (@xai) Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video — https://nitter.net/xai/status/2018164753810764061#m",
-      "image": "https://nitter.net/pic/media%2FHAWnU70b0AAyHuM.jpg",
-      "published": "Thu, 05 Feb 2026 00:21:59 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "Apple might take a new approach to announcing its next products https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025710091568353346#m",
       "summary": "Apple might take a new approach to announcing its next products techcrunch.com/2026/02/22/ap…",
-      "image": "https://nitter.net/pic/card_img%2F2025268805488742400%2FjMHoF58f%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025762541054607361%2FWD_q1zqC%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 23:11:36 GMT",
       "source": "X/@TechCrunch"
     },
@@ -715,7 +691,7 @@
       "title": "Study shows how rocket launches pollute the atmosphere https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2025532818336760314#m",
       "summary": "Study shows how rocket launches pollute the atmosphere arstechnica.com/space/2026/0…",
-      "image": "https://nitter.net/pic/card_img%2F2025541177731166208%2FbXvIFH2_%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sun, 22 Feb 2026 11:27:11 GMT",
       "source": "X/@arstechnica"
     },
@@ -752,38 +728,6 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
-      "url": "https://nitter.net/xai/status/2012964979041771522#m",
-      "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
-      "image": "https://nitter.net/pic/card_img%2F2024548595785994240%2Fn3qVr3Gj%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
-      "url": "https://nitter.net/xai/status/2012964976953049486#m",
-      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: 2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee",
-      "url": "https://nitter.net/xai/status/2012964975057199372#m",
-      "summary": "2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963805509083138%2Fimg%2FPz-24SjUAQfpEBAF.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: 3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai",
-      "url": "https://nitter.net/xai/status/2012964973211763177#m",
-      "summary": "3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963585148755969%2Fimg%2FFlGpJnLpG79IQ9x_.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings.\n\nOpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
       "url": "https://nitter.net/sama/status/2023150230905159801#m",
       "summary": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings. OpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
@@ -792,18 +736,10 @@
       "source": "X/@sama"
     },
     {
-      "title": "The new image models are now available on Grok Imagine API. \n\nTry them at https://docs.x.ai/developers/model-capabilities/images/generation.",
-      "url": "https://nitter.net/xai/status/2020313728802242673#m",
-      "summary": "The new image models are now available on Grok Imagine API. Try them at docs.x.ai/developers/model-c… . Arena.ai (@arena) The new @xAI Grok-Imagine-Image model is a Pareto-optimal model in Image Arena: The Pareto frontier tells us which model has the highest Arena score at each price point. @xAi ’s latest models have improved the frontier, giving optimal performance in the mid-price tier. For a wide range of prices between 2c and 8c per image, @elonmusk ’s @xAI has the leading model, delivering the maximum performance. Top models on the Pareto frontier for Image Arena (Single Image Edit): - @OpenAI : GPT-Image-1.5-high-fidelity - @xAI : Grok Imagine Image Pro - @xAI : Grok Imagine Image - @bfl_ml : Flux 2 Klein 9B - @bfl_ml : Flux-2-Dev - @reve : V1.1 Fast See thread for how the frontier changes for Text-to-Image 🧵 — https://nitter.net/arena/status/2020215931646120004#m",
-      "image": "https://nitter.net/pic/card_img%2F2024052517961609216%2F9QhvfKdK%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Sun, 08 Feb 2026 01:48:23 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2025359485620158673#m",
       "summary": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs arstechnica.com/space/2026/0…",
-      "image": "https://nitter.net/pic/card_img%2F2025359705665658880%2FE8LNrIQJ%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 23:58:25 GMT",
       "source": "X/@arstechnica"
     },
@@ -987,7 +923,7 @@
       "title": "Dinosaur eggshells can reveal the age of other fossils https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2025195781473665314#m",
       "summary": "Dinosaur eggshells can reveal the age of other fossils arstechnica.com/science/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2025222691309961216%2FxLL5u2N1%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 13:07:55 GMT",
       "source": "X/@arstechnica"
     },
@@ -1003,7 +939,7 @@
       "title": "Have we leapt into commercial genetic testing without understanding it? https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2025180671464116310#m",
       "summary": "Have we leapt into commercial genetic testing without understanding it? arstechnica.com/science/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2025185815836364800%2FkvqcV5K-%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 12:07:52 GMT",
       "source": "X/@arstechnica"
     },
@@ -1011,7 +947,7 @@
       "title": "Major government research lab appears to be squeezing out foreign scientists https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2025173116146839879#m",
       "summary": "Major government research lab appears to be squeezing out foreign scientists arstechnica.com/science/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2025190573074739201%2FxR31n1pV%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Sat, 21 Feb 2026 11:37:51 GMT",
       "source": "X/@arstechnica"
     },
@@ -1112,14 +1048,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "Best OpenAI sweatshirt ever",
-      "url": "https://nitter.net/sama/status/2023453083595141411#m",
-      "summary": "Best OpenAI sweatshirt ever",
-      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
-      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
-      "source": "X/@sama"
-    },
-    {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
       "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
       "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -1184,74 +1112,10 @@
       "source": "X/@OpenAI"
     },
     {
-      "title": "One Team 🚀\nhttps://x.ai/news/xai-joins-spacex",
-      "url": "https://nitter.net/xai/status/2018441619230568627#m",
-      "summary": "One Team 🚀 x.ai/news/xai-joins-spacex",
-      "image": "https://nitter.net/pic/card_img%2F2023514611434291201%2Fi7jU6jQK%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Mon, 02 Feb 2026 21:49:17 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: We’d love your feedback on Imagine 1.0. \n\nShare your best creations, tag @xai, and let us know what you think - the team reads every reply. \n\nTry it now: http://grok.com/imagine",
-      "url": "https://nitter.net/xai/status/2018164980189999352#m",
-      "summary": "We’d love your feedback on Imagine 1.0. Share your best creations, tag @xai , and let us know what you think - the team reads every reply. Try it now: grok.com/imagine Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164971587391488%2Fimg%2FCRE_FuTsMQRovdoO.jpg",
-      "published": "Mon, 02 Feb 2026 03:30:01 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0.\n\nhttps://x.ai/news/grok-imagine-api",
-      "url": "https://nitter.net/xai/status/2018164970249412666#m",
-      "summary": "The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0. x.ai/news/grok-imagine-api",
-      "image": "https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Mon, 02 Feb 2026 03:29:59 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news.",
-      "url": "https://nitter.net/xai/status/2018164968911462801#m",
-      "summary": "Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164918114197504%2Fimg%2FJn2jHgC6CspFk5Iw.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:58 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life.",
-      "url": "https://nitter.net/xai/status/2018164916683939876#m",
-      "summary": "Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164864620138496%2Fimg%2FUHD6dAqsZ5su7BwK.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:46 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene.",
-      "url": "https://nitter.net/xai/status/2018164863194026369#m",
-      "summary": "We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164811742515200%2Fimg%2FuWNbD2MqDY_n9Bun.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:33 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene.\n\nVideos are now longer and higher resolution.\n\nVideo by @doganuraldesign",
-      "url": "https://nitter.net/xai/status/2018164810366722095#m",
-      "summary": "Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene. Videos are now longer and higher resolution. Video by @doganuraldesign Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164755215904768%2Fimg%2FjQS57ygFGl7SJlEn.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:21 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "Introducing Grok Imagine 1.0, our biggest leap yet.\n\n1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio.\n\nImagine has generated 1.245 billion videos in the last 30 days alone.\n\nTry it now: http://grok.com/imagine",
-      "url": "https://nitter.net/xai/status/2018164753810764061#m",
-      "summary": "Introducing Grok Imagine 1.0, our biggest leap yet. 1.0 unlocks 10-second videos, 720p resolution, and dramatically better audio. Imagine has generated 1.245 billion videos in the last 30 days alone. Try it now: grok.com/imagine Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164699200999424%2Fimg%2FJh07MFVcUBi2tLiU.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:07 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "NASA reports no significant leaks in Artemis II fueling test, eyes March 6 launch https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024997089282023641#m",
       "summary": "NASA reports no significant leaks in Artemis II fueling test, eyes March 6 launch arstechnica.com/space/2026/0…",
-      "image": "https://nitter.net/pic/card_img%2F2024997092519985152%2FqpOao3ae%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 23:58:23 GMT",
       "source": "X/@arstechnica"
     },
@@ -1259,7 +1123,7 @@
       "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024990225437696123#m",
       "summary": "Microsoft gaming chief Phil Spencer steps down after 38 years with company arstechnica.com/gaming/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024991147840434176%2Fc-yb32fE%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 23:31:06 GMT",
       "source": "X/@arstechnica"
     },
@@ -1267,7 +1131,7 @@
       "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024987707823550671#m",
       "summary": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide arstechnica.com/health/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024988501385568256%2FP7Yafnfz%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 23:21:06 GMT",
       "source": "X/@arstechnica"
     },
@@ -1275,7 +1139,7 @@
       "title": "Discord and Persona end partnership after shady UK age test sparks outcry https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024979833122607371#m",
       "summary": "Discord and Persona end partnership after shady UK age test sparks outcry arstechnica.com/tech-policy/…",
-      "image": "https://nitter.net/pic/card_img%2F2024978173939576833%2FE00ZxNxg%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 22:49:49 GMT",
       "source": "X/@arstechnica"
     },
@@ -1283,7 +1147,7 @@
       "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024968689238638852#m",
       "summary": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance arstechnica.com/tech-policy/…",
-      "image": "https://nitter.net/pic/card_img%2F2024976289065472000%2FNXU33nsC%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 22:05:32 GMT",
       "source": "X/@arstechnica"
     },
@@ -1291,7 +1155,7 @@
       "title": "Meta's flagship metaverse service leaves VR behind https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024964911970091396#m",
       "summary": "Meta's flagship metaverse service leaves VR behind arstechnica.com/gadgets/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2024965470042869760%2FfRmNKzKH%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 21:50:31 GMT",
       "source": "X/@arstechnica"
     },
@@ -1355,7 +1219,7 @@
       "title": "With NIH in chaos, its controversial director is taking over CDC, too https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024933683824918982#m",
       "summary": "With NIH in chaos, its controversial director is taking over CDC, too arstechnica.com/health/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024968677985067009%2F3WuhibEd%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 19:46:26 GMT",
       "source": "X/@arstechnica"
     },
@@ -1363,7 +1227,7 @@
       "title": "Wikipedia bans http://Archive.today after site executed DDoS and altered web captures https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2024917062444089841#m",
       "summary": "Wikipedia bans Archive.today after site executed DDoS and altered web captures arstechnica.com/tech-policy/…",
-      "image": "https://nitter.net/pic/card_img%2F2024941952097996800%2FQsKoDvOc%3Fformat%3Djpg%26name%3D800x419",
+      "image": null,
       "published": "Fri, 20 Feb 2026 18:40:23 GMT",
       "source": "X/@arstechnica"
     },
@@ -1534,14 +1398,6 @@
       "image": "https://nitter.net/pic/card_img%2F2022298704552603648%2F11Wd4B48%3Fformat%3Djpg%26name%3D800x419",
       "published": "Fri, 13 Feb 2026 13:20:20 GMT",
       "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "Supercharge your X apps with Grok by unlocking free xAI API credits!\n\nFor every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend.\n\nDetails: https://docs.x.com/overview#pricing",
-      "url": "https://nitter.net/xai/status/2019914112743219453#m",
-      "summary": "Supercharge your X apps with Grok by unlocking free xAI API credits! For every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend. Details: docs.x.com/overview#pricing Developers (@XDevelopers) Officially launching X API Pay-Per-Use The core of X developers are indie builders, early stage products, startups, and hobbyists It’s time to open up our X API ecosystem and instill a new wave of next generation X apps We’re so back. developer.x.com — https://nitter.net/XDevelopers/status/2019881223666233717#m",
-      "image": "https://nitter.net/pic/card_img%2F2024773344189726720%2FX2xU-MOp%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 06 Feb 2026 23:20:27 GMT",
-      "source": "X/@xai"
     },
     {
       "title": "R to @OpenAI:",
