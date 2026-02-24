@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-24T00:20:09.744804+08:00",
-  "count": 191,
+  "updated_at": "2026-02-24T11:24:28.626708+08:00",
+  "count": 178,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -96,14 +96,6 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
-      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
-      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "We just dropped Lyria 3: our latest generative music model. 🔊 \n\nIt can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024153067654902014#m",
       "summary": "We just dropped Lyria 3: our latest generative music model. 🔊 It can turn photos and text into dynamic tracks - complete with vocals and lyrics. 🧵 Video",
@@ -136,14 +128,6 @@
       "source": "X/@NVIDIA"
     },
     {
-      "title": "We're committing to cover electricity price increases from our data centers.\n\nTo ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain.\n\nRead more: https://www.anthropic.com/news/covering-electricity-price-increases",
-      "url": "https://nitter.net/AnthropicAI/status/2021694494215901314#m",
-      "summary": "We're committing to cover electricity price increases from our data centers. To ensure ratepayers aren’t picking up the tab, we'll pay 100% of grid upgrade costs, work to bring new power online, and invest in systems to reduce grid strain. Read more: anthropic.com/news/covering-…",
-      "image": "https://nitter.net/pic/card_img%2F2024546854147399680%2FM3dx0knZ%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Wed, 11 Feb 2026 21:15:03 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "Pinned: Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting!",
       "url": "https://nitter.net/xai/status/2021667200885829667#m",
       "summary": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress. The future has never looked more exciting! Video",
@@ -174,6 +158,30 @@
       "image": null,
       "published": "Wed, 11 Feb 2026 05:15:05 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox  https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026099666111385859#m",
+      "summary": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox techcrunch.com/2026/02/23/a-…",
+      "image": "https://nitter.net/pic/card_img%2F2026099323155439616%2FWDryciSB%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Tue, 24 Feb 2026 00:59:38 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "We're proud to support @LACMA's Art + Technology Lab—a program that empowers artists to prototype ideas at the edges of art, science, and emerging technology.\n\nThe 2026 call for proposals is open to artists worldwide. Grants up to $50K.\n\nApply by Apr 22: http://lacma.org/art/lab/grants",
+      "url": "https://nitter.net/AnthropicAI/status/2026096054253564002#m",
+      "summary": "We're proud to support @LACMA 's Art + Technology Lab—a program that empowers artists to prototype ideas at the edges of art, science, and emerging technology. The 2026 call for proposals is open to artists worldwide. Grants up to $50K. Apply by Apr 22: lacma.org/art/lab/grants",
+      "image": null,
+      "published": "Tue, 24 Feb 2026 00:45:17 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026094058863841713#m",
+      "summary": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all techcrunch.com/2026/02/23/te…",
+      "image": "https://nitter.net/pic/card_img%2F2024912818995077120%2FroSI_UPp%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Tue, 24 Feb 2026 00:37:21 GMT",
+      "source": "X/@TechCrunch"
     },
     {
       "title": "RT by @nvidia: .@Meta is deploying AI at scale through deep codesign across the full NVIDIA platform.\n\nThis expanded partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs.\n\nLearn more: https://nvda.ws/4rmj3Fm",
@@ -211,25 +219,9 @@
       "title": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor.",
       "url": "https://nitter.net/sama/status/2023838999341920283#m",
       "summary": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. Joshua Kushner (@JoshuaKushner) We are pleased to announce the close of Thrive X. Exceeding $10 billion, Thrive X comprises $1 billion designated for early-stage investments and $9 billion designated for growth-stage investments. We do not view this as a milestone, but as a commitment to the long work ahead. We view Thrive as a company. Our product is partnership - the willingness to commit deeply to a small number of founders, and to stand with them through momentum and adversity. This is the discipline we bring to our work, and the responsibility we accept when founders partner with Thrive. We do not hedge. Concentration demands loyalty to the founders and missions we back. In this moment, exposure alone is not a strategy. Judgment without commitment is not enough. Advantage will accrue to those who choose deliberately, commit deeply, and endure through difficult moments. Thrive was founded to be an enabling technology for the world we want to see. We are deeply aware that we are not the main character. The founders that we are fortunate enough to partner with are the artists. Our role is to help create the conditions where great work can come to life. We take a long view grounded in the belief that category-defining companies tend to create structural compounding advantages over long arcs. This fund reflects the continuity of our approach and the ways our work has deepened alongside the founders we support. We are grateful for the trust our Limited Partners place in us, and for the opportunity to work alongside those who are building with purpose, integrity, and courage. thrivecap.com/thrive-x — https://nitter.net/JoshuaKushner/status/2023732796649271619#m",
-      "image": "https://nitter.net/pic/card_img%2F2023495616157138944%2F88-7ugzx%3Fformat%3Dpng%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2026032332977688577%2FrdKOXTzh%3Fformat%3Dpng%26name%3D800x419",
       "published": "Tue, 17 Feb 2026 19:16:33 GMT",
       "source": "X/@sama"
-    },
-    {
-      "title": "RT by @AnthropicAI: This is Claude Sonnet 4.6: our most capable Sonnet model yet.\n\nIt’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.\n\nIt also features a 1M token context window in beta.",
-      "url": "https://nitter.net/claudeai/status/2023817132581208353#m",
-      "summary": "This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context window in beta. Video",
-      "image": "https://nitter.net/pic/media%2FHBYMPQSaEAAbP8J.jpg",
-      "published": "Tue, 17 Feb 2026 17:49:39 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors.\n\nRead more: https://anthropic.com/news/anthropic-rwanda-mou",
-      "url": "https://nitter.net/AnthropicAI/status/2023789983711326380#m",
-      "summary": "We've signed an MOU with the Government of Rwanda—the first partnership of its kind in Africa—to bring AI to health, education, and other public sectors. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2023748143867727872%2Fxgj4SH7N%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Tue, 17 Feb 2026 16:01:46 GMT",
-      "source": "X/@AnthropicAI"
     },
     {
       "title": "R to @OpenAI: Now in deep research you can:\n\n- Connect to apps in ChatGPT and search specific sites\n\n- Track real-time progress and interrupt with follow-ups or new sources\n\n- View fullscreen reports",
@@ -336,52 +328,12 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
       "published": "Thu, 19 Feb 2026 16:08:33 GMT",
       "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "R to @basetenco: This is why leading AI inference providers are optimizing their inference platforms on Blackwell. \n\nCheck out the latest blog 👇https://nvda.ws/4awCFzk",
-      "url": "https://nitter.net/nvidia/status/2022032295364788394#m",
-      "summary": "This is why leading AI inference providers are optimizing their inference platforms on Blackwell. Check out the latest blog 👇 nvda.ws/4awCFzk",
-      "image": "https://nitter.net/pic/media%2FHA-zpzWXcAA8SPA.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:21 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: Infrastructure efficiency fuels better tokenomics. \n\nLike a printing press that produces more pages when you invest in a better machine, ink and energy, better AI infrastructure means more tokens leading to lower cost per token.",
-      "url": "https://nitter.net/nvidia/status/2022032284266766444#m",
-      "summary": "Infrastructure efficiency fuels better tokenomics. Like a printing press that produces more pages when you invest in a better machine, ink and energy, better AI infrastructure means more tokens leading to lower cost per token.",
-      "image": "https://nitter.net/pic/media%2FHA-zpUYW8AAkkqn.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:18 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "url": "https://nitter.net/nvidia/status/2022032276662485244#m",
-      "summary": "The cost of each token depends on the cost and the overall token output of AI infrastructure.",
-      "image": "https://nitter.net/pic/media%2FHA-zo59XwAAnBZj.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:16 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "url": "https://nitter.net/nvidia/status/2022032269163012415#m",
-      "summary": "Tokens are unit of intelligence and tokenomics is the economics of tokens.",
-      "image": "https://nitter.net/pic/media%2FHA-zoeaW4AEjcIM.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:15 GMT",
-      "source": "X/@NVIDIA"
-    },
-    {
-      "title": "R to @basetenco: As AI scales, the big question often is: How can you afford more tokens? \n\nThe answer: better tokenomics. 💡",
-      "url": "https://nitter.net/nvidia/status/2022032261525254441#m",
-      "summary": "As AI scales, the big question often is: How can you afford more tokens? The answer: better tokenomics. 💡",
-      "image": "https://nitter.net/pic/media%2FHA-zoBBXoAA_TSD.jpg",
-      "published": "Thu, 12 Feb 2026 19:37:13 GMT",
-      "source": "X/@NVIDIA"
     },
     {
       "title": "RT by @nvidia: ✨ Thank you to our incredible community of developers and researchers driving AI innovation — one model, one commit, and one breakthrough at a time.\n\n🤗 We’re thrilled to celebrate 50,000+ followers on @HuggingFace. \n\nKeep building with us: https://huggingface.co/nvidia",
@@ -390,22 +342,6 @@
       "image": "https://nitter.net/pic/media%2FHA-bk2IWEAATT0K.jpg",
       "published": "Thu, 12 Feb 2026 19:02:01 GMT",
       "source": "X/@NVIDIA"
-    },
-    {
-      "title": "We’ve raised $30B in funding at a $380B post-money valuation.\n\nThis investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "url": "https://nitter.net/AnthropicAI/status/2022023155423002867#m",
-      "summary": "We’ve raised $30B in funding at a $380B post-money valuation. This investment will help us deepen our research, continue to innovate in products, and ensure we have the resources to power our infrastructure expansion as we make Claude available everywhere our customers are.",
-      "image": null,
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "R to @AnthropicAI: Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers.\n\nRead more: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "url": "https://nitter.net/AnthropicAI/status/2022023156513616220#m",
-      "summary": "Our run-rate revenue is $14 billion, and has grown over 10x in each of the past 3 years. This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2024567373039124480%2F-tDFGchu%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 19:01:02 GMT",
-      "source": "X/@AnthropicAI"
     },
     {
       "title": "GPT-5.3-Codex-Spark is launching today as a research preview for Pro.\n\nMore than 1000 tokens per second!\n\nThere are limitations at launch; we will rapidly improve.",
@@ -464,14 +400,6 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
-      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
       "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
@@ -480,12 +408,12 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "AI is being adopted faster than any technology in history. The window to get policy right is closing.\n\nToday we’re contributing $20m to Public First Action, a new bipartisan org that will mobilize people and politicians who understand what’s at stake.\n\nhttps://www.anthropic.com/news/donate-public-first-action",
-      "url": "https://nitter.net/AnthropicAI/status/2021921419026657362#m",
-      "summary": "AI is being adopted faster than any technology in history. The window to get policy right is closing. Today we’re contributing $20m to Public First Action, a new bipartisan org that will mobilize people and politicians who understand what’s at stake. anthropic.com/news/donate-pu…",
-      "image": "https://nitter.net/pic/card_img%2F2024566799975731200%2F_328E_hM%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Thu, 12 Feb 2026 12:16:46 GMT",
-      "source": "X/@AnthropicAI"
+      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
+      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
     },
     {
       "title": "RT by @sama: The Codex team is just so FAST ✨",
@@ -512,14 +440,6 @@
       "source": "X/@TechCrunch"
     },
     {
-      "title": "Can the creator economy stay afloat in a flood of AI slop? https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025696503642419349#m",
-      "summary": "Can the creator economy stay afloat in a flood of AI slop? techcrunch.com/2026/02/22/ca…",
-      "image": "https://nitter.net/pic/card_img%2F2025190040234795008%2FYH7dNZ7u%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 22:17:36 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Samsung is adding Perplexity to Galaxy AI https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
       "url": "https://nitter.net/verge/status/2025696381391061063#m",
       "summary": "Samsung is adding Perplexity to Galaxy AI theverge.com/tech/882921/sam…",
@@ -534,14 +454,6 @@
       "image": "https://nitter.net/pic/card_img%2F2025686631492067329%2FPBajhF3I%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 21:32:05 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "Bill Gurley says that right now, the worst thing you can do for your career is play it safe https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025679540631355490#m",
-      "summary": "Bill Gurley says that right now, the worst thing you can do for your career is play it safe techcrunch.com/2026/02/22/bi…",
-      "image": "https://nitter.net/pic/card_img%2F2025680292296499200%2FAFRlYlSz%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 21:10:12 GMT",
-      "source": "X/@TechCrunch"
     },
     {
       "title": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable. https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
@@ -560,18 +472,10 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "📢 6 days are left for the lowest ticket prices to tech's epicenter: http://spr.ly/6016hiDR8\n\n🎟️ Super Early Bird rates end Friday, February 27, at 11:59 p.m. PT!\n⚡️ Lock in the biggest savings of the year — up to $680 off\n\n🚀 Join for three days of crucial takeaways, meaningful connections, and breakthrough startups",
-      "url": "https://nitter.net/TechCrunch/status/2025650550067302777#m",
-      "summary": "📢 6 days are left for the lowest ticket prices to tech's epicenter: spr.ly/6016hiDR8 🎟️ Super Early Bird rates end Friday, February 27, at 11:59 p.m. PT! ⚡️ Lock in the biggest savings of the year — up to $680 off 🚀 Join for three days of crucial takeaways, meaningful connections, and breakthrough startups",
-      "image": "https://nitter.net/pic/media%2FHBvT7ptXAAAwcuR.jpg",
-      "published": "Sun, 22 Feb 2026 19:15:00 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "The best electric toothbrush reduces plaque and gingivitis, encourages you to brush long enough, and prevents overzealous scrubbing. https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2025635954296242284#m",
       "summary": "The best electric toothbrush reduces plaque and gingivitis, encourages you to brush long enough, and prevents overzealous scrubbing. wired.com/story/the-best-ele…",
-      "image": "https://nitter.net/pic/card_img%2F2025513218278621184%2FR5Euy1_P%3Fformat%3Dpng%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025512451983163392%2F0DELGdgV%3Fformat%3Dpng%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 18:17:00 GMT",
       "source": "X/@WIRED"
     },
@@ -584,52 +488,12 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "Quantonation’s double-sized second fund shows quantum still has believers https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025631984077480018#m",
-      "summary": "Quantonation’s double-sized second fund shows quantum still has believers techcrunch.com/2026/02/22/qu…",
-      "image": "https://nitter.net/pic/card_img%2F2024035591474810880%2FrodVZwqK%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 18:01:14 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025627454489117010#m",
-      "summary": "Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice techcrunch.com/2026/02/22/tr…",
-      "image": "https://nitter.net/pic/card_img%2F2023922834595041280%2Fcz8XCv0C%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 17:43:14 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "TechCrunch Mobility: Waymo makes its defense https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025618386970132852#m",
-      "summary": "TechCrunch Mobility: Waymo makes its defense techcrunch.com/2026/02/22/te…",
-      "image": "https://nitter.net/pic/card_img%2F2024959980613292032%2Fm4B3497W%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 17:07:12 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "China’s brain-computer interface industry is racing ahead https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025602558732152922#m",
-      "summary": "China’s brain-computer interface industry is racing ahead techcrunch.com/2026/02/22/ch…",
-      "image": "https://nitter.net/pic/card_img%2F2025727817582100480%2FZnkGNFX4%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 16:04:18 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice",
       "url": "https://nitter.net/verge/status/2025597035165122606#m",
       "summary": "Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice theverge.com/policy/882881/t…",
       "image": "https://nitter.net/pic/card_img%2F2025597035974688768%2FKzsn3QAq%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 15:42:21 GMT",
       "source": "X/@verge"
-    },
-    {
-      "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025587981197943047#m",
-      "summary": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates techcrunch.com/2026/02/22/6-…",
-      "image": "https://nitter.net/pic/card_img%2F2025587324147363840%2FWYfnRd6e%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 15:06:22 GMT",
-      "source": "X/@TechCrunch"
     },
     {
       "title": "This magazine plays Tetris — here’s how https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display",
@@ -646,22 +510,6 @@
       "image": "https://nitter.net/pic/card_img%2F2024174752664080388%2F3tbzEh22%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 13:25:01 GMT",
       "source": "X/@WIRED"
-    },
-    {
-      "title": "America desperately needs new privacy laws https://www.theverge.com/column/882516/privacy-laws-america",
-      "url": "https://nitter.net/verge/status/2025559260118331440#m",
-      "summary": "America desperately needs new privacy laws theverge.com/column/882516/p…",
-      "image": "https://nitter.net/pic/card_img%2F2025556279301648384%2Flk8QBiWc%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 13:12:15 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2 https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review",
-      "url": "https://nitter.net/verge/status/2025556740973170971#m",
-      "summary": "Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2 theverge.com/gadgets/882641/…",
-      "image": "https://nitter.net/pic/card_img%2F2025556741715603456%2FKdRSrpO0%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 13:02:14 GMT",
-      "source": "X/@verge"
     },
     {
       "title": "It's easier than ever to test for sexually transmitted infections at home. We break down whether or not you should. https://www.wired.com/story/at-home-sti-tests/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
@@ -696,36 +544,12 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "The 9,000-pound monster I don’t want to give back https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025526053742244317#m",
-      "summary": "The 9,000-pound monster I don’t want to give back techcrunch.com/2026/02/22/th…",
-      "image": "https://nitter.net/pic/card_img%2F2025526517560729600%2FN4B47LaY%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 11:00:18 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
       "title": "Next month, the Earth will come between the sun and the moon, causing the moon to take on an eerie reddish hue. https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2025512132217798823#m",
       "summary": "Next month, the Earth will come between the sun and the moon, causing the moon to take on an eerie reddish hue. wired.com/story/how-to-view-…",
       "image": "https://nitter.net/pic/card_img%2F2025511413746475008%2FR2xll4rg%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sun, 22 Feb 2026 10:04:59 GMT",
       "source": "X/@WIRED"
-    },
-    {
-      "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025496867149349271#m",
-      "summary": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere techcrunch.com/2026/02/22/mo…",
-      "image": "https://nitter.net/pic/card_img%2F2025506874414792704%2FHn91-1GN%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 09:04:19 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
-      "url": "https://nitter.net/xai/status/2012964979041771522#m",
-      "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
-      "image": "https://nitter.net/pic/card_img%2F2024548595785994240%2Fn3qVr3Gj%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
     },
     {
       "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
@@ -736,18 +560,18 @@
       "source": "X/@xai"
     },
     {
-      "title": "R to @xai: 2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee",
-      "url": "https://nitter.net/xai/status/2012964975057199372#m",
-      "summary": "2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963805509083138%2Fimg%2FPz-24SjUAQfpEBAF.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
+      "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
+      "url": "https://nitter.net/xai/status/2012964979041771522#m",
+      "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
+      "image": "https://nitter.net/pic/card_img%2F2024548595785994240%2Fn3qVr3Gj%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
       "source": "X/@xai"
     },
     {
-      "title": "R to @xai: 3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai",
-      "url": "https://nitter.net/xai/status/2012964973211763177#m",
-      "summary": "3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963585148755969%2Fimg%2FFlGpJnLpG79IQ9x_.jpg",
+      "title": "Congrats to the winners of Grokathon London ’26! 🧵",
+      "url": "https://nitter.net/xai/status/2012964971764744306#m",
+      "summary": "Congrats to the winners of Grokathon London ’26! 🧵",
+      "image": null,
       "published": "Sun, 18 Jan 2026 19:07:03 GMT",
       "source": "X/@xai"
     },
@@ -771,129 +595,9 @@
       "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
       "url": "https://nitter.net/arstechnica/status/2025359485620158673#m",
       "summary": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs arstechnica.com/space/2026/0…",
-      "image": "https://nitter.net/pic/card_img%2F2025359705665658880%2FE8LNrIQJ%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025359489231454208%2F4XhOhmFL%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 23:58:25 GMT",
       "source": "X/@arstechnica"
-    },
-    {
-      "title": "Gay men have long been rumored to run Silicon Valley. WIRED investigates. https://www.wired.com/story/inside-the-gay-tech-mafia/",
-      "url": "https://nitter.net/WIRED/status/2025348565736833215#m",
-      "summary": "Gay men have long been rumored to run Silicon Valley. WIRED investigates. wired.com/story/inside-the-g…",
-      "image": "https://nitter.net/pic/card_img%2F2024439650509869059%2FQIs_zXpW%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 23:15:01 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "Sam Altman would like remind you that humans use a lot of energy, too https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025324714353459688#m",
-      "summary": "Sam Altman would like remind you that humans use a lot of energy, too techcrunch.com/2026/02/21/sa…",
-      "image": "https://nitter.net/pic/card_img%2F2025843751059361792%2FxFxP-MOz%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 21:40:15 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "ICE plans to lease offices throughout the US as part of a secret, monthslong expansion campaign. WIRED is publishing dozens of these locations. https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/",
-      "url": "https://nitter.net/WIRED/status/2025322165520765106#m",
-      "summary": "ICE plans to lease offices throughout the US as part of a secret, monthslong expansion campaign. WIRED is publishing dozens of these locations. wired.com/story/ice-expansio…",
-      "image": "https://nitter.net/pic/card_img%2F2023871449170415616%2FpL-0XpI-%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 21:30:07 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version https://www.theverge.com/tech/882852/arturia-fx-collection-6",
-      "url": "https://nitter.net/verge/status/2025317928217043298#m",
-      "summary": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version theverge.com/tech/882852/art…",
-      "image": "https://nitter.net/pic/card_img%2F2025317928976220162%2Fx_5UMW5e%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 21:13:17 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "Sony’s WH-CH720N headphones offer excellent value at full price, but right now they're a steal. https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2025309065430057121#m",
-      "summary": "Sony’s WH-CH720N headphones offer excellent value at full price, but right now they're a steal. wired.com/story/sony-wh-ch72…",
-      "image": "https://nitter.net/pic/card_img%2F2025309122372235265%2Fq0b23gbL%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 20:38:04 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "Wikipedia blacklists http://Archive.today after alleged DDoS attack https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025305427190358415#m",
-      "summary": "Wikipedia blacklists Archive.today after alleged DDoS attack techcrunch.com/2026/02/21/wi…",
-      "image": "https://nitter.net/pic/card_img%2F2022857501839101954%2FTreEiaHT%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 20:23:36 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations. https://www.wired.com/story/best-budget-monitors/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2025291957115793902#m",
-      "summary": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations. wired.com/story/best-budget-…",
-      "image": "https://nitter.net/pic/card_img%2F2025181660984102912%2F1-kXhUJ6%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 19:30:05 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "After just two months, my husband saw enough hair regrowth that his college friends commented on it. https://www.wired.com/review/irestore-elite-laser-hair-growth-system/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
-      "url": "https://nitter.net/WIRED/status/2025273566166397259#m",
-      "summary": "After just two months, my husband saw enough hair regrowth that his college friends commented on it. wired.com/review/irestore-el…",
-      "image": "https://nitter.net/pic/card_img%2F2025158958668017665%2FaoyIJlgQ%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 18:17:00 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’ https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025265813100659199#m",
-      "summary": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’ techcrunch.com/2026/02/21/mi…",
-      "image": "https://nitter.net/pic/card_img%2F2023144408065904640%2FLTdF7UV6%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 17:46:12 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "7 days left for the lowest Disrupt ticket rates of the year, sign up now: http://spr.ly/6011hiD6B\n\n🎟️ Save up to $680 on tickets to TechCrunch Disrupt 2026 before prices rise\n🤝 Connect with 10,000 founders, VCs, and operators shaping the future\n\n📍 October 13–15 | Moscone West, San Francisco",
-      "url": "https://nitter.net/TechCrunch/status/2025261738988351788#m",
-      "summary": "7 days left for the lowest Disrupt ticket rates of the year, sign up now: spr.ly/6011hiD6B 🎟️ Save up to $680 on tickets to TechCrunch Disrupt 2026 before prices rise 🤝 Connect with 10,000 founders, VCs, and operators shaping the future 📍 October 13–15 | Moscone West, San Francisco",
-      "image": "https://nitter.net/pic/media%2FHBpe2rzXAAAy17x.jpg",
-      "published": "Sat, 21 Feb 2026 17:30:00 GMT",
-      "source": "X/@TechCrunch"
-    },
-    {
-      "title": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\" https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
-      "url": "https://nitter.net/WIRED/status/2025257978216013896#m",
-      "summary": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\" wired.com/story/ai-agent-ren…",
-      "image": "https://nitter.net/pic/card_img%2F2024077505435410434%2FmJ6NNRLk%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 17:15:04 GMT",
-      "source": "X/@WIRED"
-    },
-    {
-      "title": "Georgia says Elon Musk’s America PAC violated election law https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
-      "url": "https://nitter.net/verge/status/2025253705881452560#m",
-      "summary": "Georgia says Elon Musk’s America PAC violated election law theverge.com/tech/882838/geo…",
-      "image": "https://nitter.net/pic/card_img%2F2025255268896944128%2FAymnIzC4%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 16:58:05 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
-      "url": "https://nitter.net/verge/status/2025231039422210059#m",
-      "summary": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT theverge.com/ai-artificial-i…",
-      "image": "https://nitter.net/pic/card_img%2F2025261882211291136%2F5I1ACco7%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 15:28:01 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "The Pixel 10A and Soundcore Space One are just two of the best deals this week https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale",
-      "url": "https://nitter.net/verge/status/2025220966151061952#m",
-      "summary": "The Pixel 10A and Soundcore Space One are just two of the best deals this week theverge.com/gadgets/881998/…",
-      "image": "https://nitter.net/pic/card_img%2F2025220966411108361%2FntT8Gj4X%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 14:47:59 GMT",
-      "source": "X/@verge"
-    },
-    {
-      "title": "Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox",
-      "url": "https://nitter.net/verge/status/2025209633070285090#m",
-      "summary": "Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish theverge.com/games/875259/dr…",
-      "image": "https://nitter.net/pic/card_img%2F2025209050141454337%2F3vyalSkd%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 14:02:57 GMT",
-      "source": "X/@verge"
     },
     {
       "title": "Dinosaur eggshells can reveal the age of other fossils https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
@@ -902,14 +606,6 @@
       "image": "https://nitter.net/pic/card_img%2F2025222691309961216%2FxLL5u2N1%3Fformat%3Djpg%26name%3D800x419",
       "published": "Sat, 21 Feb 2026 13:07:55 GMT",
       "source": "X/@arstechnica"
-    },
-    {
-      "title": "Stellantis is in a crisis of its own making https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations",
-      "url": "https://nitter.net/verge/status/2025194523786445105#m",
-      "summary": "Stellantis is in a crisis of its own making theverge.com/transportation/…",
-      "image": "https://nitter.net/pic/card_img%2F2025194524319023104%2F6uoYzNBk%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sat, 21 Feb 2026 13:02:55 GMT",
-      "source": "X/@verge"
     },
     {
       "title": "Have we leapt into commercial genetic testing without understanding it? https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
@@ -968,10 +664,322 @@
       "source": "X/@sama"
     },
     {
+      "title": "Need to schlep some stuff? Consider these field-tested duffel bags. The Eastpak Duffel Pack S Tarp Black2 is our top pick. https://www.wired.com/gallery/best-duffel-bags/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2026080892641280078#m",
+      "summary": "Need to schlep some stuff? Consider these field-tested duffel bags. The Eastpak Duffel Pack S Tarp Black2 is our top pick. wired.com/gallery/best-duffe…",
+      "image": "https://nitter.net/pic/card_img%2F2026066191605723137%2FKlyJcbog%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 23:45:02 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "This soundbar is just the beginning, with the option to add wireless bookshelf speakers or a subwoofer. https://www.wired.com/story/klipsch-flexus-core-200-deal-226/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2026072880149053449#m",
+      "summary": "This soundbar is just the beginning, with the option to add wireless bookshelf speakers or a subwoofer. wired.com/story/klipsch-flex…",
+      "image": "https://nitter.net/pic/card_img%2F2026072881793224705%2FWX_pR997%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 23:13:11 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "RT by @OpenAI: Stargate is the umbrella brand for our compute strategy. It’s about mobilizing the full ecosystem to deliver a step-change in global AI compute — and over the past few quarters that vision has become reality.\n\nSince announcing Stargate in January 2025, OpenAI has expanded from a mostly single-provider model to a broad partner network across clouds, silicon, and infrastructure: SoftBank, NVIDIA, AMD, Broadcom, Oracle, Microsoft, AWS, CoreWeave, and Cerebras.\n\nDemand is compounding, and no single provider, chip, or cloud can carry the load. A diversified compute model is the only way to scale at the pace AI requires.\n\nWe exited 2025 with ~2 GW of available compute and a model designed to scale: long-term capacity agreements, purpose-built colo deployments, and deep collaboration on next-generation datacenter design.\n\nCompute leadership is the foundation of research and product velocity — and Stargate is how we build what comes next.",
+      "url": "https://nitter.net/sk7037/status/2026067771394838629#m",
+      "summary": "Stargate is the umbrella brand for our compute strategy. It’s about mobilizing the full ecosystem to deliver a step-change in global AI compute — and over the past few quarters that vision has become reality. Since announcing Stargate in January 2025, OpenAI has expanded from a mostly single-provider model to a broad partner network across clouds, silicon, and infrastructure: SoftBank, NVIDIA, AMD, Broadcom, Oracle, Microsoft, AWS, CoreWeave, and Cerebras. Demand is compounding, and no single provider, chip, or cloud can carry the load. A diversified compute model is the only way to scale at the pace AI requires. We exited 2025 with ~2 GW of available compute and a model designed to scale: long-term capacity agreements, purpose-built colo deployments, and deep collaboration on next-generation datacenter design. Compute leadership is the foundation of research and product velocity — and Stargate is how we build what comes next.",
+      "image": null,
+      "published": "Mon, 23 Feb 2026 22:52:53 GMT",
+      "source": "X/@OpenAI"
+    },
+    {
+      "title": "R to @AnthropicAI: If true, the theory has consequences for AI development. For instance, if AIs inherit traits from fictional role models, we should give them as good role models as possible. One goal of Claude’s constitution is to do just that.\n\nhttps://x.com/AnthropicAI/status/2014005798691877083",
+      "url": "https://nitter.net/AnthropicAI/status/2026062463108612133#m",
+      "summary": "If true, the theory has consequences for AI development. For instance, if AIs inherit traits from fictional role models, we should give them as good role models as possible. One goal of Claude’s constitution is to do just that. nitter.net/AnthropicAI/status/201… Anthropic (@AnthropicAI) We’re publishing a new constitution for Claude. The constitution is a detailed description of our vision for Claude’s behavior and values. It’s written primarily for Claude, and used directly in our training process. anthropic.com/news/claude-ne… — https://nitter.net/AnthropicAI/status/2014005798691877083#m",
+      "image": "https://nitter.net/pic/card_img%2F2022682174584221696%2F2OgZfroM%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 22:31:48 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”.\n\nRead the full post: https://alignment.anthropic.com/2026/psm",
+      "url": "https://nitter.net/AnthropicAI/status/2026062465260294170#m",
+      "summary": "The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”. Read the full post: alignment.anthropic.com/2026…",
+      "image": null,
+      "published": "Mon, 23 Feb 2026 22:31:48 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "AI assistants like Claude can seem shockingly human—expressing joy or distress, and using anthropomorphic language to describe themselves. Why?\n\nIn a new post we describe a theory that explains why AIs act like humans: the persona selection model.\n\nhttps://www.anthropic.com/research/persona-selection-model",
+      "url": "https://nitter.net/AnthropicAI/status/2026062454405415369#m",
+      "summary": "AI assistants like Claude can seem shockingly human—expressing joy or distress, and using anthropomorphic language to describe themselves. Why? In a new post we describe a theory that explains why AIs act like humans: the persona selection model. anthropic.com/research/perso…",
+      "image": "https://nitter.net/pic/card_img%2F2026058861396840448%2FN_AlYN1m%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 22:31:46 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2026059576412717134#m",
+      "summary": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging arstechnica.com/space/2026/0…",
+      "image": "https://nitter.net/pic/card_img%2F2026061005453746176%2FGpDNW-fr%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 22:20:20 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "“I’m not for sale”: Farmers refuse to take millions in data center deals https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2026052700044140577#m",
+      "summary": "“I’m not for sale”: Farmers refuse to take millions in data center deals arstechnica.com/tech-policy/…",
+      "image": "https://nitter.net/pic/card_img%2F2026103583993683968%2FlaOcDeJ-%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 21:53:00 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic  https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026052099939917850#m",
+      "summary": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic techcrunch.com/2026/02/23/wi…",
+      "image": "https://nitter.net/pic/card_img%2F2026079370943639552%2Fu0MpD-yz%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 21:50:37 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Panasonic, the former plasma king, will no longer make its own TVs https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2026043883369750548#m",
+      "summary": "Panasonic, the former plasma king, will no longer make its own TVs arstechnica.com/gadgets/2026…",
+      "image": "https://nitter.net/pic/card_img%2F2026045132605112320%2FEH_A8iDu%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 21:17:58 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Will Trump’s DOJ actually take on Ticketmaster? https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial",
+      "url": "https://nitter.net/verge/status/2026036832077824177#m",
+      "summary": "Will Trump’s DOJ actually take on Ticketmaster? theverge.com/policy/883155/d…",
+      "image": "https://nitter.net/pic/card_img%2F2026035223247351808%2FtJzVMIfr%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 20:49:57 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "Billions of dollars later and still nobody knows what an Xbox is https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+      "url": "https://nitter.net/verge/status/2026034061643518284#m",
+      "summary": "Billions of dollars later and still nobody knows what an Xbox is theverge.com/games/883159/ph…",
+      "image": "https://nitter.net/pic/card_img%2F2024051638869049344%2F5Nx38aJn%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 20:38:56 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026033983314935861#m",
+      "summary": "Ex-Apple team launches Acme Weather, a new take on weather forecasting techcrunch.com/2026/02/23/ex…",
+      "image": "https://nitter.net/pic/card_img%2F2026108009735483392%2Fm0oS7xHR%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 20:38:38 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "url": "https://nitter.net/verge/status/2026031291867742499#m",
+      "summary": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI theverge.com/ai-artificial-i…",
+      "image": "https://nitter.net/pic/card_img%2F2026031292593397760%2FT3gsWa1l%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 20:27:56 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026024423283990975#m",
+      "summary": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports techcrunch.com/2026/02/23/an…",
+      "image": "https://nitter.net/pic/card_img%2F2026023816674304000%2FxiZ-Ctf3%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 20:00:38 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Uber’s new autonomous vehicle division is about survival and opportunity https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026023819429986694#m",
+      "summary": "Uber’s new autonomous vehicle division is about survival and opportunity techcrunch.com/2026/02/23/ub…",
+      "image": "https://nitter.net/pic/card_img%2F2026023822772903936%2FnVyU888t%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 19:58:14 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "New benchmarks from @lmsysorg show NVIDIA Blackwell Ultra GB300 racks raising the bar for long-context #opensource inference achieving up to 1.5X lower latency and 1.87X higher user throughput vs. GB200.\n\nDriven by advanced parallelism, precision optimization, and intelligent scheduling techniques fully orchestrated with NVIDIA Dynamo to maximize performance and efficiency at scale.\n\nRead more in @wccftech’s coverage:",
+      "url": "https://nitter.net/nvidia/status/2026019785818149122#m",
+      "summary": "New benchmarks from @lmsysorg show NVIDIA Blackwell Ultra GB300 racks raising the bar for long-context #opensource inference achieving up to 1.5X lower latency and 1.87X higher user throughput vs. GB200. Driven by advanced parallelism, precision optimization, and intelligent scheduling techniques fully orchestrated with NVIDIA Dynamo to maximize performance and efficiency at scale. Read more in @wccftech ’s coverage: Wccftech (@wccftech) NVIDIA's Blackwell Ultra AI racks were tested with DeepSeek's latest open-source models, delivering a 1.5x lead over GB200 NVL72 in latency-sensitive workloads. 🔗 wccf.tech/1jr3i — https://nitter.net/wccftech/status/2025299233524600992#m",
+      "image": "https://nitter.net/pic/media%2FHBtKHvUaoAAV5C7.jpg",
+      "published": "Mon, 23 Feb 2026 19:42:13 GMT",
+      "source": "X/@NVIDIA"
+    },
+    {
+      "title": "This episode of \"Uncanny Valley\" covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine. https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2026018076156690723#m",
+      "summary": "This episode of \"Uncanny Valley\" covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine. wired.com/story/uncanny-vall…",
+      "image": "https://nitter.net/pic/card_img%2F2026016958307524608%2FP0w5XmPI%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 19:35:25 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Google’s Cloud AI lead on the three frontiers of model capability https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026014767144747029#m",
+      "summary": "Google’s Cloud AI lead on the three frontiers of model capability techcrunch.com/2026/02/23/go…",
+      "image": "https://nitter.net/pic/card_img%2F2026015054357774336%2FEab3kVUU%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 19:22:16 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Americans are destroying Flock surveillance cameras https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026006974337577351#m",
+      "summary": "Americans are destroying Flock surveillance cameras techcrunch.com/2026/02/23/am…",
+      "image": "https://nitter.net/pic/card_img%2F2026006978724786176%2FAk0FiU5s%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:51:18 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you. https://www.wired.com/gallery/the-best-ipad/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025998346347786430#m",
+      "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you. wired.com/gallery/the-best-i…",
+      "image": "https://nitter.net/pic/card_img%2F2023780531192606721%2FXvS9S-Go%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:17:01 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "R to @AnthropicAI: Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers.\n\nBut foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
+      "url": "https://nitter.net/AnthropicAI/status/2025997929840857390#m",
+      "summary": "Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers. But foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
+      "image": null,
+      "published": "Mon, 23 Feb 2026 18:15:22 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: These attacks are growing in intensity and sophistication. Addressing them will require rapid, coordinated action among industry players, policymakers, and the broader AI community.\n\nRead more: https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "url": "https://nitter.net/AnthropicAI/status/2025997931589881921#m",
+      "summary": "These attacks are growing in intensity and sophistication. Addressing them will require rapid, coordinated action among industry players, policymakers, and the broader AI community. Read more: anthropic.com/news/detecting…",
+      "image": "https://nitter.net/pic/card_img%2F2025999113964371968%2FRA0zogNG%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:15:22 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\n\nThese labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models.",
+      "url": "https://nitter.net/AnthropicAI/status/2025997928242811253#m",
+      "summary": "We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax. These labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models.",
+      "image": null,
+      "published": "Mon, 23 Feb 2026 18:15:21 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "OpenAI calls in the consultants for its enterprise push https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025997924631814433#m",
+      "summary": "OpenAI calls in the consultants for its enterprise push techcrunch.com/2026/02/23/op…",
+      "image": "https://nitter.net/pic/card_img%2F2025997967141044224%2FLoIe_wOo%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:15:21 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Apple’s newest AirTags are already on sale if you’re looking to upgrade https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale",
+      "url": "https://nitter.net/verge/status/2025997293313470925#m",
+      "summary": "Apple’s newest AirTags are already on sale if you’re looking to upgrade theverge.com/gadgets/883101/…",
+      "image": "https://nitter.net/pic/card_img%2F2025233025504841728%2FW60ZuGgr%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:12:50 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "Guide Labs debuts a new kind of interpretable LLM https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025993393936138493#m",
+      "summary": "Guide Labs debuts a new kind of interpretable LLM techcrunch.com/2026/02/23/gu…",
+      "image": "https://nitter.net/pic/card_img%2F2025993628401778688%2FXm0xSsSq%3Fformat%3Dpng%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 17:57:20 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "New Microsoft gaming chief has \"no tolerance for bad AI\" https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025991392359858240#m",
+      "summary": "New Microsoft gaming chief has \"no tolerance for bad AI\" arstechnica.com/gaming/2026/…",
+      "image": "https://nitter.net/pic/card_img%2F2025991395950108672%2FG-gNaeFm%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 17:49:23 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "The creators of Dark Sky have a new weather app that shares multiple predictions https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription",
+      "url": "https://nitter.net/verge/status/2025987363248513112#m",
+      "summary": "The creators of Dark Sky have a new weather app that shares multiple predictions theverge.com/tech/883089/acm…",
+      "image": "https://nitter.net/pic/card_img%2F2025987363772706816%2FwYC7i4cn%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 17:33:23 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade https://arstechnica.com/cars/2026/02/the-2026-mazda-cx-5-driven-it-got-bigger-plus-radical-tech-upgrade/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
+      "url": "https://nitter.net/arstechnica/status/2025980060449300979#m",
+      "summary": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade arstechnica.com/cars/2026/02…",
+      "image": "https://nitter.net/pic/card_img%2F2025980064417153024%2FMp293VkM%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 17:04:21 GMT",
+      "source": "X/@arstechnica"
+    },
+    {
+      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025978531705180442#m",
+      "summary": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to techcrunch.com/2026/02/23/pa…",
+      "image": "https://nitter.net/pic/card_img%2F2025978033937465344%2FxMF724Wo%3Fformat%3Djpg%26name%3D600x314",
+      "published": "Mon, 23 Feb 2026 16:58:17 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Spotify rolls out AI-powered Prompted Playlists to the U.K. and other markets https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025977540163297300#m",
+      "summary": "Spotify rolls out AI-powered Prompted Playlists to the U.K. and other markets techcrunch.com/2026/02/23/sp…",
+      "image": "https://nitter.net/pic/card_img%2F2025977773563457536%2FuU6oFboK%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:54:21 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "Finnish quantum unicorn IQM set to go public https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2025975275083956503#m",
+      "summary": "Finnish quantum unicorn IQM set to go public techcrunch.com/2026/02/23/fi…",
+      "image": "https://nitter.net/pic/card_img%2F2025974843544399872%2FzUtG59N5%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:45:21 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "🔥 There are only 5 days left for the best TechCrunch Disrupt 2026 discounts: http://spr.ly/6017hiDoR\n \n🎟️ It's your final chance to save big on Disrupt passes, up to $680 off\n🤝 Meet your next investor, partner, cofounder\n\nJoin us Oct. 13–15 • Moscone West in SF, where tech’s future takes shape!",
+      "url": "https://nitter.net/TechCrunch/status/2025975188584591707#m",
+      "summary": "🔥 There are only 5 days left for the best TechCrunch Disrupt 2026 discounts: spr.ly/6017hiDoR 🎟️ It's your final chance to save big on Disrupt passes, up to $680 off 🤝 Meet your next investor, partner, cofounder Join us Oct. 13–15 • Moscone West in SF, where tech’s future takes shape!",
+      "image": "https://nitter.net/pic/media%2FHBzAmTgWcAACCQJ.jpg",
+      "published": "Mon, 23 Feb 2026 16:45:00 GMT",
+      "source": "X/@TechCrunch"
+    },
+    {
+      "title": "The CEO of the supercar company says demand for high-end full electric cars is “almost zero.” Could this mean Ferrari's Luce will be dead on arrival? https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025974438097740141#m",
+      "summary": "The CEO of the supercar company says demand for high-end full electric cars is “almost zero.” Could this mean Ferrari's Luce will be dead on arrival? wired.com/story/lamborghini-…",
+      "image": "https://nitter.net/pic/card_img%2F2025974259428777985%2FHMzVE1IV%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:42:01 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Despite Donald Trump's unrelenting attacks on renewable energy, there's a quiet revolution happening on US grids. https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+      "url": "https://nitter.net/WIRED/status/2025974434243153966#m",
+      "summary": "Despite Donald Trump's unrelenting attacks on renewable energy, there's a quiet revolution happening on US grids. wired.com/story/the-us-had-a…",
+      "image": "https://nitter.net/pic/card_img%2F2025974436063531009%2F3MwFRxdf%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:42:00 GMT",
+      "source": "X/@WIRED"
+    },
+    {
+      "title": "Discord distances itself from Persona age verification after user backlash https://www.theverge.com/tech/878369/discord-persona-age-verification",
+      "url": "https://nitter.net/verge/status/2025972757687853383#m",
+      "summary": "Discord distances itself from Persona age verification after user backlash theverge.com/tech/878369/dis…",
+      "image": "https://nitter.net/pic/card_img%2F2023522060987715584%2FMVUsEfsz%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:35:20 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "Kohler’s new shower reuses dirty water to get you clean https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
+      "url": "https://nitter.net/verge/status/2025970239788507620#m",
+      "summary": "Kohler’s new shower reuses dirty water to get you clean theverge.com/tech/883006/koh…",
+      "image": "https://nitter.net/pic/card_img%2F2025969785784135680%2Fpy2k9ELe%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:25:20 GMT",
+      "source": "X/@verge"
+    },
+    {
+      "title": "If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+      "url": "https://nitter.net/verge/status/2025967469484208480#m",
+      "summary": "If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it theverge.com/ai-artificial-i…",
+      "image": "https://nitter.net/pic/card_img%2F2025964966436868096%2FkcFrcrsK%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 16:14:20 GMT",
+      "source": "X/@verge"
+    },
+    {
       "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025966220319891494#m",
       "summary": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report techcrunch.com/2026/02/23/vp…",
-      "image": "https://nitter.net/pic/card_img%2F2025966225088811009%2Funr4VyBW%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025966451736059904%2FVs2_mP9m%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 16:09:22 GMT",
       "source": "X/@TechCrunch"
     },
@@ -1019,7 +1027,7 @@
       "title": "New research: The AI Fluency Index.\n\nWe tracked 11 behaviors across thousands of http://Claude.ai conversations—for example, how often people iterate and refine their work with Claude—to measure how well people collaborate with AI.\n\nRead more: https://www.anthropic.com/research/AI-fluency-index",
       "url": "https://nitter.net/AnthropicAI/status/2025950279099961854#m",
       "summary": "New research: The AI Fluency Index. We tracked 11 behaviors across thousands of Claude.ai conversations—for example, how often people iterate and refine their work with Claude—to measure how well people collaborate with AI. Read more: anthropic.com/research/AI-fl…",
-      "image": "https://nitter.net/pic/card_img%2F2025950124338503680%2FOTmSvoCp%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2024039297381236736%2FkReD3ULG%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 15:06:01 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -1027,7 +1035,7 @@
       "title": "Inside Microsoft’s big Xbox leadership shake-up https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
       "url": "https://nitter.net/verge/status/2025948330103333279#m",
       "summary": "Inside Microsoft’s big Xbox leadership shake-up theverge.com/tech/883015/mic…",
-      "image": "https://nitter.net/pic/card_img%2F2023522198284046338%2FMoDwC8a2%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025966820679720961%2FPSuLhdxf%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 14:58:16 GMT",
       "source": "X/@verge"
     },
@@ -1115,7 +1123,7 @@
       "title": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks. https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
       "url": "https://nitter.net/WIRED/status/2025888475333992729#m",
       "summary": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks. wired.com/story/say-goodbye-…",
-      "image": "https://nitter.net/pic/card_img%2F2025890218990301186%2FxLlngWZO%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025888477649178624%2FlhuyS2nP%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 11:00:26 GMT",
       "source": "X/@WIRED"
     },
@@ -1123,7 +1131,7 @@
       "title": "Wispr Flow launches an Android app for AI-powered dictation https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2025843917195973027#m",
       "summary": "Wispr Flow launches an Android app for AI-powered dictation techcrunch.com/2026/02/23/wi…",
-      "image": "https://nitter.net/pic/card_img%2F2025843920610246656%2FaIrMq9gA%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025859226766020608%2Fl08PiPNC%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 08:03:22 GMT",
       "source": "X/@TechCrunch"
     },
@@ -1168,14 +1176,6 @@
       "source": "X/@sama"
     },
     {
-      "title": "Best OpenAI sweatshirt ever",
-      "url": "https://nitter.net/sama/status/2023453083595141411#m",
-      "summary": "Best OpenAI sweatshirt ever",
-      "image": "https://nitter.net/pic/media%2FHBS_mJObcAM97y7.jpg",
-      "published": "Mon, 16 Feb 2026 17:43:03 GMT",
-      "source": "X/@sama"
-    },
-    {
       "title": "R to @nvidia: NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
       "url": "https://nitter.net/nvidia/status/2023448198153683237#m",
       "summary": "NVIDIA GB300 NVL72 and the codesigned software stack including NVIDIA Dynamo and TensorRT-LLM deliver 35x lower cost per token compared with NVIDIA Hopper platform.",
@@ -1195,7 +1195,7 @@
       "title": "RT by @nvidia: NVIDIA says its Blackwell Ultra is optimized for agentic AI, delivering 50× higher throughput per megawatt than H200s, 35× lower cost per million tokens, and 1.5× lower cost per token vs. GB200 NVL72.\nhttps://wccftech.com/nvidias-blackwell-ultra-pushes-agentic-ai-performance-to-new-heights/",
       "url": "https://nitter.net/wccftech/status/2023447422790496304#m",
       "summary": "NVIDIA says its Blackwell Ultra is optimized for agentic AI, delivering 50× higher throughput per megawatt than H200s, 35× lower cost per million tokens, and 1.5× lower cost per token vs. GB200 NVL72. wccftech.com/nvidias-blackwe…",
-      "image": "https://nitter.net/pic/card_img%2F2023442404314140673%2FIRaU5zfm%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2025979164441075720%2FDux2d6tF%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 16 Feb 2026 17:20:34 GMT",
       "source": "X/@NVIDIA"
     },
@@ -1206,14 +1206,6 @@
       "image": "https://nitter.net/pic/media%2FHBS2m_mXQAAU_LW.jpg",
       "published": "Mon, 16 Feb 2026 17:02:39 GMT",
       "source": "X/@NVIDIA"
-    },
-    {
-      "title": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific.\n\nIndia is our second-largest market for http://Claude.ai. We’re launching new partnerships to deepen our long-term commitment: https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
-      "url": "https://nitter.net/AnthropicAI/status/2023322514206957688#m",
-      "summary": "We’re officially opening our Bengaluru office—our new home base in India, and Anthropic's second office in Asia-Pacific. India is our second-largest market for Claude.ai . We’re launching new partnerships to deepen our long-term commitment: anthropic.com/news/bengaluru…",
-      "image": "https://nitter.net/pic/card_img%2F2025859341006635008%2FBWhXPDPI%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Mon, 16 Feb 2026 09:04:13 GMT",
-      "source": "X/@AnthropicAI"
     },
     {
       "title": "Codex weekly users have more than tripled since the beginning of the year!",
@@ -1243,7 +1235,7 @@
       "title": "One Team 🚀\nhttps://x.ai/news/xai-joins-spacex",
       "url": "https://nitter.net/xai/status/2018441619230568627#m",
       "summary": "One Team 🚀 x.ai/news/xai-joins-spacex",
-      "image": "https://nitter.net/pic/card_img%2F2023514611434291201%2Fi7jU6jQK%3Fformat%3Dpng%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2026051329953517568%2FPsRJJ3GK%3Fformat%3Dpng%26name%3D800x419",
       "published": "Mon, 02 Feb 2026 21:49:17 GMT",
       "source": "X/@xai"
     },
@@ -1261,38 +1253,6 @@
       "summary": "The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0. x.ai/news/grok-imagine-api",
       "image": "https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419",
       "published": "Mon, 02 Feb 2026 03:29:59 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news.",
-      "url": "https://nitter.net/xai/status/2018164968911462801#m",
-      "summary": "Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164918114197504%2Fimg%2FJn2jHgC6CspFk5Iw.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:58 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life.",
-      "url": "https://nitter.net/xai/status/2018164916683939876#m",
-      "summary": "Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164864620138496%2Fimg%2FUHD6dAqsZ5su7BwK.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:46 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene.",
-      "url": "https://nitter.net/xai/status/2018164863194026369#m",
-      "summary": "We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164811742515200%2Fimg%2FuWNbD2MqDY_n9Bun.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:33 GMT",
-      "source": "X/@xai"
-    },
-    {
-      "title": "R to @xai: Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene.\n\nVideos are now longer and higher resolution.\n\nVideo by @doganuraldesign",
-      "url": "https://nitter.net/xai/status/2018164810366722095#m",
-      "summary": "Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene. Videos are now longer and higher resolution. Video by @doganuraldesign Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164755215904768%2Fimg%2FjQS57ygFGl7SJlEn.jpg",
-      "published": "Mon, 02 Feb 2026 03:29:21 GMT",
       "source": "X/@xai"
     },
     {
@@ -1360,14 +1320,6 @@
       "source": "X/@arstechnica"
     },
     {
-      "title": "Wikipedia bans http://Archive.today after site executed DDoS and altered web captures https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024917062444089841#m",
-      "summary": "Wikipedia bans Archive.today after site executed DDoS and altered web captures arstechnica.com/tech-policy/…",
-      "image": "https://nitter.net/pic/card_img%2F2024941952097996800%2FQsKoDvOc%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 18:40:23 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
       "title": "RT by @AnthropicAI: Introducing Claude Code Security, now in limited research preview.\n\nIt scans codebases for vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix issues that traditional tools often miss.\n\nLearn more: https://www.anthropic.com/news/claude-code-security",
       "url": "https://nitter.net/claudeai/status/2024907535145468326#m",
       "summary": "Introducing Claude Code Security, now in limited research preview. It scans codebases for vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix issues that traditional tools often miss. Learn more: anthropic.com/news/claude-co… Video",
@@ -1376,44 +1328,12 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "Why Final Fantasy is now targeting PC as its \"lead platform\" https://arstechnica.com/gaming/2026/02/why-final-fantasy-is-now-targeting-pc-as-its-lead-platform/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024899687434924388#m",
-      "summary": "Why Final Fantasy is now targeting PC as its \"lead platform\" arstechnica.com/gaming/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024901858372771840%2F5Gp-q2Pa%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 17:31:20 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
-      "title": "New dates on Chinese fossils raise question of how many times we left Africa https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024893392342381049#m",
-      "summary": "New dates on Chinese fossils raise question of how many times we left Africa arstechnica.com/science/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2024902648680370176%2FTkXWSYwM%3Fformat%3Dpng%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 17:06:20 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
       "title": "The latest SemiAnalysis InferenceX data proves that the best performance drives the lowest inference cost - and that’s NVIDIA GB300 NVL72.",
       "url": "https://nitter.net/nvidia/status/2024891801195180224#m",
       "summary": "The latest SemiAnalysis InferenceX data proves that the best performance drives the lowest inference cost - and that’s NVIDIA GB300 NVL72.",
       "image": "https://nitter.net/pic/media%2FHBkGX3ZWwAAXwbD.jpg",
       "published": "Fri, 20 Feb 2026 17:00:00 GMT",
       "source": "X/@NVIDIA"
-    },
-    {
-      "title": "It's outright war for the Iron Throne in House of the Dragon S3 teaser https://arstechnica.com/culture/2026/02/its-outright-war-for-the-iron-throne-in-house-of-the-dragon-s3-teaser/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024888354006024334#m",
-      "summary": "It's outright war for the Iron Throne in House of the Dragon S3 teaser arstechnica.com/culture/2026…",
-      "image": "https://nitter.net/pic/card_img%2F2024931036212117504%2Fjt5AcPHL%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 16:46:18 GMT",
-      "source": "X/@arstechnica"
-    },
-    {
-      "title": "Pokémon Red and Green's GBA remakes are getting re-released on Switch for $20 a pop https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/?utm_campaign=dhtwitter&utm_content=%3Cmedia_url%3E&utm_medium=social&utm_source=twitter",
-      "url": "https://nitter.net/arstechnica/status/2024885584024797522#m",
-      "summary": "Pokémon Red and Green's GBA remakes are getting re-released on Switch for $20 a pop arstechnica.com/gaming/2026/…",
-      "image": "https://nitter.net/pic/card_img%2F2024885587719933952%2Fkliz5QJX%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 20 Feb 2026 16:35:18 GMT",
-      "source": "X/@arstechnica"
     },
     {
       "title": "Great meeting with PM @narendramodi today to talk about the incredible energy around AI in India.\n\nIndia is our fastest growing market for codex globally, up 4x  in weekly users in the past 2 weeks alone.\n\n🇮🇳!",
@@ -1496,22 +1416,6 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Chris Liddell has been appointed to Anthropic's Board of Directors.\n\nChris brings over 30 years of leadership experience, including as CFO of Microsoft and General Motors, and as Deputy Chief of Staff during the first Trump administration.\n\nRead more: https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
-      "url": "https://nitter.net/AnthropicAI/status/2022326252930318498#m",
-      "summary": "Chris Liddell has been appointed to Anthropic's Board of Directors. Chris brings over 30 years of leadership experience, including as CFO of Microsoft and General Motors, and as Deputy Chief of Staff during the first Trump administration. Read more: anthropic.com/news/chris-lid…",
-      "image": "https://nitter.net/pic/card_img%2F2025013038420819970%2FyR691uzy%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 13 Feb 2026 15:05:26 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
-      "title": "Anthropic is partnering with @CodePath, the US's largest collegiate computer science program, to bring Claude and Claude Code to 20,000+ students at community colleges, state schools, and HBCUs.\n\nRead more: https://www.anthropic.com/news/anthropic-codepath-partnership",
-      "url": "https://nitter.net/AnthropicAI/status/2022299804894712174#m",
-      "summary": "Anthropic is partnering with @CodePath , the US's largest collegiate computer science program, to bring Claude and Claude Code to 20,000+ students at community colleges, state schools, and HBCUs. Read more: anthropic.com/news/anthropic…",
-      "image": "https://nitter.net/pic/card_img%2F2022298704552603648%2F11Wd4B48%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Fri, 13 Feb 2026 13:20:20 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "Supercharge your X apps with Grok by unlocking free xAI API credits!\n\nFor every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend.\n\nDetails: https://docs.x.com/overview#pricing",
       "url": "https://nitter.net/xai/status/2019914112743219453#m",
       "summary": "Supercharge your X apps with Grok by unlocking free xAI API credits! For every dollar spent on X API credits, earn up to 20% back in xAI credits based on your cumulative spend. Details: docs.x.com/overview#pricing Developers (@XDevelopers) Officially launching X API Pay-Per-Use The core of X developers are indie builders, early stage products, startups, and hobbyists It’s time to open up our X API ecosystem and instill a new wave of next generation X apps We’re so back. developer.x.com — https://nitter.net/XDevelopers/status/2019881223666233717#m",
@@ -1533,14 +1437,6 @@
       "summary": "Video",
       "image": "https://nitter.net/pic/media%2FHAfaHfeaQAAZZ-y.jpg",
       "published": "Fri, 06 Feb 2026 17:16:33 GMT",
-      "source": "X/@OpenAI"
-    },
-    {
-      "title": "Over 300M people use ChatGPT to learn how to do something every week. \n\nMore than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. \n\nThese are just a few stories of what they are building.",
-      "url": "https://nitter.net/OpenAI/status/2019822532795547807#m",
-      "summary": "Over 300M people use ChatGPT to learn how to do something every week. More than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. These are just a few stories of what they are building. Video",
-      "image": "https://nitter.net/pic/media%2FHAfZ9lWaoAA47ME.png",
-      "published": "Fri, 06 Feb 2026 17:16:32 GMT",
       "source": "X/@OpenAI"
     }
   ],
