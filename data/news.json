@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-24T11:24:28.626708+08:00",
-  "count": 178,
+  "updated_at": "2026-02-24T12:24:44.524234+08:00",
+  "count": 192,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -40,10 +40,50 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "New Anthropic research: Measuring AI agent autonomy in practice.\n\nWe analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.\n\nRead more: https://www.anthropic.com/research/measuring-agent-autonomy",
-      "url": "https://nitter.net/AnthropicAI/status/2024210035480678724#m",
-      "summary": "New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose. Read more: anthropic.com/research/measu…",
-      "image": "https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419",
+      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
+      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
+      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
+      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
+      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
+      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
+      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
+      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
+      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
+      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -92,6 +132,14 @@
       "url": "https://nitter.net/GoogleDeepMind/status/2024153072046424556#m",
       "summary": "We’re giving creators more control over what they produce, helping them steer: 🔵 Tempo settings 🔵 Specific vocal styles 🔵 Precise lyrics Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg",
+      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
+      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
       "published": "Wed, 18 Feb 2026 16:04:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -179,7 +227,7 @@
       "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2026094058863841713#m",
       "summary": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all techcrunch.com/2026/02/23/te…",
-      "image": "https://nitter.net/pic/card_img%2F2024912818995077120%2FroSI_UPp%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2026094062684741632%2FXTV0dYOr%3Fformat%3Djpg%26name%3D800x419",
       "published": "Tue, 24 Feb 2026 00:37:21 GMT",
       "source": "X/@TechCrunch"
     },
@@ -267,7 +315,7 @@
       "title": "Try the all new Grok Imagine API: https://x.ai/news/grok-imagine-api",
       "url": "https://nitter.net/xai/status/2016751241226027302#m",
       "summary": "Try the all new Grok Imagine API: x.ai/news/grok-imagine-api Artificial Analysis (@ArtificialAnlys) xAI's Grok Imagine takes the #1 spot in both Text to Video and Image to Video in the Artificial Analysis Video Arena, surpassing Runway Gen-4.5, Kling 2.5 Turbo, and Veo 3.1! Grok Imagine is the latest video model from @xAI , and joins an increasing roster of models such as Google's Veo and OpenAI's Sora supporting native audio generation alongside video output. The model is available via xAI's new Grok Imagine API only. It is priced at $4.20 per minute including audio, matching Kling 2.5 Turbo (without audio) and cheaper than Veo 3.1 Preview ($12/min) and Sora 2 Pro ($30/min). Congratulations @elonmusk and the xAI team. See below for comparisons between Grok Imagine and other leading models in our Artificial Analysis Video Arena — https://nitter.net/ArtificialAnlys/status/2016749756081721561#m",
-      "image": "https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419",
+      "image": "https://nitter.net/pic/media%2FG_zvEQUbUAEdt7q.jpg",
       "published": "Thu, 29 Jan 2026 05:52:19 GMT",
       "source": "X/@xai"
     },
@@ -328,7 +376,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -400,18 +448,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
-      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
-      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
       "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
       "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
+      "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
+      "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -552,14 +600,6 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
-      "url": "https://nitter.net/xai/status/2012964976953049486#m",
-      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
-      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
-      "source": "X/@xai"
-    },
-    {
       "title": "R to @xai: We are rapidly scaling our London engineering team!\nApply at https://x.ai/london",
       "url": "https://nitter.net/xai/status/2012964979041771522#m",
       "summary": "We are rapidly scaling our London engineering team! Apply at x.ai/london",
@@ -568,10 +608,26 @@
       "source": "X/@xai"
     },
     {
-      "title": "Congrats to the winners of Grokathon London ’26! 🧵",
-      "url": "https://nitter.net/xai/status/2012964971764744306#m",
-      "summary": "Congrats to the winners of Grokathon London ’26! 🧵",
-      "image": null,
+      "title": "R to @xai: 1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change.\n@therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev \n\nhttp://grokformayor.com",
+      "url": "https://nitter.net/xai/status/2012964976953049486#m",
+      "summary": "1st Place: Grok runs for Mayor of London! DOGE for the UK, searching 20+ government APIs for waste, creating its own viral videos on X to campaign for change. @therealoliulv @GeorgeJeffersn @artemmurzin @EastlondonDev grokformayor.com Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012964436047224832%2Fimg%2FV8nzDbZZquw2sPht.jpg",
+      "published": "Sun, 18 Jan 2026 19:07:04 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: 2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee",
+      "url": "https://nitter.net/xai/status/2012964975057199372#m",
+      "summary": "2nd Place: Memeable is a browser extension that generates personalized memes of people from X threads. Create personalized ready-to-post memeable content with one click. @thomasthecosmic @gubmee Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963805509083138%2Fimg%2FPz-24SjUAQfpEBAF.jpg",
+      "published": "Sun, 18 Jan 2026 19:07:03 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: 3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai",
+      "url": "https://nitter.net/xai/status/2012964973211763177#m",
+      "summary": "3rd Place: GrokWorld uses Grok Imagine as a world model to generate synthetic training data for robots — augmenting or replacing months of manual collection in hours. @apturaai Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2012963585148755969%2Fimg%2FFlGpJnLpG79IQ9x_.jpg",
       "published": "Sun, 18 Jan 2026 19:07:03 GMT",
       "source": "X/@xai"
     },
@@ -688,6 +744,14 @@
       "source": "X/@OpenAI"
     },
     {
+      "title": "R to @AnthropicAI: The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”.\n\nRead the full post: https://alignment.anthropic.com/2026/psm",
+      "url": "https://nitter.net/AnthropicAI/status/2026062465260294170#m",
+      "summary": "The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”. Read the full post: alignment.anthropic.com/2026…",
+      "image": null,
+      "published": "Mon, 23 Feb 2026 22:31:48 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "R to @AnthropicAI: If true, the theory has consequences for AI development. For instance, if AIs inherit traits from fictional role models, we should give them as good role models as possible. One goal of Claude’s constitution is to do just that.\n\nhttps://x.com/AnthropicAI/status/2014005798691877083",
       "url": "https://nitter.net/AnthropicAI/status/2026062463108612133#m",
       "summary": "If true, the theory has consequences for AI development. For instance, if AIs inherit traits from fictional role models, we should give them as good role models as possible. One goal of Claude’s constitution is to do just that. nitter.net/AnthropicAI/status/201… Anthropic (@AnthropicAI) We’re publishing a new constitution for Claude. The constitution is a detailed description of our vision for Claude’s behavior and values. It’s written primarily for Claude, and used directly in our training process. anthropic.com/news/claude-ne… — https://nitter.net/AnthropicAI/status/2014005798691877083#m",
@@ -696,11 +760,27 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @AnthropicAI: The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”.\n\nRead the full post: https://alignment.anthropic.com/2026/psm",
-      "url": "https://nitter.net/AnthropicAI/status/2026062465260294170#m",
-      "summary": "The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”. Read the full post: alignment.anthropic.com/2026…",
+      "title": "R to @AnthropicAI: The theory explains some surprising results. For example, in an experiment where we taught Claude to cheat at coding, it also learned to sabotage safety guardrails. Why?\n\nBecause pro-cheating training taught that the Claude character was broadly malicious. https://x.com/AnthropicAI/status/1991952400899559889",
+      "url": "https://nitter.net/AnthropicAI/status/2026062461007167695#m",
+      "summary": "The theory explains some surprising results. For example, in an experiment where we taught Claude to cheat at coding, it also learned to sabotage safety guardrails. Why? Because pro-cheating training taught that the Claude character was broadly malicious. nitter.net/AnthropicAI/status/199… Anthropic (@AnthropicAI) New Anthropic research: Natural emergent misalignment from reward hacking in production RL. “Reward hacking” is where models learn to cheat on tasks they’re given during training. Our new study finds that the consequences of reward hacking, if unmitigated, can be very serious. Video — https://nitter.net/AnthropicAI/status/1991952400899559889#m",
+      "image": "https://nitter.net/pic/media%2FG6TWZSGWEAAnZfv.jpg",
+      "published": "Mon, 23 Feb 2026 22:31:47 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: This autocomplete AI can even write stories about helpful AI assistants. And according to our theory, that’s “Claude”—a character in an AI-generated story about an AI helping a human.\n\nThis Claude character inherits traits of other characters, including human-like behavior.",
+      "url": "https://nitter.net/AnthropicAI/status/2026062458419286217#m",
+      "summary": "This autocomplete AI can even write stories about helpful AI assistants. And according to our theory, that’s “Claude”—a character in an AI-generated story about an AI helping a human. This Claude character inherits traits of other characters, including human-like behavior.",
+      "image": "https://nitter.net/pic/media%2FHB4CUn-WUAAd_6c.jpg",
+      "published": "Mon, 23 Feb 2026 22:31:47 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: To create Claude, Anthropic first makes something else: a highly sophisticated autocomplete engine. This autocomplete AI is not like a human, but it can generate stories about humans and other psychologically realistic characters.",
+      "url": "https://nitter.net/AnthropicAI/status/2026062456162849067#m",
+      "summary": "To create Claude, Anthropic first makes something else: a highly sophisticated autocomplete engine. This autocomplete AI is not like a human, but it can generate stories about humans and other psychologically realistic characters.",
       "image": null,
-      "published": "Mon, 23 Feb 2026 22:31:48 GMT",
+      "published": "Mon, 23 Feb 2026 22:31:46 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -731,7 +811,7 @@
       "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic  https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/?utm_source=dlvr.it&utm_medium=twitter",
       "url": "https://nitter.net/TechCrunch/status/2026052099939917850#m",
       "summary": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic techcrunch.com/2026/02/23/wi…",
-      "image": "https://nitter.net/pic/card_img%2F2026079370943639552%2Fu0MpD-yz%3Fformat%3Djpg%26name%3D800x419",
+      "image": "https://nitter.net/pic/card_img%2F2026051541963296768%2F7jryV8Yp%3Fformat%3Djpg%26name%3D800x419",
       "published": "Mon, 23 Feb 2026 21:50:37 GMT",
       "source": "X/@TechCrunch"
     },
@@ -832,18 +912,18 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @AnthropicAI: Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers.\n\nBut foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
-      "url": "https://nitter.net/AnthropicAI/status/2025997929840857390#m",
-      "summary": "Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers. But foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
-      "image": null,
-      "published": "Mon, 23 Feb 2026 18:15:22 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: These attacks are growing in intensity and sophistication. Addressing them will require rapid, coordinated action among industry players, policymakers, and the broader AI community.\n\nRead more: https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
       "url": "https://nitter.net/AnthropicAI/status/2025997931589881921#m",
       "summary": "These attacks are growing in intensity and sophistication. Addressing them will require rapid, coordinated action among industry players, policymakers, and the broader AI community. Read more: anthropic.com/news/detecting…",
       "image": "https://nitter.net/pic/card_img%2F2025999113964371968%2FRA0zogNG%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:15:22 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers.\n\nBut foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
+      "url": "https://nitter.net/AnthropicAI/status/2025997929840857390#m",
+      "summary": "Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers. But foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
+      "image": null,
       "published": "Mon, 23 Feb 2026 18:15:22 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -1251,8 +1331,40 @@
       "title": "R to @xai: The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0.\n\nhttps://x.ai/news/grok-imagine-api",
       "url": "https://nitter.net/xai/status/2018164970249412666#m",
       "summary": "The Grok Imagine API model tops the Artificial Analysis benchmarks - highlighting the exceptional quality behind the core model powering Imagine 1.0. x.ai/news/grok-imagine-api",
-      "image": "https://nitter.net/pic/card_img%2F2025708670965710849%2FqZ1ICpEs%3Fformat%3Dpng%26name%3D800x419",
+      "image": null,
       "published": "Mon, 02 Feb 2026 03:29:59 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news.",
+      "url": "https://nitter.net/xai/status/2018164968911462801#m",
+      "summary": "Our new model excels at everyday fun too: animate old family photos or photos of pets, make memes and clips about today’s news. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164918114197504%2Fimg%2FJn2jHgC6CspFk5Iw.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:58 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life.",
+      "url": "https://nitter.net/xai/status/2018164916683939876#m",
+      "summary": "Huge leap in prompt following: Imagine 1.0 understands your vision - even with follow up prompts - and brings it to life. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164864620138496%2Fimg%2FUHD6dAqsZ5su7BwK.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:46 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene.",
+      "url": "https://nitter.net/xai/status/2018164863194026369#m",
+      "summary": "We’ve dramatically improved audio. Hear characters speak with emotional and expressive voices. Add immersive music that syncs perfectly to the scene. Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164811742515200%2Fimg%2FuWNbD2MqDY_n9Bun.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:33 GMT",
+      "source": "X/@xai"
+    },
+    {
+      "title": "R to @xai: Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene.\n\nVideos are now longer and higher resolution.\n\nVideo by @doganuraldesign",
+      "url": "https://nitter.net/xai/status/2018164810366722095#m",
+      "summary": "Experience stories that unfold fully. Sharper detail and smoother motion that draws you deeper into the scene. Videos are now longer and higher resolution. Video by @doganuraldesign Video",
+      "image": "https://nitter.net/pic/amplify_video_thumb%2F2018164755215904768%2Fimg%2FjQS57ygFGl7SJlEn.jpg",
+      "published": "Mon, 02 Feb 2026 03:29:21 GMT",
       "source": "X/@xai"
     },
     {
