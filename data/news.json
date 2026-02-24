@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-24T13:26:12.807364+08:00",
-  "count": 179,
+  "updated_at": "2026-02-24T14:26:29.906443+08:00",
+  "count": 186,
   "source_instance": "https://nitter.net",
   "accounts": [
     "OpenAI",
@@ -40,10 +40,50 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "New Anthropic research: Measuring AI agent autonomy in practice.\n\nWe analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose.\n\nRead more: https://www.anthropic.com/research/measuring-agent-autonomy",
-      "url": "https://nitter.net/AnthropicAI/status/2024210035480678724#m",
-      "summary": "New Anthropic research: Measuring AI agent autonomy in practice. We analyzed millions of interactions across Claude Code and our API to understand how much autonomy people grant to agents, where they’re deployed, and what risks they may pose. Read more: anthropic.com/research/measu…",
-      "image": "https://nitter.net/pic/card_img%2F2024353616975249408%2Fe_ZnHOue%3Fformat%3Djpg%26name%3D800x419",
+      "title": "R to @AnthropicAI: Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible.\n\nBut at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "url": "https://nitter.net/AnthropicAI/status/2024210050718585017#m",
+      "summary": "Most agent actions on our API are low risk. 73% of tool calls appear to have a human in the loop, and only 0.8% are irreversible. But at the frontier, we see agents acting on security systems, financial transactions, and production deployments (though some may be evals).",
+      "image": "https://nitter.net/pic/media%2FHBdvKxta0AAeFg-.jpg",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Claude Code also encourages oversight by stopping to ask questions.\n\nOn complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210048516575324#m",
+      "summary": "Claude Code also encourages oversight by stopping to ask questions. On complex tasks, Claude Code pauses for clarification more than twice as often as humans interrupt it. Training models to recognize uncertainty is an important, under-appreciated safety property.",
+      "image": "https://nitter.net/pic/media%2FHBdu881aYAAP-S-.png",
+      "published": "Wed, 18 Feb 2026 19:50:58 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users.\n\nThis suggests a shift from approving each action to delegating and interrupting when needed.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210044917891361#m",
+      "summary": "But interruptions also increase with experience. New users interrupt Claude Code in 5% of turns, compared to 9% for more experienced users. This suggests a shift from approving each action to delegating and interrupting when needed.",
+      "image": "https://nitter.net/pic/media%2FHBdu39ObUAMdED8.png",
+      "published": "Wed, 18 Feb 2026 19:50:57 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: As users gain experience, their oversight strategy shifts.\n\nNew users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210041684054238#m",
+      "summary": "As users gain experience, their oversight strategy shifts. New users approve each action individually. By 750 sessions, over 40% of sessions are fully auto-approved.",
+      "image": "https://nitter.net/pic/media%2FHBduzSbbUAE4UUc.png",
+      "published": "Wed, 18 Feb 2026 19:50:56 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading.\n\nIn three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210038336999550#m",
+      "summary": "Most Claude Code turns are short (median ~45 seconds). But the longest turns show where autonomy is heading. In three months, the 99.9th percentile turn duration nearly doubled, from under 25 minutes to over 45 minutes. This growth is smooth across model releases.",
+      "image": "https://nitter.net/pic/media%2FHBduusebUAU6Jx5.png",
+      "published": "Wed, 18 Feb 2026 19:50:55 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. \n\nUnderstanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "url": "https://nitter.net/AnthropicAI/status/2024210036797690328#m",
+      "summary": "Agents are already being deployed across contexts that range from e-mail triage to cybersecurity research. Understanding this spectrum is critical for safe deployment, yet we know surprisingly little about how people actually use agents in the real world.",
+      "image": null,
       "published": "Wed, 18 Feb 2026 19:50:55 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -92,14 +132,6 @@
       "url": "https://nitter.net/GoogleDeepMind/status/2024153072046424556#m",
       "summary": "We’re giving creators more control over what they produce, helping them steer: 🔵 Tempo settings 🔵 Specific vocal styles 🔵 Precise lyrics Video",
       "image": "https://nitter.net/pic/amplify_video_thumb%2F2024151018322145281%2Fimg%2FqubzzpOobIRa-Gus.jpg",
-      "published": "Wed, 18 Feb 2026 16:04:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
-      "title": "R to @GoogleDeepMind: Here’s how we’re taking Lyria to the next level:\n🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks.\n🔵 Realistic vocals that sound natural and expressive.\n🔵 Lyrical clarity without missing or jumbled words.\n🔵 Diverse range supporting multiple genres and languages.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2024153069919813993#m",
-      "summary": "Here’s how we’re taking Lyria to the next level: 🔵 High-fidelity audio with crystal-clear 48kHz stereo tracks. 🔵 Realistic vocals that sound natural and expressive. 🔵 Lyrical clarity without missing or jumbled words. 🔵 Diverse range supporting multiple genres and languages. Video",
-      "image": "https://nitter.net/pic/amplify_video_thumb%2F2024150871722840064%2Fimg%2FM6ut6ccLfLWCiF86.jpg",
       "published": "Wed, 18 Feb 2026 16:04:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -166,6 +198,14 @@
       "image": null,
       "published": "Wed, 11 Feb 2026 05:15:05 GMT",
       "source": "X/@sama"
+    },
+    {
+      "title": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/?utm_source=dlvr.it&utm_medium=twitter",
+      "url": "https://nitter.net/TechCrunch/status/2026168786844570035#m",
+      "summary": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments techcrunch.com/2026/02/23/st…",
+      "image": "https://nitter.net/pic/card_img%2F2026168636914737152%2FmICCdnYC%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Tue, 24 Feb 2026 05:34:17 GMT",
+      "source": "X/@TechCrunch"
     },
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox  https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/?utm_source=dlvr.it&utm_medium=twitter",
@@ -336,7 +376,7 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "Pinned: Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+      "title": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2024516464892334129#m",
       "summary": "Gemini 3.1 Pro is here. We’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
       "image": null,
@@ -408,18 +448,18 @@
       "source": "X/@GoogleDeepMind"
     },
     {
-      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
-      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
-      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
-      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
-      "source": "X/@GoogleDeepMind"
-    },
-    {
       "title": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠\n\nWatch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵",
       "url": "https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
       "summary": "We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video",
       "image": "https://nitter.net/pic/media%2FHA-GdlHWIAkrHzf.jpg",
+      "published": "Thu, 12 Feb 2026 16:15:33 GMT",
+      "source": "X/@GoogleDeepMind"
+    },
+    {
+      "title": "R to @GoogleDeepMind: The latest Deep Think moves beyond abstract theory to drive practical applications.\n\nIt’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning.\n\nOn Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis.\n\nIt achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "url": "https://nitter.net/GoogleDeepMind/status/2021981512925585703#m",
+      "summary": "The latest Deep Think moves beyond abstract theory to drive practical applications. It’s state-of-the-art on ARC-AGI-2, a benchmark for frontier AI reasoning. On Humanity’s Last Exam, it sets a new standard, tackling the hardest problems across mathematics, science, and engineering — making it a genuine collaborator for heavy-duty analysis. It achieved an Elo of 3455 on Codeforces, demonstrating the ability to solve complex, real-world coding tasks - while earning gold medal-level results on the written portion of the 2025 Physics and Chemistry Olympiads.",
+      "image": "https://nitter.net/pic/media%2FHA-DcI3XgAARAeF.png",
       "published": "Thu, 12 Feb 2026 16:15:33 GMT",
       "source": "X/@GoogleDeepMind"
     },
@@ -438,14 +478,6 @@
       "image": "https://nitter.net/pic/media%2FHAWnU70b0AAyHuM.jpg",
       "published": "Thu, 05 Feb 2026 00:21:59 GMT",
       "source": "X/@xai"
-    },
-    {
-      "title": "Apple might take a new approach to announcing its next products https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/?utm_source=dlvr.it&utm_medium=twitter",
-      "url": "https://nitter.net/TechCrunch/status/2025710091568353346#m",
-      "summary": "Apple might take a new approach to announcing its next products techcrunch.com/2026/02/22/ap…",
-      "image": "https://nitter.net/pic/card_img%2F2025762541054607361%2FWD_q1zqC%3Fformat%3Djpg%26name%3D800x419",
-      "published": "Sun, 22 Feb 2026 23:11:36 GMT",
-      "source": "X/@TechCrunch"
     },
     {
       "title": "Samsung is adding Perplexity to Galaxy AI https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
@@ -696,6 +728,14 @@
       "source": "X/@OpenAI"
     },
     {
+      "title": "R to @AnthropicAI: The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”.\n\nRead the full post: https://alignment.anthropic.com/2026/psm",
+      "url": "https://nitter.net/AnthropicAI/status/2026062465260294170#m",
+      "summary": "The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”. Read the full post: alignment.anthropic.com/2026…",
+      "image": null,
+      "published": "Mon, 23 Feb 2026 22:31:48 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
       "title": "R to @AnthropicAI: If true, the theory has consequences for AI development. For instance, if AIs inherit traits from fictional role models, we should give them as good role models as possible. One goal of Claude’s constitution is to do just that.\n\nhttps://x.com/AnthropicAI/status/2014005798691877083",
       "url": "https://nitter.net/AnthropicAI/status/2026062463108612133#m",
       "summary": "If true, the theory has consequences for AI development. For instance, if AIs inherit traits from fictional role models, we should give them as good role models as possible. One goal of Claude’s constitution is to do just that. nitter.net/AnthropicAI/status/201… Anthropic (@AnthropicAI) We’re publishing a new constitution for Claude. The constitution is a detailed description of our vision for Claude’s behavior and values. It’s written primarily for Claude, and used directly in our training process. anthropic.com/news/claude-ne… — https://nitter.net/AnthropicAI/status/2014005798691877083#m",
@@ -704,11 +744,27 @@
       "source": "X/@AnthropicAI"
     },
     {
-      "title": "R to @AnthropicAI: The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”.\n\nRead the full post: https://alignment.anthropic.com/2026/psm",
-      "url": "https://nitter.net/AnthropicAI/status/2026062465260294170#m",
-      "summary": "The persona selection model might not be a complete account of AI model behavior. But we think it’s at least part of the story—with an emphasis on the “story”. Read the full post: alignment.anthropic.com/2026…",
+      "title": "R to @AnthropicAI: The theory explains some surprising results. For example, in an experiment where we taught Claude to cheat at coding, it also learned to sabotage safety guardrails. Why?\n\nBecause pro-cheating training taught that the Claude character was broadly malicious. https://x.com/AnthropicAI/status/1991952400899559889",
+      "url": "https://nitter.net/AnthropicAI/status/2026062461007167695#m",
+      "summary": "The theory explains some surprising results. For example, in an experiment where we taught Claude to cheat at coding, it also learned to sabotage safety guardrails. Why? Because pro-cheating training taught that the Claude character was broadly malicious. nitter.net/AnthropicAI/status/199… Anthropic (@AnthropicAI) New Anthropic research: Natural emergent misalignment from reward hacking in production RL. “Reward hacking” is where models learn to cheat on tasks they’re given during training. Our new study finds that the consequences of reward hacking, if unmitigated, can be very serious. Video — https://nitter.net/AnthropicAI/status/1991952400899559889#m",
+      "image": "https://nitter.net/pic/media%2FG6TWZSGWEAAnZfv.jpg",
+      "published": "Mon, 23 Feb 2026 22:31:47 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: This autocomplete AI can even write stories about helpful AI assistants. And according to our theory, that’s “Claude”—a character in an AI-generated story about an AI helping a human.\n\nThis Claude character inherits traits of other characters, including human-like behavior.",
+      "url": "https://nitter.net/AnthropicAI/status/2026062458419286217#m",
+      "summary": "This autocomplete AI can even write stories about helpful AI assistants. And according to our theory, that’s “Claude”—a character in an AI-generated story about an AI helping a human. This Claude character inherits traits of other characters, including human-like behavior.",
+      "image": "https://nitter.net/pic/media%2FHB4CUn-WUAAd_6c.jpg",
+      "published": "Mon, 23 Feb 2026 22:31:47 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: To create Claude, Anthropic first makes something else: a highly sophisticated autocomplete engine. This autocomplete AI is not like a human, but it can generate stories about humans and other psychologically realistic characters.",
+      "url": "https://nitter.net/AnthropicAI/status/2026062456162849067#m",
+      "summary": "To create Claude, Anthropic first makes something else: a highly sophisticated autocomplete engine. This autocomplete AI is not like a human, but it can generate stories about humans and other psychologically realistic characters.",
       "image": null,
-      "published": "Mon, 23 Feb 2026 22:31:48 GMT",
+      "published": "Mon, 23 Feb 2026 22:31:46 GMT",
       "source": "X/@AnthropicAI"
     },
     {
@@ -840,18 +896,18 @@
       "source": "X/@WIRED"
     },
     {
-      "title": "R to @AnthropicAI: Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers.\n\nBut foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
-      "url": "https://nitter.net/AnthropicAI/status/2025997929840857390#m",
-      "summary": "Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers. But foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
-      "image": null,
-      "published": "Mon, 23 Feb 2026 18:15:22 GMT",
-      "source": "X/@AnthropicAI"
-    },
-    {
       "title": "R to @AnthropicAI: These attacks are growing in intensity and sophistication. Addressing them will require rapid, coordinated action among industry players, policymakers, and the broader AI community.\n\nRead more: https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
       "url": "https://nitter.net/AnthropicAI/status/2025997931589881921#m",
       "summary": "These attacks are growing in intensity and sophistication. Addressing them will require rapid, coordinated action among industry players, policymakers, and the broader AI community. Read more: anthropic.com/news/detecting…",
       "image": "https://nitter.net/pic/card_img%2F2025999113964371968%2FRA0zogNG%3Fformat%3Djpg%26name%3D800x419",
+      "published": "Mon, 23 Feb 2026 18:15:22 GMT",
+      "source": "X/@AnthropicAI"
+    },
+    {
+      "title": "R to @AnthropicAI: Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers.\n\nBut foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
+      "url": "https://nitter.net/AnthropicAI/status/2025997929840857390#m",
+      "summary": "Distillation can be legitimate: AI labs use it to create smaller, cheaper models for their customers. But foreign labs that illicitly distill American models can remove safeguards, feeding model capabilities into their own military, intelligence, and surveillance systems.",
+      "image": null,
       "published": "Mon, 23 Feb 2026 18:15:22 GMT",
       "source": "X/@AnthropicAI"
     },
@@ -1363,7 +1419,7 @@
       "title": "R to @OpenAI: Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. \n\nWe welcome feedback from the community. https://arxiv.org/abs/2602.12176",
       "url": "https://nitter.net/OpenAI/status/2022390104237707667#m",
       "summary": "Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. We welcome feedback from the community. arxiv.org/abs/2602.12176",
-      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2FB9C0_h8D%3Fformat%3Djpg%26name%3D420x420_2",
+      "image": "https://nitter.net/pic/card_img%2F2023872634341990400%2FWXcVz4BI%3Fformat%3Djpg%26name%3D420x420_2",
       "published": "Fri, 13 Feb 2026 19:19:09 GMT",
       "source": "X/@OpenAI"
     },
